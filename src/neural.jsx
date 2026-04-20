@@ -408,8 +408,8 @@ function BrainDiagram({ activeConditions = [], onRegionClick, highlightedRegion 
   };
 
   const img = view === "sagittal"
-    ? { src: (window.BRAIN_IMG && window.BRAIN_IMG.sagittal) || "assets/brain-sagittal.jpg", w: 1344, h: 896 }
-    : { src: (window.BRAIN_IMG && window.BRAIN_IMG.top) || "assets/brain-top.jpg",      w: 1024, h: 1024 };
+    ? { src: (window.BRAIN_IMG && window.BRAIN_IMG.sagittal) || "/assets/brain-sagittal.jpg", w: 1344, h: 896 }
+    : { src: (window.BRAIN_IMG && window.BRAIN_IMG.top) || "/assets/brain-top.jpg",      w: 1024, h: 1024 };
 
   const hotspots = HOTSPOTS[view];
   const entries = Object.entries(BRAIN_REGIONS)
