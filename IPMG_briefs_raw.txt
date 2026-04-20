@@ -1,0 +1,3243 @@
+NP FADY · PMHNP-BC
+Where Science Meets the Soul
+APRIL 2026
+CORRECTED EDITION v2.0
+IPMG
+Deep-Research
+Study Briefs
+— 2026 RECRUITMENT LIBRARY —
+33 ACTIVE PROTOCOLS · 4 SITES
+Chino (18) · Redlands (3) · Temecula (7) · San Juan Capistrano (5)
+PREPARED FOR
+Fady Boules, PMHNP-BC
+Lead Psychiatric Nurse Practitioner · Inland Psychiatric Medical Group
+"Where Science Meets the Soul."
+— Fady Boules, PMHNP-BC
+IPMG RESEARCH · (909) 955-5865
+NPFADY.COM
+
+-- 1 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 2
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+Executive Summary
+2026 Recruitment Library · Corrected Edition
+Thirty-three active protocols span four IPMG sites — Chino (18), Redlands (3), Temecula (7), and San Juan
+Capistrano (5) — forming the 2026 recruitment library.
+Coverage includes Major Depressive Disorder (monotherapy, adjunct, TRD, and biomarker-matched),
+Bipolar I and II depression and mania, Schizophrenia (adult and adolescent), Alzheimer's psychosis and
+agitation, Post-Traumatic Stress Disorder, Generalized Anxiety Disorder, Binge Eating Disorder, Tardive
+Dyskinesia, pediatric bipolar, pediatric schizophrenia, autism irritability, and psychedelic / neuroplastogen
+programs (psilocybin, methylone).
+Each study brief follows an 18-section format: Identification, Hook, Unmet Need, At-a-Glance, Why This
+Study Exists, Mechanism of Action, Study Design Deep Dive, Recruit If, Stop/Exclude, Ideal Patient Profile,
+eCW + ICD-10 search plan, Competitive Landscape, Risk/Benefit, Why This Matters for a Large Psychiatric
+Group, Provider Talk Track, 3-Step Recruit Move, Final CTA, and Sources.
+Screening for every protocol routes through IPMG Research at (909) 955-5865.
+This library is a working reference. Each brief ends with a specific comment code and a one-week screening
+ask. Save it, screen one patient per study per week, and the aggregate enrollment contribution across 33
+protocols becomes category-defining for Southern California psychiatric research.
+n 2026 CORRECTION
+v2.0 CORRECTIONS APPLIED: This edition contains eight factual corrections to study designs, eligibility criteria,
+target enrollment numbers, and sponsor attributions relative to v1.0. Corrected studies are flagged inline with an
+orange n 2026 CORRECTION callout. Affected studies: 02 (NORLIGHT — TRD adjunct, not monotherapy), 03
+(ALTOBIP — 6-week DB with 7-week OLE), 04 (CLARITY — randomized-withdrawal with OL lead-in), 08 (BALSAM
+— strictly adjunctive to Li/VPA/LTG), 14 (M4OLE — emraclidine is AbbVie), 24 (KORMDD — N~195, excludes ≥3 AD
+failures), 28 (DREEM3S — age 18–74), 30 (EMBRACE — N~330, 8/16 mg 3-arm).
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul.
+
+-- 2 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 3
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+Table of Contents
+33 Active Protocols · 4 Sites
+CHINO · 18 STUDIES
+01 Cariprazine (Vraylar) in Pediatric Bipolar I Depression YOUTHLIFT NCT04777357
+02 ACP-211 in MDD (NORLIGHT) NORLIGHT NCT07284667
+03 ALTO-100 in Bipolar Depression ALTOBIP NCT06656416
+04 Solriamfetol in MDD + Excessive Daytime Sleepiness
+(CLARITY)
+CLARITY NCT07484217
+05 BHV-7000 in MDD — Long-Term Safety BHVLTS NCT06423781
+06 BHV-7000 MDD Monotherapy BHVMONO NCT06419608
+07 KarXT in Adolescent Schizophrenia COBENTEEN NCT07288567
+08 KarXT BALSAM-4 in Bipolar I Mania BALSAM NCT07140913
+09 KarXT ADEPT-4 in Alzheimer's Psychosis ADEPT4 NCT06585787
+10 KarXT + KarX-EC ADEPT-5 in Alzheimer's Psychosis ADEPT5 NCT06947941
+11 BMS-986368 for Agitation in Alzheimer's CALM45 NCT06808984
+12 NBI-1065845 (Osavampator) Adjunctive MDD SAVITRI3 NCT06963021
+13 NBI-1065890 in Tardive Dyskinesia NEXTVMAT NCT07365462
+14 NBI-1117568 Schizophrenia Open-Label Extension M4OLE NCT07114874
+15 Valbenazine TD4027 Residual TD RESIDUALTD NCT07105111
+16 SPT-300 (GlyphAllo) MDD with Anxious Distress — BUOY-1 BUOY1 NCT07065240
+17 SPT-300 MDD Open-Label Extension BUOYOLE NCT07161700
+18 RAP-219 in Bipolar I RAPBP NCT07046494
+REDLANDS · 3 STUDIES
+19 Lumateperone Pediatric SCZ / Bipolar / Autism Safety LUMAPED NCT06229210
+20 Lumateperone Pediatric Bipolar Depression LUMABIP NCT06372964
+
+-- 3 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 4
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+21 Lumateperone Pediatric Autism Irritability LUMAAUT NCT06690398
+TEMECULA · 7 STUDIES
+22 ABBV-932 Adjunctive Generalized Anxiety Disorder M4GAD NCT06846320
+23 ABBV-932 Bipolar Depression M4BP NCT07220460
+24 Icalcaprant (ABBV-987) MDD KORMDD NCT07276997
+25 ALTO-300 Adjunctive MDD (Biomarker-Matched) EEG300 NCT05922878
+26 SPN-821 MDD MTORCMDD NCT07226661
+27 JNJ-89495120 MOONLIGHT-1 MDD MOONLIGHT NCT06785012
+28 Seltorexant (JNJ-42847922) MDD + Insomnia — Sleep EEG
+Observational
+DREEM3S NCT07258485
+SAN JUAN CAPISTRANO · 5 STUDIES
+29 CYB003 APPROACH Phase 3 MDD APPROACH NCT06564818
+30 CYB003 EMBRACE Phase 3 MDD EMBRACE NCT06793397
+31 CYB003 EXTEND Open-Label Extension MDD EXTEND NCT06605105
+32 Solriamfetol in Binge Eating Disorder — ENGAGE ENGAGE NCT06413433
+33 TSND-201 (Methylone) in PTSD — EMPOWER-1 EMPOWER1 NCT07456696
+
+-- 4 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 5
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+What Changed in v2.0
+Eight factual corrections from v1.0 of the 2026 library
+STUDY 02 · NORLIGHT (ACP-211 in MDD)
+Corrected to TRD adjunct design. Patients must currently be on an approved antidepressant AND have
+documented history of ≥2 prior antidepressant failures in the current episode. AD-naive and washed-out
+patients are NOT eligible. Recruiting the right patients requires searching FOR refractory cases — not
+screening them out.
+STUDY 03 · ALTOBIP (ALTO-100 in Bipolar Depression)
+Corrected to 6-week double-blind period (not 8 weeks) with primary MADRS endpoint at Week 6, followed
+by an open-label period of up to 7 weeks.
+STUDY 04 · CLARITY (Solriamfetol MDD + EDS)
+Corrected to randomized-withdrawal design with open-label lead-in. All eligible participants FIRST
+receive open-label solriamfetol. Only responders are then randomized 1:1 to continue drug or withdraw to
+placebo. Every patient is guaranteed active drug at the start — a material pitch point.
+STUDY 08 · BALSAM (KarXT BALSAM-4 in Bipolar I Mania)
+Corrected to strictly adjunctive design. Patients MUST currently be on — and remain on throughout the
+trial — lithium, valproate, or lamotrigine. KarXT or placebo is added on top. Do NOT screen patients
+looking to switch off their mood stabilizer.
+STUDY 14 · M4OLE (NBI-1117568 Schizophrenia OLE)
+Corrected sponsor attribution: emraclidine is an AbbVie asset (acquired via the $8.7B Cerevel deal), NOT
+a Bristol Myers Squibb asset. BMS owns the competitor, KarXT (Cobenfy). Emraclidine failed its Phase 2
+schizophrenia trials in November 2024.
+STUDY 24 · KORMDD (Icalcaprant MDD)
+Corrected target enrollment to ~195 (not ~500). Corrected exclusion criterion: patients are excluded only
+for ≥3 prior antidepressant failures. Patients with exactly 2 prior failures ARE eligible — the v1.0 brief
+would have screened them out incorrectly.
+STUDY 28 · DREEM3S (Seltorexant Sleep EEG)
+
+-- 5 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 6
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+Corrected age range to 18–74 (not 18–65). Older adults up to age 74 are eligible, substantially broadening
+the eligible pool.
+STUDY 30 · EMBRACE (CYB003 Phase 3 MDD)
+Corrected target N to ~330 (not ~220) and doses to 8 mg and 16 mg (not 12/16 mg — the latter was
+APPROACH). EMBRACE is a 3-arm study (placebo vs 8 mg vs 16 mg) randomized 1:1:1, not a mirror of
+APPROACH.
+
+-- 6 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 7
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+SITE
+Chino
+18 active protocols · 2026
+01 Cariprazine (Vraylar) in Pediatric Bipolar I Depression YOUTHLIFT
+02 ACP-211 in MDD (NORLIGHT) NORLIGHT
+03 ALTO-100 in Bipolar Depression ALTOBIP
+04 Solriamfetol in MDD + Excessive Daytime Sleepiness (CLARITY) CLARITY
+05 BHV-7000 in MDD — Long-Term Safety BHVLTS
+06 BHV-7000 MDD Monotherapy BHVMONO
+07 KarXT in Adolescent Schizophrenia COBENTEEN
+08 KarXT BALSAM-4 in Bipolar I Mania BALSAM
+09 KarXT ADEPT-4 in Alzheimer's Psychosis ADEPT4
+10 KarXT + KarX-EC ADEPT-5 in Alzheimer's Psychosis ADEPT5
+11 BMS-986368 for Agitation in Alzheimer's CALM45
+12 NBI-1065845 (Osavampator) Adjunctive MDD SAVITRI3
+13 NBI-1065890 in Tardive Dyskinesia NEXTVMAT
+14 NBI-1117568 Schizophrenia Open-Label Extension M4OLE
+
+-- 7 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 8
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+15 Valbenazine TD4027 Residual TD RESIDUALTD
+16 SPT-300 (GlyphAllo) MDD with Anxious Distress — BUOY-1 BUOY1
+17 SPT-300 MDD Open-Label Extension BUOYOLE
+18 RAP-219 in Bipolar I RAPBP
+
+-- 8 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 9
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+CHINO · STUDY 01 · COMMENT CODE YOUTHLIFT
+Cariprazine (Vraylar) in Pediatric Bipolar I
+Depression
+PROTOCOL
+3112-301-001
+NCT
+NCT04777357
+SPONSOR
+AbbVie / Allergan
+SITE
+Chino
+COMMENT CODE
+YOUTHLIFT
+1 · THE HOOK
+STILL watching a 13-year-old sink into bipolar depression while the FDA only
+approves three drugs for this age group?
+2 · THE UNMET NEED
+Pediatric bipolar depression affects ~1% of youth and drives the highest suicide risk in child psychiatry. Only
+lurasidone, olanzapine-fluoxetine, and lumateperone carry pediatric bipolar-depression labels. Parents and
+clinicians are left choosing between metabolic risk and weight gain.
+H A D2/D3 partial agonist with a clean metabolic profile could reset the pediatric
+bipolar-depression standard of care.
+3 · AT A GLANCE
+10-17 6 wks 1.5-3 mg ~380
+AGE RANGE DOUBLE-BLIND FLEX DOSE TARGET N
+4 · WHY THIS STUDY EXISTS
+Cariprazine is already approved for adult bipolar I depression, mania, schizophrenia, and MDD adjunct. This
+Phase 3 bridges to pediatric label — a gap the field has begged to fill.
+5 · MECHANISM OF ACTION
+D3-preferring D2/D3 partial agonist + 5-HT1A partial agonist + 5-HT2B antagonist. Long half-life (1-3 weeks
+for active metabolite) provides forgiving dosing in adolescents prone to missing doses.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled, flexible-dose 6-week monotherapy study. Primary endpoint:
+change in CDRS-R total. Key secondary: CGI-BP-S depression. Includes 26-week open-label extension.
+7 · RECRUIT IF YOUR PATIENT…
+Your patient is 10-17, has a confirmed DSM-5 Bipolar I diagnosis, is currently in a major depressive episode
+(CDRS-R >=45), and hasn't responded to or tolerated first-line options. The whole point: catch bipolar
+depression before suicide attempts and school failure compound.
+8 · STOP / EXCLUDE IF…
+7 Active suicidal plan/intent (C-SSRS item 4-5 past month)
+7 Substance use disorder past 6 months (except nicotine)
+
+-- 9 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 10
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+7 History of NMS or tardive dyskinesia
+7 Pregnancy/nursing; sexually active without contraception
+7 Prior cariprazine failure or intolerance
+9 · IDEAL PATIENT PROFILE
+13-16 y/o with early-onset BP-I, currently depressed, on a mood stabilizer that isn't working, family frustrated
+with weight gain from atypicals.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW query: ICD-10 F31.3x / F31.4 / F31.5 + age 10-17 + any antidepressant/antipsychotic in last 90 days.
+Flag 'weight gain' chief complaints.
+11 · COMPETITIVE LANDSCAPE
+Lurasidone (Latuda) pediatric BP-D approved 2018; olanzapine-fluoxetine (Symbyax) 10+; lumateperone
+pediatric pending. Cariprazine differentiates on metabolic neutrality + once-daily long half-life.
+12 · RISK / BENEFIT LOGIC
+Benefit: first D3-preferring option for youth BP-D, minimal weight/metabolic burden. Risk: akathisia
+(10-15%), somnolence, EPS. Manageable with slow titration.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+IPMG's pediatric volume across 4 sites means we can realistically enroll 15-20 patients — meaningful
+contribution to a ~380-patient trial and a gateway to pediatric research credentials.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“We have a study for kids 10 to 17 with bipolar depression. The medicine is already approved for adults.
+We're checking if it works for teens without the weight gain that other medicines cause.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment YOUTHLIFT.
+16 · SOURCES
+· ClinicalTrials.gov NCT04777357
+· AbbVie Vraylar pediatric press release
+· Cariprazine FDA Prescribing Information
+n SCREEN ONE PATIENT THIS WEEK · COMMENT YOUTHLIFT · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 10 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 11
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+CHINO · STUDY 02 · COMMENT CODE NORLIGHT
+ACP-211 in MDD (NORLIGHT)
+PROTOCOL
+ACP-211-002
+NCT
+NCT07284667
+SPONSOR
+Acadia Pharmaceuticals
+SITE
+Chino
+COMMENT CODE
+NORLIGHT
+n 2026 CORRECTION
+CORRECTED 2026: This is a TRD adjunct study. Patients must be currently on an approved antidepressant and
+have history of >=2 prior AD failures this episode. AD-naive or washed-out patients are NOT eligible.
+1 · THE HOOK
+STILL watching TRD patients cycle through 3 SSRIs, an SNRI, and an atypical
+before anyone offers a novel mechanism?
+2 · THE UNMET NEED
+Two-thirds of MDD patients fail to remit on first-line SSRIs, and for those with true treatment-resistant
+depression (TRD), every additional failed trial compounds demoralization and disability. The field needs
+novel non-monoaminergic mechanisms for patients already on an approved antidepressant.
+H A once-daily oral adjunct with a non-monoaminergic mechanism could replace atypical
+augmentation as the go-to TRD next step.
+3 · AT A GLANCE
+18-65 6 wks Once daily ~500
+AGE DB PHASE DOSING TARGET N
+4 · WHY THIS STUDY EXISTS
+Acadia built its psychiatry franchise on pimavanserin (Nuplazid). ACP-211 is their swing at
+treatment-resistant depression with a differentiated MOA.
+5 · MECHANISM OF ACTION
+Novel serotonergic/glutamatergic modulator (Acadia-proprietary). Designed to engage mood and anhedonia
+circuits in patients who have already failed standard antidepressants.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled adjunctive Phase 2/3 in TRD. Patients remain on their current
+FDA-approved antidepressant and add ACP-211 or placebo. Primary: MADRS change at Week 6. Key
+secondary: SHAPS (anhedonia), CGI-S, response/remission.
+7 · RECRUIT IF YOUR PATIENT…
+Adults 18-65 with moderate-to-severe MDD (MADRS >=26), current episode >=8 weeks, CURRENTLY
+TREATED with an FDA-approved antidepressant at adequate dose/duration, AND documented history of
+inadequate response to at least 2 prior antidepressant trials in the current episode. The whole point: TRD is
+
+-- 11 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 12
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+the target — screen IN, not out.
+8 · STOP / EXCLUDE IF…
+7 Bipolar, psychotic, or substance use disorder
+7 Active suicidality (C-SSRS 4-5)
+7 Pregnancy/nursing
+7 Recent psychedelic or ketamine exposure
+7 Currently antidepressant-naive or off antidepressants at screening
+9 · IDEAL PATIENT PROFILE
+48-year-old TRD patient on venlafaxine 225 mg x 10 weeks, already tried sertraline and escitalopram at full
+dose this episode, PHQ-9 stuck at 18.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: ICD-10 F32.1/F32.2/F33.1/F33.2, PHQ-9 >=15 in last 90 days, CURRENTLY on an antidepressant,
+with medication history showing >=2 prior antidepressant trials this episode. Flag 'refractory' or 'not
+responding' in HPI.
+11 · COMPETITIVE LANDSCAPE
+Auvelity (dextromethorphan-bupropion), Spravato, Exxua (gepirone), and aripiprazole/brexpiprazole
+augmentation all compete for the TRD adjunct space. ACP-211 needs clean adjunctive data to separate
+from the pack.
+12 · RISK / BENEFIT LOGIC
+Benefit: potential novel non-monoaminergic adjunct, no need to switch the patient off their existing
+antidepressant. Risk: unknown long-term safety, Phase 2/3 efficacy unproven. Adjunct design preserves
+baseline coverage but adds a new side-effect profile.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+TRD is every psychiatrist's daily problem. A site that can consistently enroll TRD adjunct studies is always in
+demand.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“This is a brand-new kind of add-on depression medicine. You'll stay on your current antidepressant
+and add this or a placebo. It doesn't work like Prozac or Zoloft — it works on different brain circuits.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment NORLIGHT.
+16 · SOURCES
+· ClinicalTrials.gov NCT07284667
+· Acadia pipeline page
+n SCREEN ONE PATIENT THIS WEEK · COMMENT NORLIGHT · CALL (909) 955-5865
+
+-- 12 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 13
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 13 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 14
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+CHINO · STUDY 03 · COMMENT CODE ALTOBIP
+ALTO-100 in Bipolar Depression
+PROTOCOL
+ALTO-100-211
+NCT
+NCT06656416
+SPONSOR
+Alto Neuroscience
+SITE
+Chino
+COMMENT CODE
+ALTOBIP
+n 2026 CORRECTION
+CORRECTED 2026: 6-week double-blind treatment period (not 8 weeks), followed by an open-label period of up to 7
+weeks.
+1 · THE HOOK
+STILL using the same three bipolar-depression drugs from 2013?
+2 · THE UNMET NEED
+Bipolar depression accounts for 70% of BP morbidity. Lurasidone, quetiapine, lumateperone, and
+cariprazine are the only labeled options — none address cognitive deficits or adult neurogenesis.
+H A pro-neurogenic small molecule could be the first mechanism that actually heals
+depressive circuits in BP patients.
+3 · AT A GLANCE
+18-65 6 wks BP-I/II ~200
+AGE DB BOTH TARGET N
+4 · WHY THIS STUDY EXISTS
+Alto Neuroscience uses EEG biomarker stratification to pre-select responders. ALTO-100 is their lead
+pro-neurogenic asset.
+5 · MECHANISM OF ACTION
+Pro-neurogenic, pro-plasticity small molecule; enhances adult hippocampal neurogenesis and BDNF
+signaling. Orally bioavailable, once-daily.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled, biomarker-enriched (EEG-based). 6-week double-blind
+treatment period with primary MADRS endpoint at Week 6, followed by an open-label period of up to 7
+weeks. Adjunct to stable mood stabilizer or antipsychotic.
+7 · RECRUIT IF YOUR PATIENT…
+Adult BP-I or BP-II, currently depressed (MADRS >=24), on stable mood stabilizer >=4 weeks. The whole
+point: help patients whose depression returns despite mood-stabilizer therapy.
+8 · STOP / EXCLUDE IF…
+7 Current mania/hypomania/mixed features
+
+-- 14 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 15
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+7 Rapid cycling (>=4 episodes/year)
+7 Active psychosis
+7 Substance use past 6 months
+7 Active suicidality C-SSRS 4-5
+9 · IDEAL PATIENT PROFILE
+42 y/o BP-II on lamotrigine, depressed 3 months, reluctant to add quetiapine due to sedation.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: F31.3x/F31.4/F31.5/F31.81 + mood stabilizer prescription. Screen for current depressive episode in
+last PHQ-9.
+11 · COMPETITIVE LANDSCAPE
+Caplyta (lumateperone), Latuda (lurasidone), quetiapine, Vraylar hold the adjunct space. ALTO-100's
+pro-neurogenic MOA and EEG pre-selection are the differentiators.
+12 · RISK / BENEFIT LOGIC
+Benefit: novel regenerative mechanism, biomarker-matched responders. Risk: unproven at Phase 2/3;
+adjunct design means baseline meds still contribute side effects.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+BP-D is underserved by pharma pipelines. Owning a BP-D site with EEG infrastructure creates durable
+competitive advantage.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“This is a new medicine being added to your mood stabilizer. It's designed to help your brain make new
+connections — not just mask symptoms.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment ALTOBIP.
+16 · SOURCES
+· ClinicalTrials.gov NCT06656416
+· Alto Neuroscience pipeline
+n SCREEN ONE PATIENT THIS WEEK · COMMENT ALTOBIP · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 15 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 16
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+CHINO · STUDY 04 · COMMENT CODE CLARITY
+Solriamfetol in MDD + Excessive Daytime Sleepiness
+(CLARITY)
+PROTOCOL
+SOL-MDD-302
+NCT
+NCT07484217
+SPONSOR
+Axsome Therapeutics
+SITE
+Chino
+COMMENT CODE
+CLARITY
+n 2026 CORRECTION
+CORRECTED 2026: Randomized-withdrawal design. All patients receive open-label solriamfetol first; only
+responders are randomized to continue or withdraw to placebo.
+1 · THE HOOK
+STILL treating depression while your patient sleeps 11 hours and still can't stay
+awake at work?
+2 · THE UNMET NEED
+40% of MDD patients have excessive daytime sleepiness (EDS) — residual after SSRI response. No drug is
+labeled for EDS-in-MDD.
+H A DNRI + TAAR1 agonist that treats depression AND wakefulness in one pill could redefine
+the residual-symptom endpoint.
+3 · AT A GLANCE
+18-65 Open-label
+lead-in 150/300 mg ~450
+AGE THEN RW DOSE TARGET N
+4 · WHY THIS STUDY EXISTS
+Axsome bought Sunosi (solriamfetol) from Jazz and is expanding beyond narcolepsy. CLARITY is the
+registrational MDD+EDS program.
+5 · MECHANISM OF ACTION
+Dopamine-norepinephrine reuptake inhibitor (DNRI) + TAAR1 agonism. No opioid, no Schedule II
+amphetamine profile (Schedule IV).
+6 · STUDY DESIGN DEEP DIVE
+Randomized-withdrawal Phase 3. All eligible participants FIRST receive open-label solriamfetol during a
+lead-in period — every patient is guaranteed active drug at the start. Only participants who achieve a
+protocol-defined clinical response are then randomized 1:1 to either continue solriamfetol or withdraw to
+placebo for the double-blind maintenance phase. Primary: MADRS change / time to relapse. Key secondary:
+Epworth Sleepiness Scale, PROMIS-Fatigue.
+7 · RECRUIT IF YOUR PATIENT…
+
+-- 16 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 17
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+Adult MDD (MADRS >=26) with EDS (ESS >=10), on stable antidepressant >=6 weeks with partial
+response. The whole point: tackle the fatigue that makes 'recovered' depression still feel disabling — and
+every enrolled patient gets active drug at the start.
+8 · STOP / EXCLUDE IF…
+7 Narcolepsy/OSA/other primary sleep disorder
+7 Substance use past 6 months
+7 Uncontrolled hypertension (systolic >140)
+7 Pregnancy/nursing
+7 MAOI past 14 days
+9 · IDEAL PATIENT PROFILE
+38 y/o on sertraline 150 mg for 8 weeks, PHQ-9 down from 22 to 14, sleeps 10+ hours and still exhausted.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: ICD-10 F32.x/F33.x + G47.10 (hypersomnia) OR complaint of fatigue/EDS in last 3 visits.
+11 · COMPETITIVE LANDSCAPE
+Auvelity, Caplyta adjunct, Rexulti adjunct compete for MDD augmentation. Solriamfetol owns the EDS axis
+— no direct competitor.
+12 · RISK / BENEFIT LOGIC
+Benefit: dual symptom coverage (mood + wakefulness), existing safety database from Sunosi, every patient
+starts on active drug. Risk: BP elevation, insomnia if dosed late, headache. Responders randomized to
+placebo face relapse risk in withdrawal phase.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+EDS is reported in 1 of every 3 MDD visits. Offering a study matched to that chief complaint — and one
+where every patient tries active drug first — converts at a much higher rate than generic MDD recruitment.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“This study has two parts. First, everyone gets the real medicine for several weeks. If it helps, you then
+have a 50/50 chance of staying on it or switching to a placebo. That means everyone at least tries the
+actual drug.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment CLARITY.
+16 · SOURCES
+· ClinicalTrials.gov NCT07484217
+· Axsome Sunosi page
+n SCREEN ONE PATIENT THIS WEEK · COMMENT CLARITY · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 17 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 18
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+CHINO · STUDY 05 · COMMENT CODE BHVLTS
+BHV-7000 in MDD — Long-Term Safety
+PROTOCOL
+BHV7000-203
+NCT
+NCT06423781
+SPONSOR
+Biohaven Pharmaceutical
+SITE
+Chino
+COMMENT CODE
+BHVLTS
+1 · THE HOOK
+STILL waiting for the first Kv7 channel opener to land in psychiatry?
+2 · THE UNMET NEED
+MDD remission rates plateau at 30%. Ion-channel modulation is a virtually untouched MDD target beyond
+ketamine.
+H If Kv7 activators stabilize hyperexcitable limbic circuits, they could rewrite the depression
+playbook.
+3 · AT A GLANCE
+18-75 52 wks Once daily ~400
+AGE OPEN-LABEL DOSING TARGET N
+4 · WHY THIS STUDY EXISTS
+Biohaven's Kv7 program followed Nurtec's success. Long-term safety enrollment supports NDA — BUT
+note: Phase 2 MDD missed its primary endpoint in December 2025 and Biohaven has announced it is
+discontinuing the psychiatry program. Study status should be verified before enrollment.
+5 · MECHANISM OF ACTION
+Kv7.2/7.3 potassium-channel opener. Reduces neuronal hyperexcitability. Distinct from XEN1101
+(azetukalner) but same target class.
+6 · STUDY DESIGN DEEP DIVE
+Open-label extension, single-arm, safety-focused. Primary: incidence of TEAEs over 52 weeks. Rollover
+from Phase 2 parent studies.
+7 · RECRUIT IF YOUR PATIENT…
+Adults who completed a BHV-7000 MDD parent trial. The whole point: generate the long-term safety
+database NDAs require.
+8 · STOP / EXCLUDE IF…
+7 New-onset suicidality
+7 Seizure disorder or epilepsy
+7 QTc >470 ms
+7 Pregnancy/nursing
+7 Active substance use
+
+-- 18 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 19
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+9 · IDEAL PATIENT PROFILE
+Prior completer from BHV-7000 Phase 2 MDD parent study.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: cross-reference prior Biohaven study participants at your site. Limited external recruitment.
+11 · COMPETITIVE LANDSCAPE
+Azetukalner (XEN1101, Neurocrine) is the other major Kv7 psychiatry asset. Both face uncertainty after
+BHV-7000 Phase 2 MDD failure.
+12 · RISK / BENEFIT LOGIC
+Benefit: novel ion-channel mechanism, if signal emerges. Risk: program discontinuation likely means no
+path to label. Discuss status with sponsor before dosing new patients.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+LTS studies are low-effort, high-retention revenue. Even a discontinued program pays site overhead while
+patients complete.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“This is a safety study for patients already in our depression research. We're making sure the medicine
+is safe when taken for a full year.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment BHVLTS.
+16 · SOURCES
+· ClinicalTrials.gov NCT06423781
+· Biohaven Dec 2025 Phase 2 MDD topline announcement
+n SCREEN ONE PATIENT THIS WEEK · COMMENT BHVLTS · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 19 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 20
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+CHINO · STUDY 06 · COMMENT CODE BHVMONO
+BHV-7000 MDD Monotherapy
+PROTOCOL
+BHV7000-305
+NCT
+NCT06419608
+SPONSOR
+Biohaven Pharmaceutical
+SITE
+Chino
+COMMENT CODE
+BHVMONO
+1 · THE HOOK
+STILL hoping ion-channel biology will finally crack MDD?
+2 · THE UNMET NEED
+Same as BHV-7000 LTS: field needs non-monoaminergic MDD mechanisms.
+H Monotherapy efficacy would have validated the Kv7 class. The December 2025 Phase 2 miss
+significantly dims the path.
+3 · AT A GLANCE
+18-75 6 wks Once daily ~500
+AGE DB DOSING TARGET N
+4 · WHY THIS STUDY EXISTS
+Registrational monotherapy MDD study. With Phase 2 miss announced Dec 2025, sponsor is reassessing
+— sites should confirm enrollment status.
+5 · MECHANISM OF ACTION
+Kv7.2/7.3 channel opener (see Study 5).
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled, fixed-dose monotherapy. Primary: MADRS Week 6.
+7 · RECRUIT IF YOUR PATIENT…
+Adults 18-75 with MDD, MADRS >=26, off antidepressants (washout). The whole point was first-line Kv7
+monotherapy — subject to program status.
+8 · STOP / EXCLUDE IF…
+7 Seizure history
+7 Bipolar disorder
+7 Psychotic features
+7 Active SUD
+7 QTc prolongation
+9 · IDEAL PATIENT PROFILE
+N/A — confirm whether enrollment is paused.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+
+-- 20 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 21
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+eCW: suspended until sponsor confirms enrollment posture.
+11 · COMPETITIVE LANDSCAPE
+Azetukalner Phase 3 MDD (Neurocrine) — the remaining flagship Kv7 program.
+12 · RISK / BENEFIT LOGIC
+Benefit: access to novel mechanism. Risk: program discontinuation; patients may lose access
+mid-treatment.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+Even if this specific study winds down, staying in the Biohaven orbit positions IPMG for their next program.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“We're checking on whether this study is still enrolling. If it is, it's a new kind of depression pill. If not,
+we'll keep you on our list for the next study.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment BHVMONO.
+16 · SOURCES
+· ClinicalTrials.gov NCT06419608
+· Biohaven pipeline page
+n SCREEN ONE PATIENT THIS WEEK · COMMENT BHVMONO · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 21 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 22
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+CHINO · STUDY 07 · COMMENT CODE COBENTEEN
+KarXT in Adolescent Schizophrenia
+PROTOCOL
+CN012-0020
+NCT
+NCT07288567
+SPONSOR
+Bristol Myers Squibb (Karuna)
+SITE
+Chino
+COMMENT CODE
+COBENTEEN
+1 · THE HOOK
+STILL giving 14-year-olds with first-episode psychosis the same D2 blockers we
+used in 1975?
+2 · THE UNMET NEED
+Pediatric schizophrenia is devastating and under-served. Metabolic side effects from D2 antipsychotics drive
+50%+ non-adherence in teens.
+H A non-D2, M1/M4-selective muscarinic could be the first truly new antipsychotic class ever
+labeled in adolescents.
+3 · AT A GLANCE
+13-17 6 wks Flexible ~400
+AGE DB DOSE TARGET N
+4 · WHY THIS STUDY EXISTS
+BMS acquired Karuna for $14B largely for KarXT (Cobenfy). Pediatric label expansion is the highest-value
+follow-on.
+5 · MECHANISM OF ACTION
+Xanomeline (M1/M4 agonist) + trospium (peripheral muscarinic antagonist that blocks GI side effects without
+crossing BBB).
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled flex-dose 6 weeks. Primary: PANSS total change. Open-label
+extension follows.
+7 · RECRUIT IF YOUR PATIENT…
+13-17 y/o, DSM-5 schizophrenia, PANSS >=80, stable housing, guardian-consented. The whole point:
+prevent the metabolic catastrophe D2 antipsychotics create in adolescents.
+8 · STOP / EXCLUDE IF…
+7 Known narrow-angle glaucoma
+7 Urinary retention/severe constipation
+7 Substance-induced psychosis
+7 Pregnancy/nursing
+7 Ongoing homicidality
+
+-- 22 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 23
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+9 · IDEAL PATIENT PROFILE
+16 y/o first-episode, started risperidone 8 weeks ago, gained 14 lb, refusing further dose increases.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: ICD-10 F20.x + age 13-17 + antipsychotic in last 90 days. Flag BMI increase >=5% in 6 months.
+11 · COMPETITIVE LANDSCAPE
+Risperidone, aripiprazole, paliperidone, lurasidone all have pediatric SCZ labels. KarXT differentiates on
+non-D2 mechanism + no weight/metabolic signal.
+12 · RISK / BENEFIT LOGIC
+Benefit: first non-D2 antipsychotic for teens, no weight gain/EPS. Risk: cholinergic side effects (nausea, dry
+mouth), anticholinergic from trospium (constipation).
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+IPMG's pediatric psychiatry volume is rare. Sites that can enroll pediatric psychosis are a national asset.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“This is a brand-new kind of medicine for teenagers with schizophrenia. It's not like the older pills that
+cause weight gain. It works on a different brain chemical.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment COBENTEEN.
+16 · SOURCES
+· ClinicalTrials.gov NCT07288567
+· BMS Cobenfy pediatric program
+n SCREEN ONE PATIENT THIS WEEK · COMMENT COBENTEEN · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 23 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 24
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+CHINO · STUDY 08 · COMMENT CODE BALSAM
+KarXT BALSAM-4 in Bipolar I Mania
+PROTOCOL
+CN012-0046
+NCT
+NCT07140913
+SPONSOR
+Bristol Myers Squibb
+SITE
+Chino
+COMMENT CODE
+BALSAM
+n 2026 CORRECTION
+CORRECTED 2026: BALSAM-4 is strictly ADJUNCTIVE. Patients MUST be currently on — and remain on — lithium,
+valproate, or lamotrigine. Do NOT screen patients looking to switch off their mood stabilizer.
+1 · THE HOOK
+STILL watching bipolar patients on Lithium or Depakote break through into mania
+with no adjunct option that won't wreck them metabolically?
+2 · THE UNMET NEED
+Acute bipolar mania breakthrough on a mood stabilizer is a daily psychiatric problem. Every adjunctive
+atypical brings a metabolic penalty that kills adherence post-discharge.
+H If KarXT controls breakthrough mania as an ADJUNCT to lithium, valproate, or lamotrigine
+without weight gain, it becomes the default post-hospital bridge.
+3 · AT A GLANCE
+18-65 3 wks Adjunct only ~400
+AGE DB DESIGN TARGET N
+4 · WHY THIS STUDY EXISTS
+BMS's adult bipolar-mania expansion for Cobenfy as an ADJUNCT to standard mood stabilizers.
+Complements the SCZ label and the adolescent program.
+5 · MECHANISM OF ACTION
+Same as Study 7 — M1/M4 agonist + peripheral muscarinic antagonist.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled ADJUNCTIVE 3-week acute mania study. Patients must
+currently be taking — and remain on throughout the trial — lithium, valproate (divalproex), or lamotrigine as
+their background mood stabilizer. KarXT or placebo is added on top. Primary: YMRS change at Day 21.
+7 · RECRUIT IF YOUR PATIENT…
+Adults 18-65 with DSM-5 BP-I, current manic or mixed episode, YMRS >=20, AND currently taking lithium,
+valproate, or lamotrigine (must be continued throughout the study). The whole point: adjunctive rescue
+without piling on metabolic burden.
+8 · STOP / EXCLUDE IF…
+
+-- 24 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 25
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+7 Patient NOT currently on lithium, valproate, or lamotrigine (they must stay on background stabilizer)
+7 Mixed features with severe depression
+7 Rapid cycling
+7 Substance-induced mania
+7 Pregnancy
+7 History of narrow-angle glaucoma
+9 · IDEAL PATIENT PROFILE
+29 y/o BP-I on lithium 900 mg daily for the past year, now in a manic episode (YMRS 28), needs adjunctive
+treatment but doesn't want to add olanzapine due to weight gain history.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: F31.1x/F31.2 + ACTIVE lithium, valproate/divalproex, OR lamotrigine prescription + recent
+manic/mixed features documented. These are the ONLY eligible patients.
+11 · COMPETITIVE LANDSCAPE
+Olanzapine, risperidone, quetiapine, aripiprazole, asenapine, Vraylar all labeled as adjuncts for mania.
+KarXT's weight-neutrality is the unique selling point within the adjunct space.
+12 · RISK / BENEFIT LOGIC
+Benefit: mania control as an adjunct to standard mood stabilizer, without atypical metabolic burden. Risk:
+cholinergic GI side effects acute; efficacy vs olanzapine gold standard unknown.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+Mania studies require inpatient/24-hour-accessible sites AND patients already established on a mood
+stabilizer. IPMG's footprint supports both.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“This is a new add-on medicine for bipolar mania. You'd keep taking your lithium (or Depakote or
+Lamictal), and we'd add this or a placebo on top. It works differently from Zyprexa and doesn't cause
+the big weight gain.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment BALSAM.
+16 · SOURCES
+· ClinicalTrials.gov NCT07140913
+· BMS Cobenfy program
+n SCREEN ONE PATIENT THIS WEEK · COMMENT BALSAM · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 25 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 26
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+CHINO · STUDY 09 · COMMENT CODE ADEPT4
+KarXT ADEPT-4 in Alzheimer's Psychosis
+PROTOCOL
+CN012-0056
+NCT
+NCT06585787
+SPONSOR
+Bristol Myers Squibb
+SITE
+Chino
+COMMENT CODE
+ADEPT4
+1 · THE HOOK
+STILL telling families there's nothing safe for Grandpa's paranoia and
+hallucinations?
+2 · THE UNMET NEED
+Alzheimer's psychosis affects ~30% of AD patients. Pimavanserin is the only approved option (for
+PD-psychosis, off-label in AD). Off-label atypicals carry a Black Box mortality warning.
+H A non-D2 mechanism with no black-box mortality signal would be a paradigm shift for
+dementia psychiatry.
+3 · AT A GLANCE
+55-90 12 wks Flex dose ~380
+AGE DB DOSING TARGET N
+4 · WHY THIS STUDY EXISTS
+BMS is pursuing Cobenfy's highest-value expansion — the AD psychosis market is massive and nearly
+empty.
+5 · MECHANISM OF ACTION
+See Study 7. Additional hypothesis: M1 agonism may also slow cognitive decline via cholinergic restoration.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled, 12 weeks. Primary: NPI-C hallucinations + delusions
+domain.
+7 · RECRUIT IF YOUR PATIENT…
+55-90 y/o, probable AD (MMSE 8-22), clinically significant psychosis >=4 weeks, caregiver consent. The
+whole point: give families a safe option.
+8 · STOP / EXCLUDE IF…
+7 Non-AD dementia (Lewy body, frontotemporal)
+7 Uncontrolled medical illness
+7 Urinary retention/glaucoma
+7 Recent anticholinergic use
+9 · IDEAL PATIENT PROFILE
+78 y/o wife caring for husband with AD who accuses her of infidelity every evening; haloperidol caused falls.
+
+-- 26 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 27
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: ICD-10 G30.x + F06.0/F06.2/F06.8 (psychotic symptoms due to known condition). Flag caregiver
+visits.
+11 · COMPETITIVE LANDSCAPE
+Pimavanserin (failed Phase 3 AD psychosis 2019; off-label use continues). BMS's BMS-986368 also in this
+space.
+12 · RISK / BENEFIT LOGIC
+Benefit: potential first approved non-black-box AD-psychosis treatment. Risk: cholinergic side effects tricky
+in elderly; fall/constipation risk.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+Geriatric psychiatry studies pay premium per-patient. Families drive referrals.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“This is a new medicine for older adults with Alzheimer's who are having hallucinations or paranoia. The
+medicines we use now have a serious warning — this one is trying to avoid that.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment ADEPT4.
+16 · SOURCES
+· ClinicalTrials.gov NCT06585787
+· BMS ADEPT program overview
+n SCREEN ONE PATIENT THIS WEEK · COMMENT ADEPT4 · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 27 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 28
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+CHINO · STUDY 10 · COMMENT CODE ADEPT5
+KarXT + KarX-EC ADEPT-5 in Alzheimer's Psychosis
+PROTOCOL
+CN012-0034
+NCT
+NCT06947941
+SPONSOR
+Bristol Myers Squibb
+SITE
+Chino
+COMMENT CODE
+ADEPT5
+1 · THE HOOK
+STILL wishing you could spread dementia-psychosis dosing over the whole day
+without 5 pills?
+2 · THE UNMET NEED
+KarXT IR dosing = BID; GI tolerability in elderly is the rate-limiter. An extended-release (KarX-EC) could
+unlock this population.
+H Once-daily KarX-EC could be the ultimate geriatric-friendly formulation.
+3 · AT A GLANCE
+55-90 12 wks QD EC ~500
+AGE DB DOSING TARGET N
+4 · WHY THIS STUDY EXISTS
+Formulation bridge study. Pairs IR (KarXT) vs EC (KarX-EC) to demonstrate equivalence and support QD
+label in AD.
+5 · MECHANISM OF ACTION
+Same xanomeline + trospium; extended-release formulation reduces peak/trough variability.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo + active comparator (IR vs EC). Primary: NPI-C hallucinations +
+delusions.
+7 · RECRUIT IF YOUR PATIENT…
+Same as ADEPT-4, age 55-90, probable AD with psychosis. The whole point: once-daily dosing for
+caregivers managing complex regimens.
+8 · STOP / EXCLUDE IF…
+7 Same as ADEPT-4
+7 Severe dysphagia (can't swallow whole capsule)
+9 · IDEAL PATIENT PROFILE
+82 y/o with AD psychosis whose daughter manages 9 daily medications and can't add a BID pill.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+Same as ADEPT-4.
+
+-- 28 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 29
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+11 · COMPETITIVE LANDSCAPE
+ADEPT-4 is the direct internal comparator; BMS-986368 the external.
+12 · RISK / BENEFIT LOGIC
+Benefit: simpler adherence. Risk: slower onset of action from EC formulation; variable absorption in elderly.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+Having both ADEPT-4 and ADEPT-5 at the same site streamlines recruitment across formulations.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“Same as ADEPT-4, but this one is once a day instead of twice a day — easier for caregivers.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment ADEPT5.
+16 · SOURCES
+· ClinicalTrials.gov NCT06947941
+n SCREEN ONE PATIENT THIS WEEK · COMMENT ADEPT5 · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 29 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 30
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+CHINO · STUDY 11 · COMMENT CODE CALM45
+BMS-986368 for Agitation in Alzheimer's
+PROTOCOL
+IM045-P06
+NCT
+NCT06808984
+SPONSOR
+Bristol Myers Squibb
+SITE
+Chino
+COMMENT CODE
+CALM45
+1 · THE HOOK
+STILL sending caregivers home with lorazepam PRN for sundowning?
+2 · THE UNMET NEED
+AD agitation affects ~45% of AD patients; brexpiprazole (Rexulti) is the only approved agent but carries the
+antipsychotic black-box.
+H A non-antipsychotic mechanism for AD agitation would unshackle primary care prescribing.
+3 · AT A GLANCE
+55-90 10 wks Flex dose ~350
+AGE DB DOSE TARGET N
+4 · WHY THIS STUDY EXISTS
+BMS is competing with brexpiprazole's $1B+ agitation-in-AD market using a differentiated mechanism.
+5 · MECHANISM OF ACTION
+Proprietary BMS mechanism (non-D2) targeting agitation pathways. Exact MOA per sponsor
+communications.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled. Primary: CMAI (Cohen-Mansfield Agitation Inventory)
+change.
+7 · RECRUIT IF YOUR PATIENT…
+Same as ADEPT-4 age band; probable AD with clinically significant agitation (CMAI >=45). The whole point:
+control agitation without black-box risk.
+8 · STOP / EXCLUDE IF…
+7 Psychosis as predominant feature (use ADEPT-4 instead)
+7 Non-AD dementia
+7 Acute medical instability
+9 · IDEAL PATIENT PROFILE
+76 y/o AD patient with evening agitation who hits the nursing-home staff; family refusing brexpiprazole.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: G30.x + behavioral/agitation documentation + no current brexpiprazole.
+
+-- 30 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 31
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+11 · COMPETITIVE LANDSCAPE
+Brexpiprazole (Rexulti) owns the label. AXS-05 (Axsome's dextromethorphan-bupropion) in Phase 3
+(ACCORD).
+12 · RISK / BENEFIT LOGIC
+Benefit: potential black-box-free option. Risk: Phase 2/3 efficacy unproven.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+Agitation and psychosis are the #1 and #2 caregiver distress drivers. Offering BOTH ADEPT-4 and CALM45
+covers the full clinical spectrum.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“This medicine is for agitation in Alzheimer's — the pacing, yelling, restlessness at night. It's not an
+antipsychotic, so it doesn't carry the same warnings.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment CALM45.
+16 · SOURCES
+· ClinicalTrials.gov NCT06808984
+n SCREEN ONE PATIENT THIS WEEK · COMMENT CALM45 · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 31 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 32
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+CHINO · STUDY 12 · COMMENT CODE SAVITRI3
+NBI-1065845 (Osavampator) Adjunctive MDD
+PROTOCOL
+MDD3026
+NCT
+NCT06963021
+SPONSOR
+Neurocrine Biosciences
+SITE
+Chino
+COMMENT CODE
+SAVITRI3
+1 · THE HOOK
+STILL augmenting SSRIs with Abilify and hoping the akathisia doesn't wreck
+adherence?
+2 · THE UNMET NEED
+Adjunct MDD is dominated by atypical antipsychotics that carry metabolic and EPS risk. A cleaner AMPA
+modulator could redefine augmentation.
+H AMPA positive allosteric modulation is the long-sought glutamate angle — osavampator's
+Phase 2 SAVITRI HIT validates the class.
+3 · AT A GLANCE
+18-65 6 wks QD dosing ~500
+AGE DB TARGET N
+4 · WHY THIS STUDY EXISTS
+Phase 2 SAVITRI showed statistically significant MADRS separation vs placebo in adjunct MDD. Phase 3
+SAVITRI-3 is registrational.
+5 · MECHANISM OF ACTION
+AMPA receptor positive allosteric modulator (PAM). Enhances fast excitatory glutamate signaling without
+NMDA/ketamine dissociative profile.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled adjunct to ongoing antidepressant. Primary: MADRS Week 6.
+7 · RECRUIT IF YOUR PATIENT…
+MDD adults on stable antidepressant >=6 weeks, MADRS >=24, partial response. The whole point:
+glutamate augmentation without ketamine's baggage.
+8 · STOP / EXCLUDE IF…
+7 TRD (>=2 failed trials this episode typically)
+7 Bipolar
+7 Substance use
+7 Seizure history
+7 Pregnancy
+9 · IDEAL PATIENT PROFILE
+
+-- 32 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 33
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+45 y/o on escitalopram 20 mg x 8 weeks, PHQ-9 stuck at 14, doesn't want Abilify.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: F32.x/F33.x + antidepressant >=6 weeks + PHQ-9 >=10 most recent.
+11 · COMPETITIVE LANDSCAPE
+Aripiprazole, brexpiprazole, olanzapine-fluoxetine, Caplyta, Rexulti ADMDD space. Osavampator's non-D2
+mechanism + Phase 2 HIT = strong differentiator.
+12 · RISK / BENEFIT LOGIC
+Benefit: novel glutamate mechanism, clean Phase 2 signal. Risk: unknown long-term cognitive effects;
+AMPA overstimulation carries seizure-risk theoretical concern.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+Adjunct MDD is every psychiatrist's daily problem. Carrying a differentiated asset here builds KOL
+reputation.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“This is a new add-on medicine for depression that isn't getting better. Unlike Abilify, it doesn't work on
+dopamine — it helps the brain's main 'go' signal.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment SAVITRI3.
+16 · SOURCES
+· ClinicalTrials.gov NCT06963021
+· Neurocrine SAVITRI Phase 2 topline
+n SCREEN ONE PATIENT THIS WEEK · COMMENT SAVITRI3 · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 33 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 34
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+CHINO · STUDY 13 · COMMENT CODE NEXTVMAT
+NBI-1065890 in Tardive Dyskinesia
+PROTOCOL
+TD2033
+NCT
+NCT07365462
+SPONSOR
+Neurocrine Biosciences
+SITE
+Chino
+COMMENT CODE
+NEXTVMAT
+1 · THE HOOK
+STILL titrating Ingrezza hoping the akathisia and somnolence resolve?
+2 · THE UNMET NEED
+VMAT2 inhibitors (valbenazine, deutetrabenazine) changed the TD landscape but leave ~40% with partial
+response.
+H A next-gen VMAT2 with improved tolerability could unlock higher doses and full symptom
+remission.
+3 · AT A GLANCE
+18-75 12 wks Flex dose ~300
+AGE DB TARGET N
+4 · WHY THIS STUDY EXISTS
+Neurocrine's follow-on to Ingrezza, designed to extend the franchise post-LOE with a better profile.
+5 · MECHANISM OF ACTION
+Selective VMAT2 inhibitor, next-generation. Refined selectivity to reduce off-target somnolence/depression
+signals.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled 12 weeks. Primary: AIMS total score change.
+7 · RECRUIT IF YOUR PATIENT…
+Adults with moderate-severe TD (AIMS >=8) on stable antipsychotic. The whole point: rescue patients who
+still dyskinese on standard VMAT2s.
+8 · STOP / EXCLUDE IF…
+7 Concurrent VMAT2 inhibitor (washout required)
+7 Uncontrolled depression with suicidality
+7 Hepatic impairment
+7 Concurrent strong CYP3A4 inhibitor
+9 · IDEAL PATIENT PROFILE
+60 y/o on perphenazine for 15 years, facial AIMS score 10, tried valbenazine but discontinued due to
+somnolence.
+
+-- 34 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 35
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: G24.01 (TD) + current antipsychotic. Cross-reference with antipsychotic rx histories >=3 months.
+11 · COMPETITIVE LANDSCAPE
+Valbenazine (Ingrezza — Neurocrine itself), deutetrabenazine (Austedo — Teva). NBI-1065890 is
+Neurocrine's internal next-gen.
+12 · RISK / BENEFIT LOGIC
+Benefit: potential cleaner profile than parent molecule. Risk: Phase 2 class — tolerability superiority must be
+demonstrated.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+IPMG's high antipsychotic rx volume = large TD pool. Screening AIMS at every AP visit identifies
+candidates.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“If your movements from the old antipsychotic are still bothering you, this is a new version of the
+medicine we use to fix that — hopefully with fewer side effects.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment NEXTVMAT.
+16 · SOURCES
+· ClinicalTrials.gov NCT07365462
+· Neurocrine pipeline
+n SCREEN ONE PATIENT THIS WEEK · COMMENT NEXTVMAT · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 35 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 36
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+CHINO · STUDY 14 · COMMENT CODE M4OLE
+NBI-1117568 Schizophrenia Open-Label Extension
+PROTOCOL
+SCZ3032
+NCT
+NCT07114874
+SPONSOR
+Neurocrine Biosciences
+SITE
+Chino
+COMMENT CODE
+M4OLE
+n 2026 CORRECTION
+CORRECTED 2026: Emraclidine is an AbbVie asset (acquired via Cerevel), not a BMS asset. BMS owns the
+competitor, KarXT (Cobenfy).
+1 · THE HOOK
+STILL wondering if the new M4 class will actually hold up beyond 6 weeks?
+2 · THE UNMET NEED
+Long-term tolerability is the acid test for all novel antipsychotics. NBI-1117568's Phase 2 hit hard (PANSS
+-18.2 at 20 mg) but durability matters.
+H If M4 selectivity holds over a year with clean metabolic data, it out-competes KarXT on
+dosing simplicity.
+3 · AT A GLANCE
+18-65 52 wks 20 mg QD ~400
+AGE OLE DOSE TARGET N
+4 · WHY THIS STUDY EXISTS
+Rollover from Phase 2/3 parent studies. Safety + durability package for NDA.
+5 · MECHANISM OF ACTION
+Selective M4 muscarinic receptor agonist. Unlike KarXT (M1+M4), this is M4-pure — potentially avoids
+some cholinergic side effects.
+6 · STUDY DESIGN DEEP DIVE
+Open-label, single-arm, 52 weeks. Primary: long-term safety/tolerability. Secondary: PANSS maintenance.
+7 · RECRUIT IF YOUR PATIENT…
+Parent-study completers. The whole point: durability + safety data for the first M4-selective antipsychotic.
+8 · STOP / EXCLUDE IF…
+7 New-onset suicidality
+7 Narrow-angle glaucoma
+7 Significant urinary retention
+7 Pregnancy/nursing
+9 · IDEAL PATIENT PROFILE
+
+-- 36 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 37
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+Parent-study completer, stabilized on NBI-1117568, wants continued access.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: cross-reference prior Neurocrine trial participants.
+11 · COMPETITIVE LANDSCAPE
+KarXT (BMS Cobenfy) is the competitor class. Emraclidine (AbbVie, acquired from Cerevel in the $8.7B
+2024 deal) failed its Phase 2 schizophrenia trials in November 2024, effectively leaving M4 territory to NBI.
+12 · RISK / BENEFIT LOGIC
+Benefit: likely label-enabling data. Risk: OLE reveals rare AEs; withdrawal management complex.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+OLEs are retention-heavy, high-margin. Maintaining chronic-SCZ patients in research = steady revenue.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“You did well on the study medicine. This is the next year, where we make sure it keeps working safely
+long-term.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment M4OLE.
+16 · SOURCES
+· ClinicalTrials.gov NCT07114874
+· Neurocrine M4 Phase 2 PANSS data
+· AbbVie emraclidine Phase 2 failure Nov 2024
+n SCREEN ONE PATIENT THIS WEEK · COMMENT M4OLE · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 37 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 38
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+CHINO · STUDY 15 · COMMENT CODE RESIDUALTD
+Valbenazine TD4027 Residual TD
+PROTOCOL
+NBI-98854-TD402
+7
+NCT
+NCT07105111
+SPONSOR
+Neurocrine Biosciences
+SITE
+Chino
+COMMENT CODE
+RESIDUALTD
+1 · THE HOOK
+STILL telling TD patients 'as good as it gets' at 60% symptom reduction?
+2 · THE UNMET NEED
+Residual TD on approved VMAT2 dosing leaves patients still socially impaired. Higher/extended dosing
+paradigms are untested.
+H Dose optimization could convert partial responders to full remitters without new chemistry.
+3 · AT A GLANCE
+18-75 12 wks 80-120 mg ~250
+AGE DB DOSE TARGET N
+4 · WHY THIS STUDY EXISTS
+Lifecycle management for Ingrezza. Tests higher doses/longer titration for residual TD after first-line
+response.
+5 · MECHANISM OF ACTION
+Valbenazine (already approved) — VMAT2 inhibitor. This study optimizes dosing.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled in partial-responder population. Primary: AIMS change at
+Week 12.
+7 · RECRUIT IF YOUR PATIENT…
+Adults with TD, AIMS >=6 despite >=12 weeks of valbenazine at standard dose. The whole point: rescue
+patients for whom 'good enough' isn't.
+8 · STOP / EXCLUDE IF…
+7 QTc >500 ms
+7 Severe hepatic impairment
+7 Concurrent strong CYP3A4 inhibitor
+7 Pregnancy
+9 · IDEAL PATIENT PROFILE
+67 y/o with residual tongue dyskinesia on valbenazine 80 mg x 6 months, AIMS 7.
+
+-- 38 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 39
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: G24.01 + active valbenazine rx + last AIMS >=6.
+11 · COMPETITIVE LANDSCAPE
+Deutetrabenazine, NBI-1065890 next-gen. Dose-optimization vs molecule-switch is the strategic question.
+12 · RISK / BENEFIT LOGIC
+Benefit: leverages an already-approved, tolerated drug. Risk: higher doses may surface new AEs
+(somnolence, depression).
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+Residual TD patients are already in your chart. Turnkey recruitment.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“The movement medicine is helping, but not enough. This study tests whether a higher dose finishes
+the job.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment RESIDUALTD.
+16 · SOURCES
+· ClinicalTrials.gov NCT07105111
+· Ingrezza Prescribing Information
+n SCREEN ONE PATIENT THIS WEEK · COMMENT RESIDUALTD · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 39 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 40
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+CHINO · STUDY 16 · COMMENT CODE BUOY1
+SPT-300 (GlyphAllo) MDD with Anxious Distress —
+BUOY-1
+PROTOCOL
+2024-203
+NCT
+NCT07065240
+SPONSOR
+Seaport Therapeutics
+SITE
+Chino
+COMMENT CODE
+BUOY1
+1 · THE HOOK
+STILL watching 'depression with anxious distress' patients fail both SSRI and
+benzo paths?
+2 · THE UNMET NEED
+DSM-5 MDD 'with anxious distress' specifier predicts SSRI non-response. No mechanism-matched drug
+exists.
+H An oral allopregnanolone prodrug could deliver Zulresso-like GABAA modulation
+outpatient, targeting the anxious subset.
+3 · AT A GLANCE
+18-65 8 wks Oral QD ~250
+AGE DB TARGET N
+4 · WHY THIS STUDY EXISTS
+Seaport (spin-out from PureTech) is advancing SPT-300 — an oral allopregnanolone prodrug — for MDD
+with anxious features. BUOY-1 is the lead efficacy trial.
+5 · MECHANISM OF ACTION
+Glycolipid-conjugated allopregnanolone prodrug (GlyphAllo). Slow-release oral delivery of the same active
+as brexanolone/zuranolone.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled 8 weeks. Primary: HAM-D17 change; key secondary: HAM-A.
+7 · RECRUIT IF YOUR PATIENT…
+Adults with MDD + DSM-5 anxious distress specifier (>=2 of 5 anxious features). The whole point: target the
+anxious-depressed subset that SSRIs fail.
+8 · STOP / EXCLUDE IF…
+7 Bipolar
+7 Active SUD
+7 Recent benzodiazepine/hypnotic use
+7 Pregnancy
+7 Severe hepatic dysfunction
+
+-- 40 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 41
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+9 · IDEAL PATIENT PROFILE
+38 y/o MDD with panic-like somatic anxiety, tried escitalopram + buspirone, still HAM-D 22.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: F32.x/F33.x + F41.1 (GAD)/F41.9 comorbid. Flag PHQ + GAD-7 both elevated.
+11 · COMPETITIVE LANDSCAPE
+Zuranolone (Zurzuvae) is approved for PPD only. SSRI + benzo is the default messy combo. SPT-300 aims
+to replace both.
+12 · RISK / BENEFIT LOGIC
+Benefit: GABAA mechanism matched to anxious-depressed subtype, no scheduled status expected. Risk:
+somnolence/sedation class AEs.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+Anxious depression is the MOST common MDD subtype. Target-able, screenable, and under-treated.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“This pill is based on a new way to treat depression — especially the kind where anxiety is also a big
+problem. It's an oral version of a medicine used after childbirth.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment BUOY1.
+16 · SOURCES
+· ClinicalTrials.gov NCT07065240
+· Seaport Therapeutics pipeline
+n SCREEN ONE PATIENT THIS WEEK · COMMENT BUOY1 · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 41 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 42
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+CHINO · STUDY 17 · COMMENT CODE BUOYOLE
+SPT-300 MDD Open-Label Extension
+PROTOCOL
+2024-204
+NCT
+NCT07161700
+SPONSOR
+Seaport Therapeutics
+SITE
+Chino
+COMMENT CODE
+BUOYOLE
+1 · THE HOOK
+STILL waiting to see if the GABAA breakthrough lasts beyond the acute trial?
+2 · THE UNMET NEED
+Allopregnanolone modulators historically show rapid onset but durability questions. OLE answers them.
+H 52-week maintenance data = label-enabling story.
+3 · AT A GLANCE
+18-65 52 wks Oral QD ~400
+AGE OLE TARGET N
+4 · WHY THIS STUDY EXISTS
+Rollover OLE from BUOY-1 / sister studies. Supports NDA long-term safety.
+5 · MECHANISM OF ACTION
+Same as SPT-300 / BUOY-1.
+6 · STUDY DESIGN DEEP DIVE
+Open-label single-arm 52 weeks. Primary: long-term safety/tolerability; secondary: HAM-D maintenance.
+7 · RECRUIT IF YOUR PATIENT…
+BUOY-1 and parent-trial completers. The whole point: durability and safety package.
+8 · STOP / EXCLUDE IF…
+7 Emergent suicidality
+7 New substance use
+7 Pregnancy
+7 Severe hepatic dysfunction
+9 · IDEAL PATIENT PROFILE
+Parent-trial completer with sustained response wanting continued access.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: cross-reference parent Seaport trial participants.
+11 · COMPETITIVE LANDSCAPE
+Zuranolone OLE data (limited to PPD). SPT-300 OLE breaks new ground for MDD with anxious features.
+
+-- 42 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 43
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+12 · RISK / BENEFIT LOGIC
+Benefit: continued response, NDA-enabling data. Risk: rare long-term AEs surface; GABAA dependence
+questions.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+Retained cohort drives predictable site revenue; OLEs cushion enrollment gaps.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“You're doing well on the study medicine. This is the year-long continuation so we know it's safe and
+keeps working.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment BUOYOLE.
+16 · SOURCES
+· ClinicalTrials.gov NCT07161700
+n SCREEN ONE PATIENT THIS WEEK · COMMENT BUOYOLE · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 43 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 44
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+CHINO · STUDY 18 · COMMENT CODE RAPBP
+RAP-219 in Bipolar I
+PROTOCOL
+RAP-219-BPM-20
+1
+NCT
+NCT07046494
+SPONSOR
+Rapport Therapeutics
+SITE
+Chino
+COMMENT CODE
+RAPBP
+1 · THE HOOK
+STILL balancing lithium toxicity and lamotrigine rashes as 'mood stabilizer
+options' in 2026?
+2 · THE UNMET NEED
+Mood stabilizer innovation has stalled since Depakote. Novel targets are desperately needed.
+H TARP-gamma8-dependent AMPA modulation offers region-selective glutamate tuning — a
+fundamentally new bipolar mechanism.
+3 · AT A GLANCE
+18-65 8 wks QD ~200
+AGE DB DOSING TARGET N
+4 · WHY THIS STUDY EXISTS
+Rapport's lead asset, entering bipolar mood episodes. Phase 2a proof-of-concept in BP-I.
+5 · MECHANISM OF ACTION
+Selective TARP-gamma8-dependent AMPA receptor negative allosteric modulator. Targets
+hippocampal/cortical AMPA without global glutamate suppression.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled 8 weeks. Primary: YMRS (for mania-inclusive cohort) or
+MADRS (for depressed cohort).
+7 · RECRUIT IF YOUR PATIENT…
+BP-I adults in current episode. The whole point: rescue patients whose mood stabilizer regimen isn't working
+without adding atypical metabolic burden.
+8 · STOP / EXCLUDE IF…
+7 Rapid cycling
+7 Psychotic features
+7 Substance use
+7 Seizure history (AMPA NAM could theoretically alter threshold — but mechanistically seizure-neutral)
+7 Pregnancy
+9 · IDEAL PATIENT PROFILE
+
+-- 44 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 45
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+40 y/o BP-I mixed episode, failed lithium and lamotrigine, currently on quetiapine but gaining weight.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: F31.1x/F31.2/F31.3x/F31.4 + prior mood stabilizer failure.
+11 · COMPETITIVE LANDSCAPE
+Lithium, Depakote, lamotrigine, atypicals, Vraylar, Caplyta. RAP-219 is the only TARP-gamma8 asset in
+bipolar clinical-stage development.
+12 · RISK / BENEFIT LOGIC
+Benefit: truly new mechanism; region-selective = fewer side effects predicted. Risk: Phase 2, unproven
+efficacy; glutamatergic class carries seizure-threshold questions.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+Early-stage novel mood stabilizer positions the site for the first new bipolar mechanism in 20 years.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“This is a brand-new kind of mood stabilizer. It doesn't work like lithium or Depakote — it fine-tunes a
+specific brain signal involved in mood episodes.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment RAPBP.
+16 · SOURCES
+· ClinicalTrials.gov NCT07046494
+· Rapport Therapeutics pipeline
+n SCREEN ONE PATIENT THIS WEEK · COMMENT RAPBP · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 45 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 46
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+SITE
+Redlands
+3 active protocols · 2026
+19 Lumateperone Pediatric SCZ / Bipolar / Autism Safety LUMAPED
+20 Lumateperone Pediatric Bipolar Depression LUMABIP
+21 Lumateperone Pediatric Autism Irritability LUMAAUT
+
+-- 46 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 47
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+REDLANDS · STUDY 19 · COMMENT CODE LUMAPED
+Lumateperone Pediatric SCZ / Bipolar / Autism
+Safety
+PROTOCOL
+ITI-007-321
+NCT
+NCT06229210
+SPONSOR
+Intra-Cellular Therapies (J&J;)
+SITE
+Redlands
+COMMENT CODE
+LUMAPED
+1 · THE HOOK
+STILL prescribing risperidone to 8-year-olds because nothing cleaner is labeled?
+2 · THE UNMET NEED
+Pediatric psychiatric labels are thin, and weight/metabolic safety in kids on D2 blockers is dire.
+H Lumateperone's clean adult profile (virtually no weight gain) makes it the most anticipated
+pediatric antipsychotic launch since risperidone.
+3 · AT A GLANCE
+6-17 52 wks Flex dose ~300
+AGE SAFETY TARGET N
+4 · WHY THIS STUDY EXISTS
+J&J; closed its $14.6B Intra-Cellular acquisition April 2025. Caplyta adjunctive MDD approved Nov 6, 2025.
+Pediatric expansion across SCZ/BP/autism is J&J;'s next move.
+5 · MECHANISM OF ACTION
+Serotonin/dopamine/glutamate modulator. Unique presynaptic D2 agonism + postsynaptic D2 antagonism +
+5-HT2A antagonism + glutamate modulation.
+6 · STUDY DESIGN DEEP DIVE
+Long-term open-label safety in pediatric populations spanning schizophrenia, bipolar, and autism. Primary:
+safety/tolerability; secondary: efficacy signals.
+7 · RECRUIT IF YOUR PATIENT…
+6-17 y/o with DSM-5 SCZ, BP-I (dep or mania), or autism with severe behavioral disturbance. The whole
+point: give kids the cleanest antipsychotic safety data available.
+8 · STOP / EXCLUDE IF…
+7 Severe comorbid medical illness
+7 Active substance use (older adolescents)
+7 Pregnancy/nursing
+7 Recent major treatment change
+9 · IDEAL PATIENT PROFILE
+
+-- 47 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 48
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+11 y/o with BP-I + autism irritability, gained 15 lb on risperidone, family seeking alternative.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: F20.x / F31.x / F84.0 + age 6-17 + antipsychotic rx in last year. Track BMI percentile trajectory.
+11 · COMPETITIVE LANDSCAPE
+Risperidone, aripiprazole, olanzapine, paliperidone all pediatric-labeled. Caplyta is positioned as the
+cleanest metabolic profile.
+12 · RISK / BENEFIT LOGIC
+Benefit: clean adult safety profile, J&J; resources behind pediatric rollout. Risk: pediatric-specific AEs
+(growth, puberty) still being defined.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+Pediatric antipsychotic research is extremely hard to staff — IPMG's infrastructure and referral networks are
+a real moat.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“Caplyta is a newer antipsychotic that adults tolerate really well. We're studying it in kids and teens to
+see if it's the same for them.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment LUMAPED.
+16 · SOURCES
+· ClinicalTrials.gov NCT06229210
+· J&J; closes Intra-Cellular acquisition April 2025
+· Caplyta adjunctive MDD FDA approval Nov 2025
+n SCREEN ONE PATIENT THIS WEEK · COMMENT LUMAPED · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 48 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 49
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+REDLANDS · STUDY 20 · COMMENT CODE LUMABIP
+Lumateperone Pediatric Bipolar Depression
+PROTOCOL
+ITI-007-421
+NCT
+NCT06372964
+SPONSOR
+Intra-Cellular Therapies (J&J;)
+SITE
+Redlands
+COMMENT CODE
+LUMABIP
+1 · THE HOOK
+STILL offering quetiapine to depressed bipolar teens and hoping for the best?
+2 · THE UNMET NEED
+Lurasidone and olanzapine-fluoxetine are the pediatric BP-D labels. Neither is popular in 2026 teen
+psychiatry.
+H Lumateperone pediatric BP-D approval = a preferred first-line for a diagnosis we can't afford
+to miss.
+3 · AT A GLANCE
+10-17 6 wks Flex dose ~400
+AGE DB TARGET N
+4 · WHY THIS STUDY EXISTS
+Adult BP-D label already held. Pediatric expansion extends franchise and matches Cariprazine's pediatric
+push (Study 1).
+5 · MECHANISM OF ACTION
+Same as Study 19.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled 6 weeks monotherapy. Primary: CDRS-R change. OLE
+follows.
+7 · RECRUIT IF YOUR PATIENT…
+10-17 y/o BP-I current depressive episode, CDRS-R >=45. The whole point: give clinicians a weight-neutral
+pediatric BP-D option.
+8 · STOP / EXCLUDE IF…
+7 Mixed features/mania
+7 Active suicidality
+7 Substance use
+7 Pregnancy
+9 · IDEAL PATIENT PROFILE
+15 y/o BP-I depressed, failed lamotrigine monotherapy, family refusing Latuda due to food requirement.
+
+-- 49 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 50
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: F31.3x/F31.4/F31.5 + age 10-17.
+11 · COMPETITIVE LANDSCAPE
+Lurasidone, olanzapine-fluoxetine, cariprazine pediatric (Study 1). Lumateperone's 'take with or without
+food' + clean metabolic profile is the pitch.
+12 · RISK / BENEFIT LOGIC
+Benefit: clean metabolic profile matters disproportionately in teens. Risk: somnolence, EPS mild but present.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+Dual Redlands studies (Study 19 + 20) = coordinated pediatric recruitment.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“This is the depression side of bipolar disorder, in teenagers. We're testing if Caplyta helps lift the mood
+without the weight gain of other pills.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment LUMABIP.
+16 · SOURCES
+· ClinicalTrials.gov NCT06372964
+n SCREEN ONE PATIENT THIS WEEK · COMMENT LUMABIP · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 50 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 51
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+REDLANDS · STUDY 21 · COMMENT CODE LUMAAUT
+Lumateperone Pediatric Autism Irritability
+PROTOCOL
+ITI-007-601
+NCT
+NCT06690398
+SPONSOR
+Intra-Cellular Therapies (J&J;)
+SITE
+Redlands
+COMMENT CODE
+LUMAAUT
+1 · THE HOOK
+STILL using aripiprazole or risperidone for autism irritability despite massive
+weight gain?
+2 · THE UNMET NEED
+Risperidone and aripiprazole are the only FDA-approved autism irritability drugs. Both cause metabolic
+syndrome and prolactin issues in kids.
+H A weight-neutral option for autism irritability would transform pediatric autism care.
+3 · AT A GLANCE
+5-17 8 wks Flex dose ~300
+AGE DB TARGET N
+4 · WHY THIS STUDY EXISTS
+Completes J&J;'s pediatric Caplyta trifecta — SCZ/BP/autism. Autism irritability is a >$1B market.
+5 · MECHANISM OF ACTION
+Same as Studies 19-20.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled 8 weeks. Primary: ABC-Irritability subscale change.
+7 · RECRUIT IF YOUR PATIENT…
+5-17 y/o DSM-5 autism with severe irritability (ABC-I >=18). The whole point: reduce self-injury, aggression,
+severe tantrums without weight gain.
+8 · STOP / EXCLUDE IF…
+7 Epilepsy (uncontrolled)
+7 Severe intellectual disability where consent impossible
+7 Substance use (older adolescents)
+7 Pregnancy
+9 · IDEAL PATIENT PROFILE
+9 y/o autistic boy with head-banging and aggression, 18 lb weight gain on risperidone in 6 months.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+
+-- 51 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 52
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+eCW: F84.0 + ABC-I documentation OR behavioral documentation of aggression/self-injury. Flag BMI
+increase.
+11 · COMPETITIVE LANDSCAPE
+Risperidone (Risperdal) and aripiprazole (Abilify) are the incumbents. Lumateperone competes on metabolic
+profile.
+12 · RISK / BENEFIT LOGIC
+Benefit: first weight-neutral autism-irritability agent. Risk: efficacy vs aripiprazole gold standard uncertain in
+this population.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+Autism families travel for trial access. Redlands' geographic reach pulls from a wide catchment.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“This is for kids with autism whose aggression or self-injury is overwhelming. The old pills help but
+cause a lot of weight gain. This new one might not.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment LUMAAUT.
+16 · SOURCES
+· ClinicalTrials.gov NCT06690398
+n SCREEN ONE PATIENT THIS WEEK · COMMENT LUMAAUT · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 52 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 53
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+SITE
+Temecula
+7 active protocols · 2026
+22 ABBV-932 Adjunctive Generalized Anxiety Disorder M4GAD
+23 ABBV-932 Bipolar Depression M4BP
+24 Icalcaprant (ABBV-987) MDD KORMDD
+25 ALTO-300 Adjunctive MDD (Biomarker-Matched) EEG300
+26 SPN-821 MDD MTORCMDD
+27 JNJ-89495120 MOONLIGHT-1 MDD MOONLIGHT
+28 Seltorexant (JNJ-42847922) MDD + Insomnia — Sleep EEG
+Observational
+DREEM3S
+
+-- 53 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 54
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+TEMECULA · STUDY 22 · COMMENT CODE M4GAD
+ABBV-932 Adjunctive Generalized Anxiety Disorder
+PROTOCOL
+M25-099
+NCT
+NCT06846320
+SPONSOR
+AbbVie (Cerevel)
+SITE
+Temecula
+COMMENT CODE
+M4GAD
+1 · THE HOOK
+STILL stacking SSRI + buspirone + hydroxyzine + trazodone for
+treatment-resistant GAD?
+2 · THE UNMET NEED
+GAD pharmacology is stuck in 1995. Benzodiazepines are problematic; SSRI augmentation is hit-or-miss.
+H M4 muscarinic partial agonism may stabilize limbic hyperactivity without sedation.
+3 · AT A GLANCE
+18-65 8 wks QD dosing ~300
+AGE DB TARGET N
+4 · WHY THIS STUDY EXISTS
+AbbVie's 2024 Cerevel acquisition brought this M4 PAM into the portfolio. First anxiety indication.
+5 · MECHANISM OF ACTION
+M4 muscarinic receptor partial agonist. Differentiates from KarXT by being muscarinic-only and partial
+agonism (softer activation curve).
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled adjunct to SSRI/SNRI. Primary: HAM-A change Week 8.
+7 · RECRUIT IF YOUR PATIENT…
+GAD adults (DSM-5) on stable SSRI/SNRI >=8 weeks, HAM-A >=18. The whole point: end the
+polypharmacy spiral.
+8 · STOP / EXCLUDE IF…
+7 Panic disorder as primary diagnosis
+7 Bipolar/psychotic disorder
+7 SUD
+7 Narrow-angle glaucoma
+7 Urinary retention
+9 · IDEAL PATIENT PROFILE
+42 y/o on sertraline 100 mg x 6 months, still HAM-A 22, PRN benzos creeping up.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+
+-- 54 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 55
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+eCW: F41.1 + current SSRI/SNRI + GAD-7 >=15.
+11 · COMPETITIVE LANDSCAPE
+Buspirone, quetiapine off-label, hydroxyzine, benzos. No muscarinic anxiety drug exists. ABBV-932 is the
+novel entrant.
+12 · RISK / BENEFIT LOGIC
+Benefit: novel mechanism, potentially non-sedating. Risk: cholinergic AEs (nausea, GI), anticholinergic
+burden considerations.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+GAD is the most common anxiety diagnosis in primary care. Offering a novel study converts aggressively.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“Your anxiety isn't fully controlled even with Zoloft. This adds a brand-new medicine that works on a
+different brain system — not another antidepressant, not a Xanax-type.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment M4GAD.
+16 · SOURCES
+· ClinicalTrials.gov NCT06846320
+· AbbVie / Cerevel acquisition overview
+n SCREEN ONE PATIENT THIS WEEK · COMMENT M4GAD · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 55 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 56
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+TEMECULA · STUDY 23 · COMMENT CODE M4BP
+ABBV-932 Bipolar Depression
+PROTOCOL
+M25-456
+NCT
+NCT07220460
+SPONSOR
+AbbVie (Cerevel)
+SITE
+Temecula
+COMMENT CODE
+M4BP
+1 · THE HOOK
+STILL telling BP-D patients their only options are Latuda, Vraylar, Caplyta, or
+quetiapine?
+2 · THE UNMET NEED
+BP-D innovation is slow. A non-D2 option would broaden choice dramatically.
+H If M4 partial agonism treats both mania AND depression phases, it's a true mood stabilizer
+— not just an antipsychotic.
+3 · AT A GLANCE
+18-65 6 wks QD dosing ~400
+AGE DB TARGET N
+4 · WHY THIS STUDY EXISTS
+AbbVie betting M4 PAM = true mood stabilizer. Sibling study to ABBV-932 GAD.
+5 · MECHANISM OF ACTION
+Same M4 PAM as Study 22.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled 6 weeks. Primary: MADRS change.
+7 · RECRUIT IF YOUR PATIENT…
+BP-I or BP-II, current depressive episode, MADRS >=24. The whole point: test a non-D2, non-antipsychotic
+for bipolar depression.
+8 · STOP / EXCLUDE IF…
+7 Mania/hypomania current
+7 Rapid cycling
+7 Psychotic features
+7 Narrow-angle glaucoma
+9 · IDEAL PATIENT PROFILE
+50 y/o BP-II depressed, gained weight on quetiapine, open to something new.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: F31.3x/F31.4/F31.5/F31.81 + currently depressed.
+
+-- 56 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 57
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+11 · COMPETITIVE LANDSCAPE
+Same as Study 3 (ALTO-100) and Study 20 (Lumateperone pediatric).
+12 · RISK / BENEFIT LOGIC
+Benefit: non-D2 option. Risk: Phase 2, efficacy unproven in BP-D.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+Having BOTH ABBV-932 GAD and BP-D at the same site creates efficient infrastructure sharing.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“This is a depression side of bipolar study, testing a brand-new kind of medicine — not an antipsychotic,
+not an antidepressant. A new category.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment M4BP.
+16 · SOURCES
+· ClinicalTrials.gov NCT07220460
+n SCREEN ONE PATIENT THIS WEEK · COMMENT M4BP · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 57 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 58
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+TEMECULA · STUDY 24 · COMMENT CODE KORMDD
+Icalcaprant (ABBV-987) MDD
+PROTOCOL
+M25-987
+NCT
+NCT07276997
+SPONSOR
+AbbVie
+SITE
+Temecula
+COMMENT CODE
+KORMDD
+n 2026 CORRECTION
+CORRECTED 2026: Target N is ~195 (not 500). Patients are excluded only for >=3 prior antidepressant failures;
+patients with 1-2 prior failures ARE eligible.
+1 · THE HOOK
+STILL hoping a KOR antagonist will finally deliver for MDD?
+2 · THE UNMET NEED
+Kappa opioid antagonism targets anhedonia and stress reactivity — two SSRI-resistant domains.
+H After navacaprant's KOASTAL-1 failure (Jan 2025) and aticaprant's VENTURA
+discontinuation (Mar 2025), icalcaprant is the last KOR bet.
+3 · AT A GLANCE
+18-65 6 wks QD dosing ~195
+AGE DB TARGET N
+4 · WHY THIS STUDY EXISTS
+AbbVie is picking up the KOR-antagonism baton after competitors failed. Better selectivity/dosing profile
+claimed.
+5 · MECHANISM OF ACTION
+Selective kappa opioid receptor (KOR) antagonist. Blocks dynorphin-driven stress/anhedonia circuits
+without mu/delta opioid activity.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled monotherapy or adjunct (check protocol). Primary: MADRS
+change; key secondary: SHAPS anhedonia.
+7 · RECRUIT IF YOUR PATIENT…
+MDD adults, MADRS >=26, anhedonia (SHAPS elevated). Patients with up to 2 failed antidepressant trials
+this episode ARE eligible — only those with >=3 failures are excluded. The whole point: treat the 'nothing
+feels good' depression that SSRIs miss.
+8 · STOP / EXCLUDE IF…
+7 Opioid use disorder
+7 Chronic pain on opioids
+
+-- 58 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 59
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+7 >=3 failed antidepressant trials this episode (2 failures are OK)
+7 Bipolar
+7 Pregnancy
+9 · IDEAL PATIENT PROFILE
+35 y/o MDD with prominent anhedonia, has failed 2 prior antidepressants this episode (but not 3+), no
+pain/opioid history.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: F32.x/F33.x + PHQ-9 Q1 (anhedonia) high + no opioid rx. Patients with 1-2 prior AD failures qualify;
+3+ failures disqualify.
+11 · COMPETITIVE LANDSCAPE
+Field is thin after KOASTAL/VENTURA failures. If icalcaprant hits, AbbVie owns the class.
+12 · RISK / BENEFIT LOGIC
+Benefit: mechanism validated partially in smaller trials; anhedonia-focused. Risk: class history is rough;
+efficacy uncertainty.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+Being the site that 'carries' KOR into registration = prestige + referrals. Small N (~195) means every enrolled
+patient matters more to the sponsor.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“This medicine works on the pleasure system of the brain. It's for depression where nothing feels
+enjoyable anymore — not an SSRI. If you've tried one or two antidepressants without success, you
+likely qualify.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment KORMDD.
+16 · SOURCES
+· ClinicalTrials.gov NCT07276997
+· Neumora KOASTAL-1 Jan 2025 failure
+· J&J; aticaprant VENTURA discontinuation Mar 2025
+n SCREEN ONE PATIENT THIS WEEK · COMMENT KORMDD · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 59 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 60
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+TEMECULA · STUDY 25 · COMMENT CODE EEG300
+ALTO-300 Adjunctive MDD (Biomarker-Matched)
+PROTOCOL
+ALTO-300-201
+NCT
+NCT05922878
+SPONSOR
+Alto Neuroscience
+SITE
+Temecula
+COMMENT CODE
+EEG300
+1 · THE HOOK
+STILL throwing augmentation darts and hoping one sticks?
+2 · THE UNMET NEED
+No clinical biomarker guides adjunct MDD choice. EEG-based stratification could finally change that.
+H A biomarker-enriched trial that pre-screens responders could prove the
+precision-psychiatry thesis.
+3 · AT A GLANCE
+18-65 6 wks QD ~300
+AGE DB DOSING TARGET N
+4 · WHY THIS STUDY EXISTS
+Alto's signature approach: EEG biomarker pre-selection for enrollment. ALTO-300 is the lead adjunct MDD
+asset.
+5 · MECHANISM OF ACTION
+Proprietary neuroplasticity/monoaminergic modulator (Alto-specific). EEG biomarker (specific frequency
+signature) predicts response.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled adjunct to SSRI/SNRI. Enrollment requires qualifying EEG
+biomarker. Primary: MADRS Week 6.
+7 · RECRUIT IF YOUR PATIENT…
+MDD adults on SSRI/SNRI >=6 weeks with partial response, MADRS >=22, matching EEG signature. The
+whole point: biomarker-matched augmentation.
+8 · STOP / EXCLUDE IF…
+7 Non-matching EEG
+7 Bipolar
+7 Psychosis
+7 TRD (typically)
+7 Pregnancy
+9 · IDEAL PATIENT PROFILE
+45 y/o MDD on venlafaxine 150 mg x 8 weeks, still PHQ-9 13, intrigued by the EEG screen.
+
+-- 60 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 61
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: F32.x/F33.x + SSRI/SNRI >=6 weeks + PHQ-9 >=10. Screen for EEG willingness.
+11 · COMPETITIVE LANDSCAPE
+Aripiprazole, brexpiprazole, Caplyta in the adjunct space. Alto-300's precision-medicine angle is the
+differentiator.
+12 · RISK / BENEFIT LOGIC
+Benefit: biomarker-matched patients responding at high rates; clean drug profile. Risk: EEG screen
+disqualifies many patients — operational overhead.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+Having in-house EEG capabilities positions IPMG as a precision-psychiatry site.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“We'll do a quick brainwave test. If your brain pattern matches, we add a new medicine to your
+antidepressant — one picked specifically for your brain signature.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment EEG300.
+16 · SOURCES
+· ClinicalTrials.gov NCT05922878
+· Alto Neuroscience biomarker approach
+n SCREEN ONE PATIENT THIS WEEK · COMMENT EEG300 · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 61 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 62
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+TEMECULA · STUDY 26 · COMMENT CODE MTORCMDD
+SPN-821 MDD
+PROTOCOL
+821P203
+NCT
+NCT07226661
+SPONSOR
+Supernus Pharmaceuticals
+SITE
+Temecula
+COMMENT CODE
+MTORCMDD
+1 · THE HOOK
+STILL waiting for the mTOR story to finally deliver in depression?
+2 · THE UNMET NEED
+mTORC1 activation is ketamine's downstream signal. An oral, non-dissociative mTOR path would be huge.
+H SPN-820 failed TRD Phase 2b (Feb 2025), but SPN-821 is the next-gen follow-up with
+improved drug-like properties.
+3 · AT A GLANCE
+18-65 6 wks QD ~300
+AGE DB DOSING TARGET N
+4 · WHY THIS STUDY EXISTS
+Supernus lifecycle-continuing the mTOR MDD program despite 820's miss. 821 has refined pharmacology.
+5 · MECHANISM OF ACTION
+mTORC1 activator / NV-5138 analog. Oral, bypasses ketamine's NMDA route. Drives rapid synaptic
+plasticity.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled 6 weeks monotherapy or adjunct (per protocol). Primary:
+MADRS change.
+7 · RECRUIT IF YOUR PATIENT…
+MDD adults, moderate-severe (MADRS >=26). The whole point: capture the ketamine-like benefit without
+the dissociation or controlled-substance status.
+8 · STOP / EXCLUDE IF…
+7 TRD (per protocol)
+7 Active SUD
+7 Pregnancy
+7 Psychotic/bipolar disorder
+9 · IDEAL PATIENT PROFILE
+45 y/o MDD intrigued by ketamine buzz but unwilling to sit in a clinic.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+
+-- 62 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 63
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+eCW: F32.x/F33.x + moderate-severe PHQ-9.
+11 · COMPETITIVE LANDSCAPE
+Spravato (esketamine), NRX-101, Auvelity all compete for the 'ketamine-like oral' narrative. SPN-821 wins
+only if it separates.
+12 · RISK / BENEFIT LOGIC
+Benefit: oral, daily dosing, no DEA scheduling expected. Risk: SPN-820's Phase 2b miss is a yellow flag for
+the mechanism.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+Rapid-acting oral MDD is the holy grail — worth supporting the mechanism broadly.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“This is an oral pill aiming to do what ketamine does for depression — quickly — but without the
+dissociation or in-clinic sitting.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment MTORCMDD.
+16 · SOURCES
+· ClinicalTrials.gov NCT07226661
+· Supernus SPN-820 Phase 2b TRD failure Feb 2025
+n SCREEN ONE PATIENT THIS WEEK · COMMENT MTORCMDD · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 63 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 64
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+TEMECULA · STUDY 27 · COMMENT CODE MOONLIGHT
+JNJ-89495120 MOONLIGHT-1 MDD
+PROTOCOL
+89495120MDD200
+1
+NCT
+NCT06785012
+SPONSOR
+Johnson & Johnson
+SITE
+Temecula
+COMMENT CODE
+MOONLIGHT
+1 · THE HOOK
+STILL watching J&J; pipeline bets and wondering which post-Spravato asset will
+matter?
+2 · THE UNMET NEED
+J&J; needs Spravato's successor. MDD pipeline diversification.
+H MOONLIGHT-1 is J&J;'s newest MDD POC. Mechanism per protocol.
+3 · AT A GLANCE
+18-65 6 wks Per protocol ~300
+AGE DB DOSE TARGET N
+4 · WHY THIS STUDY EXISTS
+Phase 2 proof-of-concept for a new J&J; MDD asset.
+5 · MECHANISM OF ACTION
+Proprietary mechanism (JNJ molecule-specific). Novel target per sponsor.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled Phase 2. Primary: MADRS.
+7 · RECRUIT IF YOUR PATIENT…
+MDD adults, moderate-severe. The whole point: contribute to J&J;'s next-generation MDD portfolio.
+8 · STOP / EXCLUDE IF…
+7 Typical MDD Phase 2 exclusions (bipolar, SUD, TRD, pregnancy, suicidality)
+9 · IDEAL PATIENT PROFILE
+40 y/o MDD, first-episode, open to research.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: F32.x/F33.x + moderate-severe PHQ-9.
+11 · COMPETITIVE LANDSCAPE
+Every Phase 2 MDD asset is a competitor here; differentiation TBD based on Phase 2 readout.
+
+-- 64 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 65
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+12 · RISK / BENEFIT LOGIC
+Benefit: J&J; sponsorship quality; full late-stage development pathway if it hits. Risk: Phase 2 novelty —
+efficacy unknown.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+J&J; relationship = long-term site value across multiple programs.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“A major drug company is testing a new depression medicine. Phase 2 — still early — but with a strong
+team behind it.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment MOONLIGHT.
+16 · SOURCES
+· ClinicalTrials.gov NCT06785012
+n SCREEN ONE PATIENT THIS WEEK · COMMENT MOONLIGHT · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 65 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 66
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+TEMECULA · STUDY 28 · COMMENT CODE DREEM3S
+Seltorexant (JNJ-42847922) MDD + Insomnia —
+Sleep EEG Observational
+PROTOCOL
+42847922MDD301
+4
+NCT
+NCT07258485
+SPONSOR
+Johnson & Johnson
+SITE
+Temecula
+COMMENT CODE
+DREEM3S
+n 2026 CORRECTION
+CORRECTED 2026: Age range extends to 74 (not 65). Older adults are eligible.
+1 · THE HOOK
+STILL writing Ambien refills for depressed patients without measuring sleep
+architecture?
+2 · THE UNMET NEED
+MDD-with-insomnia is 70% of depression in primary care. Sleep architecture data is rarely collected.
+H At-home Dreem 3S EEG headband + seltorexant (JNJ-42847922) = MDD sleep measurement
+at scale.
+3 · AT A GLANCE
+18-74 Obs. Dreem 3S ~200
+AGE DESIGN DEVICE TARGET N
+4 · WHY THIS STUDY EXISTS
+Seltorexant's Phase 3 MDD3001 read out POSITIVE May 2024. MDD3014 is an observational sleep-EEG
+study characterizing real-world sleep architecture on-treatment. Note: this molecule was briefly mis-indexed
+as aticaprant — 42847922 is seltorexant (OX2R antagonist).
+5 · MECHANISM OF ACTION
+Selective OX2R (orexin 2 receptor) antagonist. Differs from suvorexant/lemborexant (dual DORA). OX2R
+selectivity aims for sleep + mood efficacy.
+6 · STUDY DESIGN DEEP DIVE
+Observational (non-interventional) cohort. Patients on seltorexant wear Dreem 3S at-home EEG headband.
+Measures: sleep architecture (N3, REM), mood.
+7 · RECRUIT IF YOUR PATIENT…
+MDD + insomnia adults, ages 18 through 74 (includes older adults), started on seltorexant per clinical care.
+The whole point: generate real-world sleep EEG on this novel OX2R.
+8 · STOP / EXCLUDE IF…
+
+-- 66 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 67
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+7 Primary sleep disorder (OSA, narcolepsy)
+7 Shift work
+7 Unable/unwilling to wear Dreem headband
+7 Pregnancy
+9 · IDEAL PATIENT PROFILE
+42 y/o MDD with insomnia, tried trazodone and Ambien, now prescribed seltorexant. Older adults (up to 74)
+are also eligible.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: F32.x/F33.x + G47.00 (insomnia) + seltorexant rx, ages 18-74.
+11 · COMPETITIVE LANDSCAPE
+Suvorexant, lemborexant, daridorexant (DORAs). Seltorexant's OX2R selectivity + MDD signal is unique.
+12 · RISK / BENEFIT LOGIC
+Benefit: observational = no intervention risk. Risk: device compliance is the main operational challenge.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+Operational readiness for device-based trials = strategic capability. Pays off repeatedly. Extended age range
+(up to 74) broadens the eligible pool significantly.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“You're starting a new sleep medicine for depression. We'd like you to wear a soft headband at home
+for a few nights so we can see how your sleep is improving. Adults up to age 74 can join.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment DREEM3S.
+16 · SOURCES
+· ClinicalTrials.gov NCT07258485
+· J&J; seltorexant MDD3001 positive topline May 2024
+· Dreem Health sleep EEG platform
+n SCREEN ONE PATIENT THIS WEEK · COMMENT DREEM3S · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 67 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 68
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+SITE
+San Juan Capistrano
+5 active protocols · 2026
+29 CYB003 APPROACH Phase 3 MDD APPROACH
+30 CYB003 EMBRACE Phase 3 MDD EMBRACE
+31 CYB003 EXTEND Open-Label Extension MDD EXTEND
+32 Solriamfetol in Binge Eating Disorder — ENGAGE ENGAGE
+33 TSND-201 (Methylone) in PTSD — EMPOWER-1 EMPOWER1
+
+-- 68 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 69
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+SAN JUAN CAPISTRANO · STUDY 29 · COMMENT CODE APPROACH
+CYB003 APPROACH Phase 3 MDD
+PROTOCOL
+CYB003-002
+NCT
+NCT06564818
+SPONSOR
+Cybin
+SITE
+San Juan
+Capistrano
+COMMENT CODE
+APPROACH
+1 · THE HOOK
+STILL hearing patients ask about psilocybin and having nothing real to offer?
+2 · THE UNMET NEED
+Psychedelic-assisted therapy is at an inflection point. After Lykos MDMA rejection (Aug 2024), a clean
+psilocybin Phase 3 would lead the category.
+H CYB003 Phase 2 showed -14 MADRS vs placebo at 3 weeks, Cohen's d >2 — unprecedented
+effect size.
+3 · AT A GLANCE
+18-65 6 wks 12/16 mg ~220
+AGE PRIMARY TWO DOSES TARGET N
+4 · WHY THIS STUDY EXISTS
+Cybin's pivotal Phase 3 registrational trial. Deuterated psilocin analog = more predictable PK than natural
+psilocybin.
+5 · MECHANISM OF ACTION
+Deuterated psilocybin analog. 5-HT2A agonist. Two-dose paradigm with psychological support
+(non-directive).
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled Phase 3 with 2 dosing sessions (weeks 1 and 3). Primary:
+MADRS change at Week 6.
+7 · RECRUIT IF YOUR PATIENT…
+MDD adults, moderate-severe (MADRS >=26), willing to undergo psychedelic-assisted therapy. The whole
+point: deliver the first approved psychedelic for MDD.
+8 · STOP / EXCLUDE IF…
+7 Personal/family history of psychosis or bipolar I
+7 Active SUD
+7 Cardiovascular instability
+7 Pregnancy
+7 Recent psychedelic use
+
+-- 69 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 70
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+9 · IDEAL PATIENT PROFILE
+38 y/o MDD, SSRI-failed, curious about psychedelics, no personal/family psychosis history.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: F32.x/F33.x + moderate-severe + no F20.x/F31.x family history documentation.
+11 · COMPETITIVE LANDSCAPE
+Compass Pathways COMP360 psilocybin is the other Phase 3 psychedelic program. CYB003's deuterated
+PK is the differentiator.
+12 · RISK / BENEFIT LOGIC
+Benefit: potentially transformative effect size, rapid/durable response. Risk: intensive dosing day staffing,
+psychological reactions, blinding integrity.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+Psychedelic infrastructure (dosing rooms, monitors, music systems) is a strategic asset that supports
+multiple programs.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“This is a guided psilocybin therapy for depression. Two dosing days with a therapist, several weeks
+apart. Phase 3 — the last step before FDA review.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment APPROACH.
+16 · SOURCES
+· ClinicalTrials.gov NCT06564818
+· Cybin APPROACH program overview
+n SCREEN ONE PATIENT THIS WEEK · COMMENT APPROACH · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 70 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 71
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+SAN JUAN CAPISTRANO · STUDY 30 · COMMENT CODE EMBRACE
+CYB003 EMBRACE Phase 3 MDD
+PROTOCOL
+CYB003-003
+NCT
+NCT06793397
+SPONSOR
+Cybin
+SITE
+San Juan
+Capistrano
+COMMENT CODE
+EMBRACE
+n 2026 CORRECTION
+CORRECTED 2026: Target N is ~330 (not 220). Doses evaluated are 8 mg and 16 mg (not 12/16 mg — that was
+APPROACH).
+1 · THE HOOK
+STILL needing a second confirmatory psychedelic Phase 3 to complete the NDA
+package?
+2 · THE UNMET NEED
+Regulatory precedent requires two Phase 3 trials. EMBRACE is APPROACH's mandatory sister — but with
+a distinct, larger 3-arm design.
+H Two positive Phase 3s on CYB003 = the most credible psychedelic NDA in history.
+3 · AT A GLANCE
+18-65 3 arms 8/16 mg ~330
+AGE 1:1:1 TWO DOSES TARGET N
+4 · WHY THIS STUDY EXISTS
+Parallel confirmatory Phase 3 — LARGER than APPROACH and with a DIFFERENT dose-ranging design.
+Evaluates two CYB003 doses (8 mg and 16 mg) against placebo in a 3-arm study.
+5 · MECHANISM OF ACTION
+Same as Study 29.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled, 3-arm Phase 3. Approximately 330 adults randomized 1:1:1
+to: (1) CYB003 8 mg, (2) CYB003 16 mg, or (3) placebo. Two dosing sessions (weeks 1 and 3). Primary:
+MADRS change at Week 6.
+7 · RECRUIT IF YOUR PATIENT…
+Same eligibility as Study 29 (MDD adults, moderate-severe, willing to undergo psychedelic-assisted therapy,
+no personal/family psychosis history). The whole point: confirm MDD efficacy across two independent
+Phase 3 cohorts AND characterize the 8 mg dose.
+8 · STOP / EXCLUDE IF…
+
+-- 71 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 72
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+7 Same as Study 29
+9 · IDEAL PATIENT PROFILE
+Same as Study 29.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: same as Study 29.
+11 · COMPETITIVE LANDSCAPE
+Same as Study 29.
+12 · RISK / BENEFIT LOGIC
+Benefit: same as Study 29, PLUS the 8 mg arm may establish a lower-intensity dosing option if efficacious.
+Risk: dual-program staffing load; 3-arm design increases placebo randomization odds (1/3 vs 1/2).
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+Running APPROACH + EMBRACE simultaneously at San Juan Capistrano = operational scale advantage.
+EMBRACE's larger N (~330) and 8 mg dose arm make it the more strategically important of the two.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“Same as APPROACH — second confirmatory study so the FDA has two sets of data. This one is
+bigger and tests two different doses of the medicine (plus a placebo).”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment EMBRACE.
+16 · SOURCES
+· ClinicalTrials.gov NCT06793397
+· Cybin EMBRACE Phase 3 program
+n SCREEN ONE PATIENT THIS WEEK · COMMENT EMBRACE · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 72 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 73
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+SAN JUAN CAPISTRANO · STUDY 31 · COMMENT CODE EXTEND
+CYB003 EXTEND Open-Label Extension MDD
+PROTOCOL
+CYB003-004
+NCT
+NCT06605105
+SPONSOR
+Cybin
+SITE
+San Juan
+Capistrano
+COMMENT CODE
+EXTEND
+1 · THE HOOK
+STILL wondering if one or two psilocybin doses can hold for a year?
+2 · THE UNMET NEED
+Durability is the key question for psychedelic-assisted therapy. Phase 2 suggested 12-month
+response/remission in dose-dependent way.
+H Phase 2 CYB003: 79% remission at 6 weeks (12 mg); 100% response and 71% remission at
+12 months on 16 mg x 2. If Phase 3 confirms, this is unprecedented.
+3 · AT A GLANCE
+18-65 52+ wks Optional
+redose ~400
+AGE OLE TARGET N
+4 · WHY THIS STUDY EXISTS
+Rollover OLE from APPROACH and EMBRACE. Supports long-term efficacy/safety package.
+5 · MECHANISM OF ACTION
+Same as Study 29.
+6 · STUDY DESIGN DEEP DIVE
+Open-label extension with optional re-dosing if relapse. Primary: durability of response, safety.
+7 · RECRUIT IF YOUR PATIENT…
+Phase 3 completers. The whole point: track durability and characterize re-dosing.
+8 · STOP / EXCLUDE IF…
+7 Emergent psychosis/mania
+7 New substance use
+7 Pregnancy
+9 · IDEAL PATIENT PROFILE
+Phase 3 completer with meaningful response wanting continued access.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: cross-reference Phase 3 participants.
+
+-- 73 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 74
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+11 · COMPETITIVE LANDSCAPE
+No psilocybin OLE of this scale exists elsewhere. First-in-class.
+12 · RISK / BENEFIT LOGIC
+Benefit: characterizes the real-world durability story. Risk: relapse-and-rescue logistics.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+OLE retention = predictable long-term revenue + patient advocacy.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“If the Phase 3 study helped, this is the continuation — we follow you for a year and re-dose if
+depression comes back.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment EXTEND.
+16 · SOURCES
+· ClinicalTrials.gov NCT06605105
+· Cybin CYB003 Phase 2 12-month durability data
+n SCREEN ONE PATIENT THIS WEEK · COMMENT EXTEND · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 74 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 75
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+SAN JUAN CAPISTRANO · STUDY 32 · COMMENT CODE ENGAGE
+Solriamfetol in Binge Eating Disorder — ENGAGE
+PROTOCOL
+SOL-BED-301
+NCT
+NCT06413433
+SPONSOR
+Axsome Therapeutics
+SITE
+San Juan
+Capistrano
+COMMENT CODE
+ENGAGE
+1 · THE HOOK
+STILL telling BED patients their only medication option is a Schedule II
+amphetamine?
+2 · THE UNMET NEED
+BED is the most common eating disorder in the US — ~3 million adults. Lisdexamfetamine (Vyvanse) is the
+ONLY FDA-approved drug, and its Schedule II status blocks access for countless patients with anxiety, SUD
+history, or cardiovascular concerns.
+H A Schedule IV, non-amphetamine DNRI+TAAR1 agonist that treats BED without
+controlled-substance burden would democratize pharmacotherapy for a fundamentally
+under-treated disorder.
+3 · AT A GLANCE
+18-55 12 wks 150/300 mg ~450
+AGE DB DOSE TARGET N
+4 · WHY THIS STUDY EXISTS
+Axsome is leveraging Sunosi's existing safety/PK database to enter the $1B+ BED market. Schedule IV
+status, once-daily dosing, and cardiovascular profile matured in narcolepsy/OSA trials position solriamfetol
+as a first-line alternative to Vyvanse.
+5 · MECHANISM OF ACTION
+Dopamine-norepinephrine reuptake inhibitor (DNRI) + trace amine-associated receptor 1 (TAAR1) agonist.
+Modulates mesolimbic reward circuits implicated in binge episodes without the Schedule II amphetamine
+profile. Once-daily oral.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled, fixed-dose Phase 3. Three arms 1:1:1 — placebo,
+solriamfetol 150 mg, solriamfetol 300 mg. 12 weeks double-blind + optional open-label extension. Primary:
+change in binge eating days per week at Week 12 (DSM-5 criteria). Key secondary: CGI-S-BED, remission
+rate, weight change, Yale-Brown Obsessive Compulsive Scale modified for BED (Y-BOCS-BE).
+7 · RECRUIT IF YOUR PATIENT…
+Adults 18-55 with DSM-5 BED, >=3 binge days per week x 14 days baseline, stable weight, medically
+cleared cardiovascular status. The whole point: give BED patients a legitimate non-Schedule-II option and
+prove solriamfetol's second indication.
+
+-- 75 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 76
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+8 · STOP / EXCLUDE IF…
+7 Anorexia nervosa or bulimia nervosa past 5 years
+7 Current purging behavior
+7 Substance use disorder past 6 months
+7 Uncontrolled hypertension (systolic >140, diastolic >90)
+7 MAOI use past 14 days
+7 Pregnancy/nursing
+7 Bariatric surgery past 2 years
+7 Concurrent stimulant or weight-loss medication
+9 · IDEAL PATIENT PROFILE
+32 y/o female with 2 years of BED, 4-5 binge days/week, anxious about Vyvanse due to family history of
+stimulant misuse; medically healthy.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: ICD-10 F50.81 (BED) OR F50.9 eating disorder NOS + body-weight complaints or 'binge'
+documentation. Cross-reference therapist referrals; flag patients declining Vyvanse for Schedule-II reasons.
+11 · COMPETITIVE LANDSCAPE
+Lisdexamfetamine (Vyvanse, Takeda) is the only FDA-approved BED drug — Schedule II. Off-label: SSRIs,
+topiramate, naltrexone-bupropion. Solriamfetol's Schedule IV status + proven cardiovascular database is the
+clear strategic differentiator.
+12 · RISK / BENEFIT LOGIC
+Benefit: first non-amphetamine approved BED option; leverages mature safety data from Sunosi
+narcolepsy/OSA indication; likely once-daily, oral, without DEA Schedule II constraints. Risk: BP/HR
+elevation (class effect), insomnia if dosed late, headache, nausea — manageable with dose titration.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+BED is underdiagnosed — estimated only 3% of affected adults receive a formal diagnosis. A large
+psychiatric group with integrated nutrition and therapy referrals can systematically screen with Y-BOCS-BE
+and Binge Eating Scale at intake, creating a dedicated BED recruitment pipeline that competes with
+academic eating-disorder centers.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“Binge eating disorder has only one approved medicine, and it's a controlled substance some people
+can't take. We're studying a different medicine — already approved for sleepiness — that works without
+the controlled-substance rules. It's once a day.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment ENGAGE.
+16 · SOURCES
+· ClinicalTrials.gov NCT06413433
+· Axsome Sunosi clinical program
+
+-- 76 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 77
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+· Vyvanse BED FDA label
+n SCREEN ONE PATIENT THIS WEEK · COMMENT ENGAGE · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 77 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 78
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+SAN JUAN CAPISTRANO · STUDY 33 · COMMENT CODE EMPOWER1
+TSND-201 (Methylone) in PTSD — EMPOWER-1
+PROTOCOL
+TSND201-PTSD-3
+01
+NCT
+NCT07456696
+SPONSOR
+Transcend Therapeutics
+SITE
+San Juan
+Capistrano
+COMMENT CODE
+EMPOWER1
+1 · THE HOOK
+STILL watching SSRI-only PTSD care leave combat vets and assault survivors
+with lifelong flashbacks?
+2 · THE UNMET NEED
+PTSD has only two FDA-approved drugs — sertraline and paroxetine — both from the 1990s with ~60%
+non-response. After Lykos Therapeutics' MDMA-assisted therapy NDA was rejected August 2024, the field
+lost its frontrunner. TSND-201 is the first post-Lykos neuroplastogen in registrational PTSD development.
+H A rapid-acting, non-hallucinogenic neuroplastogen that drives MDMA-like empathogenic
+and neuroplastic effects in a controlled 4-dose regimen could re-open the
+psychedelic-adjacent PTSD paradigm the field thought was closed.
+3 · AT A GLANCE
+>=18 12 wks 4 weekly doses ~300
+AGE TOTAL TARGET N
+4 · WHY THIS STUDY EXISTS
+Phase 2 IMPACT-1 demonstrated -9.64 CAPS-5 change vs placebo at Day 64 (p=0.01), NNT=3 for
+response and NNT=5 for remission (JAMA Psychiatry, February 2026). FDA granted Breakthrough Therapy
+designation July 2025. EMPOWER-1 is the pivotal Phase 3 confirmatory trial.
+5 · MECHANISM OF ACTION
+Methylone (3,4-methylenedioxy-N-methylcathinone) — a synthetic cathinone and 'neuroplastogen.'
+Monoamine (5-HT, DA, NE) releaser with empathogenic effects similar to MDMA but shorter-acting and
+non-hallucinogenic. Drives rapid synaptic plasticity and memory reconsolidation in trauma circuits.
+6 · STUDY DESIGN DEEP DIVE
+Randomized, double-blind, placebo-controlled Phase 3. ~300 patients, weekly dosing x 4 weeks + 8 weeks
+follow-up = 12 weeks total. Primary: CAPS-5 change from baseline at Week 12. Key secondary: PCL-5,
+CGI-I, remission rate, functional outcomes.
+7 · RECRUIT IF YOUR PATIENT…
+Adults >=18 with DSM-5 PTSD, CAPS-5 >=28 at screening, symptoms >=3 months, medically stable, willing
+to undergo 4 dosing sessions with therapist support. The whole point: deliver the first new-mechanism PTSD
+drug since 2001 and restore confidence in the psychedelic-adjacent field after Lykos.
+
+-- 78 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 79
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+8 · STOP / EXCLUDE IF…
+7 Personal/1st-degree family history of psychosis, schizophrenia, or bipolar I
+7 Active SUD (past 6 months, except nicotine)
+7 Serious cardiovascular disease or uncontrolled hypertension
+7 Active suicidal plan/intent (C-SSRS 4-5)
+7 Pregnancy/nursing
+7 Concurrent MAOI or serotonergic drug requiring washout
+7 Recent psychedelic use
+9 · IDEAL PATIENT PROFILE
+34 y/o combat veteran with 8 years of treatment-resistant PTSD, failed sertraline + prazosin +
+trauma-focused CBT, no family psychosis history, medically healthy, open to dosing-day psychological
+support.
+10 · HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)
+eCW: ICD-10 F43.10 (PTSD) + PCL-5 >=33 most recent + on/off SSRI + no F20.x/F31.x/F25.x. Flag VA
+referrals and cases where prazosin or propranolol were prescribed for nightmares.
+11 · COMPETITIVE LANDSCAPE
+Sertraline (Zoloft) and paroxetine (Paxil) — only approved drugs, both 1990s. MDMA-assisted therapy
+(Lykos) NDA rejected August 2024. BNC210 (Bionomics), brexpiprazole-sertraline combo, and CYB004
+(Cybin, DMT) are other late-stage PTSD candidates. TSND-201's non-hallucinogenic profile + Breakthrough
+designation + published Phase 2 = category leader.
+12 · RISK / BENEFIT LOGIC
+Benefit: first novel-mechanism PTSD drug in 25 years, category-defining Phase 2 data, NNT=3 response,
+FDA Breakthrough status, clinician-feasible dosing (no hallucinations). Risk: class-effect BP/HR elevation,
+transient anxiety at dosing, potential for abuse liability assessment by DEA, operational staffing for 4
+monitored dosing days.
+13 · WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP
+PTSD is endemic in IPMG's catchment — large military/veteran population in Southern California, plus
+routine trauma exposure in first responders and assault survivors. A site offering the FIRST new-mechanism
+PTSD trial since the SSRI era will become the regional referral center and position IPMG as the
+category-defining PTSD research group.
+14 · PROVIDER TALK TRACK (6TH–7TH GRADE)
+“PTSD has had the same two medicines for 25 years. This is a brand-new kind — not an SSRI, not a
+hallucinogen, but a medicine that helps the brain rewire the trauma memory. Four dosing days with a
+therapist. Phase 3 — the last step before FDA approval.”
+15 · 3-STEP RECRUIT MOVE
+n TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.
+n FLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.
+% CALL. IPMG Research at (909) 955-5865 and reference comment EMPOWER1.
+16 · SOURCES
+
+-- 79 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 80
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+· ClinicalTrials.gov NCT07456696
+· Transcend Therapeutics pipeline
+· FDA Breakthrough Therapy designation press July 2025
+· Lykos MDMA NDA rejection Aug 2024 (FDA CRL)
+· JAMA Psychiatry IMPACT-1 publication Feb 2026
+n SCREEN ONE PATIENT THIS WEEK · COMMENT EMPOWER1 · CALL (909) 955-5865
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul
+
+-- 80 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 81
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+Master Comment-Code Index
+Alphabetical, all 33 protocols
+CODE # TITLE NCT SITE
+ADEPT4 09 KarXT ADEPT-4 in Alzheimer's Psychosis NCT06585787 Chino
+ADEPT5 10 KarXT + KarX-EC ADEPT-5 in Alzheimer's
+Psychosis
+NCT06947941 Chino
+ALTOBIP 03 ALTO-100 in Bipolar Depression NCT06656416 Chino
+APPROACH 29 CYB003 APPROACH Phase 3 MDD NCT06564818 San Juan
+Capistrano
+BALSAM 08 KarXT BALSAM-4 in Bipolar I Mania NCT07140913 Chino
+BHVLTS 05 BHV-7000 in MDD — Long-Term Safety NCT06423781 Chino
+BHVMONO 06 BHV-7000 MDD Monotherapy NCT06419608 Chino
+BUOY1 16 SPT-300 (GlyphAllo) MDD with Anxious Distress
+— BUOY-1
+NCT07065240 Chino
+BUOYOLE 17 SPT-300 MDD Open-Label Extension NCT07161700 Chino
+CALM45 11 BMS-986368 for Agitation in Alzheimer's NCT06808984 Chino
+CLARITY 04 Solriamfetol in MDD + Excessive Daytime
+Sleepiness (CLARITY)
+NCT07484217 Chino
+COBENTEE
+N
+07 KarXT in Adolescent Schizophrenia NCT07288567 Chino
+DREEM3S 28 Seltorexant (JNJ-42847922) MDD + Insomnia —
+Sleep EEG Observational
+NCT07258485 Temecula
+EEG300 25 ALTO-300 Adjunctive MDD (Biomarker-Matched) NCT05922878 Temecula
+EMBRACE 30 CYB003 EMBRACE Phase 3 MDD NCT06793397 San Juan
+Capistrano
+EMPOWER1 33 TSND-201 (Methylone) in PTSD — EMPOWER-1 NCT07456696 San Juan
+Capistrano
+ENGAGE 32 Solriamfetol in Binge Eating Disorder — ENGAGE NCT06413433 San Juan
+Capistrano
+EXTEND 31 CYB003 EXTEND Open-Label Extension MDD NCT06605105 San Juan
+Capistrano
+
+-- 81 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 82
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+CODE # TITLE NCT SITE
+KORMDD 24 Icalcaprant (ABBV-987) MDD NCT07276997 Temecula
+LUMAAUT 21 Lumateperone Pediatric Autism Irritability NCT06690398 Redlands
+LUMABIP 20 Lumateperone Pediatric Bipolar Depression NCT06372964 Redlands
+LUMAPED 19 Lumateperone Pediatric SCZ / Bipolar / Autism
+Safety
+NCT06229210 Redlands
+M4BP 23 ABBV-932 Bipolar Depression NCT07220460 Temecula
+M4GAD 22 ABBV-932 Adjunctive Generalized Anxiety
+Disorder
+NCT06846320 Temecula
+M4OLE 14 NBI-1117568 Schizophrenia Open-Label
+Extension
+NCT07114874 Chino
+MOONLIGH
+T
+27 JNJ-89495120 MOONLIGHT-1 MDD NCT06785012 Temecula
+MTORCMDD 26 SPN-821 MDD NCT07226661 Temecula
+NEXTVMAT 13 NBI-1065890 in Tardive Dyskinesia NCT07365462 Chino
+NORLIGHT 02 ACP-211 in MDD (NORLIGHT) NCT07284667 Chino
+RAPBP 18 RAP-219 in Bipolar I NCT07046494 Chino
+RESIDUALT
+D
+15 Valbenazine TD4027 Residual TD NCT07105111 Chino
+SAVITRI3 12 NBI-1065845 (Osavampator) Adjunctive MDD NCT06963021 Chino
+YOUTHLIFT 01 Cariprazine (Vraylar) in Pediatric Bipolar I
+Depression
+NCT04777357 Chino
+
+-- 82 of 83 --
+
+NPFADY.COM
+IPMG DEEP-RESEARCH STUDY BRIEFS
+2026 Recruitment Library — 33 Active Protocols
+NP FADY
+Where Science Meets the Soul
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano Page 83
+Prepared for Fady Boules, PMHNP-BC · NPFADY.COM
+ICD-10 Cross-Reference Index
+Find a study by diagnosis code
+ICD-10 DIAGNOSIS STUDIES
+F32.x / F33.x Major Depressive Disorder 02 (NORLIGHT), 04 (CLARITY), 05 (BHVLTS), 06
+(BHVMONO), 12 (SAVITRI3), 16 (BUOY1), 17
+(BUOYOLE), 24 (KORMDD), 25 (EEG300), 26
+(MTORCMDD), 27 (MOONLIGHT), 28 (DREEM3S),
+29 (APPROACH), 30 (EMBRACE), 31 (EXTEND)
+F31.x Bipolar I / II disorder 01 (YOUTHLIFT pediatric BP-D), 03 (ALTOBIP), 08
+(BALSAM adjunctive mania), 18 (RAPBP), 20
+(LUMABIP pediatric), 23 (M4BP)
+F20.x Schizophrenia 07 (COBENTEEN adolescent), 14 (M4OLE), 19
+(LUMAPED pediatric)
+G30.x Alzheimer's disease (+ F06.0 /
+F06.2 psychotic)
+09 (ADEPT4), 10 (ADEPT5), 11 (CALM45 agitation)
+F43.10 Post-Traumatic Stress
+Disorder
+33 (EMPOWER1)
+F41.1 Generalized Anxiety Disorder 22 (M4GAD)
+F50.81 Binge Eating Disorder 32 (ENGAGE)
+G24.01 Tardive Dyskinesia 13 (NEXTVMAT), 15 (RESIDUALTD)
+F84.0 Autism Spectrum Disorder
+(irritability)
+19 (LUMAPED), 21 (LUMAAUT)
+G47.00 / G47.10 Insomnia / Hypersomnia with
+MDD
+04 (CLARITY), 28 (DREEM3S)
+— Fady Boules, PMHNP-BC · Where Science Meets the Soul.
+IPMG Research · (909) 955-5865 · Chino · Redlands · Temecula · San Juan Capistrano
+
+-- 83 of 83 --
+

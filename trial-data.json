@@ -1,0 +1,1236 @@
+{
+  "NCT07284667": {
+    "officialTitle": "A Double-Blind, Placebo-Controlled, Parallel Group, Efficacy and Safety Study of ACP-211 Monotherapy in Adults With Major Depressive Disorder and Inadequate Response to Antidepressant Treatment",
+    "briefTitle": "ACP-211 Monotherapy for Major Depressive Disorder With Inadequate Antidepressant Response",
+    "briefSummary": "The goal of this clinical trial is to learn if ACP-211 can help treat adults with major depressive disorder (MDD) who have not improved with antidepressant therapy (ADT), including those with treatment resistant depression (TRD).\n\nThe main questions the study aims to answer are:\n\n* Does ACP-211 work better than a placebo (a look-alike capsule with no medicine) to reduce symptoms of depression?\n* What adverse events do participants have when taking ACP-211?",
+    "minAge": "18 Years",
+    "maxAge": "65 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Adults ≥18 and ≤65 years of age",
+      "Provides written informed consent",
+      "Clinical diagnosis of MDD",
+      "History of inadequate response to at least two antidepressants, with at least one inadequate response documented during the current episode",
+      "Currently treated with an approved antidepressant at a stable dose prior to Screening",
+      "MADRS total score ≥28, CGI-S score ≥4 , and QIDS-SR16 score ≥16 at Screening and Baseline",
+      "Females of childbearing potential must have a negative pregnancy test and agree to use acceptable contraception; males must agree to use barrier protection and refrain from sperm donation"
+    ],
+    "exclusion": [
+      "Current diagnosis of certain personality disorders or persistent depressive disorder",
+      "Recent substance use disorders, excluding caffeine or nicotine",
+      "Active suicidal risk or recent suicidal attempt",
+      "History of schizophrenia, psychotic disorders, bipolar disorder, or MDD with psychotic features",
+      "Current treatment requirement for PTSD, acute stress disorder, panic disorder, or OCD",
+      "History of neuroleptic malignant syndrome, serotonin syndrome, or epilepsy (except single febrile seizure in infancy)",
+      "Documented non-response to ADT, including ketamine or esketamine",
+      "Allergy or sensitivity to ketamine or esketamine",
+      "Significant cardiovascular disease",
+      "Positive history of hepatitis B, hepatitis C, or HIV infection"
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 153,
+    "primary": [
+      {
+        "m": "Change from Baseline in the Montgomery-Åsberg Depression Rating Scale (MADRS) total score at Day 28",
+        "t": "Baseline and Day 28"
+      }
+    ],
+    "secondary": [
+      "Change from Baseline in the MADRS total score postdose at 24 hours (Day 2)"
+    ]
+  },
+  "NCT06656416": {
+    "officialTitle": "A Randomized, Double-Blind, Placebo-Controlled Study Followed by Open-Label Treatment of ALTO-100 in Adults With Bipolar Disorder Currently Experiencing a Major Depressive Episode",
+    "briefTitle": "ALTO-100 in Bipolar Disorder With Depression (BD-D)",
+    "briefSummary": "The purpose of this study is to assess antidepressant efficacy differences between ALTO-100 and placebo during the Double-Blind period in patients with bipolar disorder I or II with current major depressive episode, when used adjunctively to a mood stabilizer and/or atypical antipsychotic, related to patient characteristics. Additionally, safety, tolerability, and efficacy will be assessed in a subsequent open label treatment period.",
+    "minAge": "18 Years",
+    "maxAge": "70 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Have a diagnosis of BD-I or BD-II as well as BD-D",
+      "At baseline, taking a mood stabilizer, lithium (LI) or lamotrigine (LMG) or valproic acid (VPA, any form) or combination of Li + LMG or Li + VPA and/or taking an approved atypical antipsychotic medication (olanzapine, quetiapine, lurasidone, risperidone, ziprasidone, cariprazine, aripiprazole, lumateperone, and asenapine) for at least 6 weeks with no dose modifications in the past 2 weeks",
+      "Willing to comply with all study assessments and procedures",
+      "Must not be pregnant or breastfeeding at time of enrollment or throughout study"
+    ],
+    "exclusion": [
+      "Evidence of unstable medical condition",
+      "Concurrent use of any prohibited medications or substance use disorder",
+      "Diagnosed psychotic disorder (other than mania or depression)",
+      "Current moderate or severe substance use disorder",
+      "Has a history of hypersensitivity or allergic reaction to ALTO-100 or any of its components/excipients",
+      "Concurrent or recent participation in another clinical trial for mental illness involving an investigational product or device"
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 200,
+    "primary": [
+      {
+        "m": "To assess efficacy of ALTO-100 versus placebo on depression symptoms in bipolar disorder in a pre-defined subgroup of participants as measured by the mean change from Day 1 to Week 6 on the Montgomery-Åsberg Depression Rating Scale (MADRS) total score",
+        "t": "Change assessed from Day 1 to Week 6"
+      }
+    ],
+    "secondary": [
+      "To assess efficacy of ALTO-100 vs placebo for self-reported depressive symptoms in bipolar disorder patients in a pre- defined subgroup of participants as measured by the change from Day 1 to Week 6 in Patient Health Questionnaire, 9 item (PHQ-9)",
+      "To assess efficacy of ALTO-100 vs placebo in severity of bipolar disorder symptoms in a pre-defined subgroup of participants as measured by the change from Day 1 to Week 6 in Clinician Global Impression Scale-severity (CGI-S)",
+      "To assess efficacy of ALTO-100 vs placebo for depressive symptoms in MDD in a pre-defined subgroup as measured by the change from Day 1 to Week 6 in response (>50% improvement from baseline) and remission (total score of <10) rates based on MADRS",
+      "To assess efficacy of ALTO-100 vs placebo on depressive symptoms in bipolar disorder in all randomized participants as measured by the change from Day 1 to Week 6 on the MADRS"
+    ]
+  },
+  "NCT07484217": {
+    "officialTitle": "A Multicenter, Double-blind, Placebo-controlled, Randomized Withdrawal Study of Solriamfetol in Subjects With Major Depressive Disorder With Excessive Daytime Sleepiness Symptoms",
+    "briefTitle": "Clinical Assessment of Response in the Treatment of Depression With Daytime Sleepiness Using Solriamfetol",
+    "briefSummary": "CLARITY (Clinical Assessment of Response in the Treatment of Depression with Daytime Sleepiness Using Solriamfetol) is a Phase 3, double-blind, placebo-controlled, multicenter randomized withdrawal trial in patients with major depressive disorder (MDD) with excessive daytime sleepiness (EDS) symptoms consisting of an open-label solriamfetol treatment period and a randomized, double-blind treatment period.",
+    "minAge": "18 Years",
+    "maxAge": "65 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Currently meets the DSM-5 criteria for MDD without psychotic features, based on the SCID-5-CT",
+      "Excessive daytime sleepiness symptoms",
+      "Able to comply with study procedures",
+      "Male or female, aged 18 to 65 years inclusive"
+    ],
+    "exclusion": [
+      "Any clinically significant medical (e.g., OSA, narcolepsy), behavioral, or psychiatric disorder, other than MDD with EDS symptoms",
+      "Unable to comply with study procedures",
+      "Medically inappropriate for study participation in the opinion of the investigator"
+    ],
+    "phases": [
+      "PHASE3"
+    ],
+    "enrollment": 508,
+    "primary": [
+      {
+        "m": "Time from randomization to relapse of depressive symptoms",
+        "t": "Up to 24 weeks."
+      }
+    ],
+    "secondary": []
+  },
+  "NCT06423781": {
+    "officialTitle": "A Phase 2, Multicenter, Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of BHV-7000 in Treatment of Major Depressive Disorder (MDD)",
+    "briefTitle": "Long-term Safety Study of BHV-7000 in Participants With Major Depressive Disorder (MDD)",
+    "briefSummary": "The purpose of this study is to evaluate the long-term safety and tolerability of BHV-7000, in participants with Major Depressive Disorder (MDD).",
+    "minAge": "18 Years",
+    "maxAge": "75 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Eligible subjects should have successfully completed the Treatment/Randomization Phase of parent studies.",
+      "WOCBP must have a negative urine pregnancy test at Baseline Visit.",
+      "WOCBP must not be breastfeeding or lactating at Baseline Visit or at any point during the study."
+    ],
+    "exclusion": [
+      "Any medical condition, based on the judgement of the Investigator, that would confound the ability to adequately assess safety and efficacy outcome measures.",
+      "Participant non-compliance with study procedures, study drug or visit attendance in the parent study that the Investigator deems as clinically significant or unacceptable risk potential for this study.",
+      "Investigator deems participant at imminent risk of danger to others."
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 233,
+    "primary": [
+      {
+        "m": "Number of Participants With Serious AEs (SAEs), AEs Leading to Study Drug Discontinuation, and AEs judged to be related to study medication",
+        "t": "Up to 104 weeks"
+      },
+      {
+        "m": "Number of Participants With Clinically Significant Laboratory Abnormalities",
+        "t": "Up to 104 weeks"
+      },
+      {
+        "m": "Number of Participants With Vital Sign Abnormalities",
+        "t": "Up to 104 weeks"
+      }
+    ],
+    "secondary": []
+  },
+  "NCT06419608": {
+    "officialTitle": "A Phase 2 Multicenter, Randomized, Double-blind, Placebo-controlled, Study to Evaluate the Efficacy and Safety of BHV-7000 Monotherapy in Major Depressive Disorder",
+    "briefTitle": "Efficacy and Safety Study of BHV-7000 Monotherapy in Major Depression",
+    "briefSummary": "The purpose of this study is to determine the efficacy and safety of BHV-7000 in participants with Major Depressive Disorder (MDD)",
+    "minAge": "18 Years",
+    "maxAge": "75 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Subjects experiencing a moderate to severe episode of depression.",
+      "Subjects experiencing a current episode of depression for at least 2 months.",
+      "Subjects must be willing to discontinue all psychotropic medications (other medications to treat depression) before entering the study.",
+      "Male and Female participants 18 to 75 years of age at the time of consent.",
+      "Body Mass Index (BMI) must be ≥ 18 kg/m2 and ≤ 35 kg/m2."
+    ],
+    "exclusion": [
+      "Subjects taking more than 2 medications (other than benzodiazepines and medications targeting insomnia) to treat depression at the screening visit.",
+      "Subjects with a history of bipolar disorder, schizophrenia, or other neuropsychiatric conditions that may interfere with the conduct of the study.",
+      "Subjects with a history of medical conditions that may interfere with the conduct of the study.",
+      "Females who are pregnant, breastfeeding or planning to become pregnant."
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 336,
+    "primary": [
+      {
+        "m": "Change in Montgomery- Åsberg Depression Rating Scale (MADRS) total score from baseline to week 6",
+        "t": "Baseline to Week 6"
+      }
+    ],
+    "secondary": [
+      "Change in Clinical Global Clinical Impression - Severity Scale (CGI-S) total score",
+      "Change in Snaith-Hamilton Pleasure Scale (SHAPS) total score from baseline to week 6",
+      "Change in Montgomery- Åsberg Depression Rating Scale (MADRS) total score from baseline to week 1",
+      "Change in Snaith-Hamilton Pleasure Scale (SHAPS) total score from baseline to week 1"
+    ]
+  },
+  "NCT06963021": {
+    "officialTitle": "A Randomized, Double-Blind, Placebo-Controlled Study to Assess the Efficacy and Safety of NBI-1065845 as Adjunctive Treatment in Subjects With Major Depressive Disorder (MDD)",
+    "briefTitle": "NBI-1065845-MDD3026: Study to Assess the Efficacy and Safety of NBI-1065845 as an Adjunctive Treatment in Participants With Major Depressive Disorder (MDD)",
+    "briefSummary": "The study will evaluate the efficacy of NBI-1065845 compared with placebo as an adjunctive treatment in participants with MDD on improving symptoms of depression.",
+    "minAge": "18 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Participant has a primary diagnosis of recurrent MDD (moderate or severe) or persistent depressive disorder.",
+      "Participant has had an inadequate response to oral antidepressant treatments in the current episode of depression.",
+      "Participant must have been taking oral antidepressants for at least 8 weeks and is willing to continue the same oral antidepressants at the same dose and frequency of administration throughout participation in the study.",
+      "Total Hamilton Depression Rating Scale-17 Item (HAM-D17) score ≥22 at screening and at study baseline (Day 1).",
+      "Willing and able to comply with all study procedures and restrictions in the opinion of the investigator."
+    ],
+    "exclusion": [
+      "A current or prior psychiatric disorder diagnosis in the last 1 year that was the primary focus of treatment other than MDD.",
+      "Are considered by the investigator to be at imminent risk of suicide or injury to self or others.",
+      "Participants depressive symptoms have previously demonstrated nonresponse to electroconvulsive therapy (ECT) in the current major depressive episode."
+    ],
+    "phases": [
+      "PHASE3"
+    ],
+    "enrollment": 200,
+    "primary": [
+      {
+        "m": "Change from Baseline in Total Montgomery-Åsberg Depression Rating Scale (MADRS) Score at Day 56",
+        "t": "Baseline, Day 56"
+      }
+    ],
+    "secondary": [
+      "Change from Baseline in Sheehan Disability Scale (SDS) Total Score at Day 56",
+      "Change from Baseline in Clinical Global Impression-Severity Scale (CGI-S) Score at Day 56"
+    ]
+  },
+  "NCT07065240": {
+    "officialTitle": "A Randomized, Parallel-Group, Double-Blind, Placebo-Controlled, Monotherapy Study of the Efficacy, Safety, and Tolerability of SPT-300 in Adults With Major Depressive Disorder (MDD), With or Without Anxious Distress",
+    "briefTitle": "A Study to Evaluate the Efficacy and Safety of SPT-300 (GlyphAllo) in Participants With Major Depressive Disorder, With or Without Anxious Distress (BUOY-1 Study)",
+    "briefSummary": "This is a randomized, parallel-group, double-blind, placebo-controlled, monotherapy study to evaluate the efficacy, safety, and tolerability of SPT-300 (GlyphAllo) in adults with major depressive disorder (MDD), with or without anxious distress.",
+    "minAge": "18 Years",
+    "maxAge": "65 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Participant is a male or female between 18 and 65 years of age, inclusive willing and able and have capacity to provide written informed consent.",
+      "Participants must have a primary diagnosis of MDD. Participants with a diagnosis of comorbid generalized anxiety disorder, social anxiety disorder, or panic disorder (with or without agoraphobia) may be included if not the focus of treatment over the past 6 months prior to Screening and the Investigator considers MDD to be the primary diagnosis at Screening and Baseline.",
+      "Eligible participants must have a current depressive episode of at least 4 weeks, but no greater than 18 months in duration prior to Screening.",
+      "Women of childbearing potential (WOCP) must not plan to become pregnant during the course of the study or be currently breastfeeding. WOCP agree to use an acceptable form of highly effective contraception during participation in the study and for 30 days after receiving the last dose of study treatment.",
+      "Body mass index (BMI) between 18 to 40 kg/m2, inclusive.",
+      "Participant is willing and able to refrain from the use of drugs of abuse."
+    ],
+    "exclusion": [
+      "History of, or current presentation consistent with:",
+      "any depressive episode with psychotic or catatonic features.",
+      "any bipolar manic, hypomanic or mixed episode, and substance-induced (e.g., antidepressant-induced) manic, hypomanic/mixed episode.",
+      "bipolar disorder, including history of bipolar depression, or current presentation consistent with bipolar depression.",
+      "schizophrenia, schizoaffective, or other psychotic disorder.",
+      "obsessive-compulsive disorder.",
+      "any persistent neurocognitive disorder.",
+      "History of treatment-resistant depression defined as 2 or more failed treatments of adequate dose and duration in the current depressive episode.",
+      "Psychiatric hospitalization within current depressive episode.",
+      "Evidence or history of clinically significant diseases which can affect the patients' participation."
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 360,
+    "primary": [
+      {
+        "m": "Change From Baseline to Day 42 in Hamilton Depression Rating Scale-17 (HAM-D-17) Total Score",
+        "t": "Baseline (Day 0) to Day 42"
+      }
+    ],
+    "secondary": [
+      "Change From Baseline to Day 42 in Clinical Global Impression - Severity (CGI-S)"
+    ]
+  },
+  "NCT07161700": {
+    "officialTitle": "A 6-Week, Multicenter, Open-Label, Monotherapy, Extension Study of SPT-300 in Adults With Major Depressive Disorder, With or Without Anxious Distress",
+    "briefTitle": "An Open-Label Extension Study to Evaluate the Safety and Tolerability of SPT-300 (GlyphAllo) in Participants With Major Depressive Disorder, With or Without Anxious Distress (BUOY-1 OLE Study)",
+    "briefSummary": "This is an open-label, monotherapy, extension study to evaluate the safety and tolerability of SPT-300 (GlyphAllo) in adults with major depressive disorder (MDD), with or without anxious distress.",
+    "minAge": "18 Years",
+    "maxAge": "66 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Participant who completed treatment in Study SPT-300-2024-203 (i.e., participant who competed Visit 8 \\[Day 42\\] of Study SPT-300-2024-203 \\[BUOY-1 Study\\]).",
+      "Women of childbearing potential (WOCP) must not plan to become pregnant during the course of the study or be currently breastfeeding. WOCP must agree to use a highly effective form of contraception during participation in the study and for 30 days after receiving the last dose of study treatment.",
+      "Participant is willing and able to refrain from the use of drugs of abuse."
+    ],
+    "exclusion": [
+      "Participants who, in the opinion of the Investigator, medical monitor, or Sponsor, should not participate in the study.",
+      "Participants who, in the judgment of the Investigator, were noncompliant with trial procedures or with study treatment administration during the double-blind study (BUOY-1 Study).",
+      "Female participants with a positive urine pregnancy test result. Female participants may be enrolled without a negative urine test if they are surgically sterile or at least 2 years post-menopause."
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 360,
+    "primary": [
+      {
+        "m": "Safety and tolerability assessments based on Treatment-emergent Adverse Events (TEAEs), Serious Adverse Events (SAEs) and validated clinical scales and procedures",
+        "t": "Up to Day 49"
+      }
+    ],
+    "secondary": []
+  },
+  "NCT07276997": {
+    "officialTitle": "A Phase 2, Multicenter, 6-Week, Double Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Icalcaprant in Subjects With Major Depressive Disorder",
+    "briefTitle": "A Study to Assess Change in Disease Activity and Adverse Events of Oral Icalcaprant in Adult Participants With Major Depressive Disorder",
+    "briefSummary": "Major depressive disorder (MDD; depression) is a mood disorder that causes a continued feeling of sadness and loss of interest. It is a common and serious illness that can cause both emotional and physical symptoms such as feelings of sadness, irritability, not being able to focus on activities, tiredness, changes in eating habits, and aches and pains. This study will assess the changes in disease activity and adverse events of oral Icalcaprant in adult participants with major depressive disorder who are currently experiencing a major depressive episode (MDE).\n\nIcalcaprant is an investigationa",
+    "minAge": "18 Years",
+    "maxAge": "65 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Participants with a diagnosis of major depressive disorder (MDD) according to the Diagnostic and Statistical Manual of Mental Disorders, fifth edition, text revision (DSM-5-TR) without psychotic features, confirmed by the Mini International Neuropsychiatric Interview (MINI) 7.0.",
+      "Body Mass Index (BMI) is ≥ 18.0 to ≤ 35.0 kg/m\\^2",
+      "Currently experiencing an major depressive episode (MDE) beginning at least 4 weeks prior to consent and not exceeding 6 months prior to Screening",
+      "Normal physical examination findings, clinical laboratory test results, vital signs, and 12-lead ECG results at Visit 1 or abnormal results that are judged not clinically significant by the investigator and documented as such in the eCRF."
+    ],
+    "exclusion": [
+      "Has failed (no more than 25% response on Antidepressant Treatment History Questionnaire (ATRQ)) 3 or more antidepressant treatments during the current depressive episode despite an adequate dose (per ATRQ) and duration (at least 6 weeks).",
+      "History of an allergic reaction or significant sensitivity to constituents of the study drug (and its excipients) and/or other products in the same class."
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 195,
+    "primary": [
+      {
+        "m": "Change from Baseline in Montgomery-Åsberg Depression Rating Scale (MADRS) total score.",
+        "t": "Up to approximately 6 weeks"
+      },
+      {
+        "m": "Number of Participants with Adverse Events (AEs)",
+        "t": "Up to approximately 10 weeks"
+      }
+    ],
+    "secondary": [
+      "Change from Baseline in Clinical Global Impression (CGIS)"
+    ]
+  },
+  "NCT05922878": {
+    "officialTitle": "A Randomized, Double-Blind, Placebo-Controlled Study of ALTO-300 With an Open-Label Extension in Adults With Major Depressive Disorder",
+    "briefTitle": "Study of ALTO-300 in MDD",
+    "briefSummary": "The purpose of this study is to determine efficacy differences between ALTO-300 and placebo, used adjunctively to an antidepressant, related to patient characteristics.",
+    "minAge": "18 Years",
+    "maxAge": "70 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Have a diagnosis of moderate to severe major depressive disorder (MDD)",
+      "At Visit 1, currently taking a single SSRI, SNRI, or bupropion for at least 6 weeks with no dose modifications in the past 2 weeks by Visit 2",
+      "Willing to comply with all study assessments and procedures",
+      "Must not be pregnant or breastfeeding at time of enrollment or throughout study"
+    ],
+    "exclusion": [
+      "Evidence of unstable medical condition",
+      "Nightly use of sleep medication",
+      "Diagnosed bipolar disorder, psychotic disorder, or dementia",
+      "Current moderate or severe substance use disorder",
+      "Has a history of hypersensitivity or allergic reaction to ALTO-300 or any of its components/excipients",
+      "Concurrent or recent participation in another clinical trial for mental illness involving an investigational product or device"
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 321,
+    "primary": [
+      {
+        "m": "To assess efficacy of adjunctive ALTO-300 versus placebo on symptoms of MDD in a pre-defined subgroup of participants as measured by the change over time up to week 6 in the Montgomery-Åsberg Depression Rating Scale (MADRS).",
+        "t": "Change over time for up to week 6"
+      }
+    ],
+    "secondary": [
+      "To assess efficacy of adjunctive ALTO-300 versus placebo on symptoms of MDD in all randomized participants as measured by the change over time up to week 6 in the Montgomery-Åsberg Depression Rating Scale (MADRS)",
+      "To assess efficacy of adjunctive ALTO-300 versus placebo for MDD as measured by the change over time up to week 6 in response (>50% improvement from baseline) rates based on the MADRS",
+      "To evaluate the safety of ALTO-300 during both the OL and DB periods of the study as measured by the assessment of the incidence, severity, and relatedness of Adverse Events.",
+      "To evaluate the safety of ALTO-300 during both the OL and DB periods of the study as measured by the assessment of Heart Rate."
+    ]
+  },
+  "NCT07226661": {
+    "officialTitle": "A Phase 2, Multicenter, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy and Safety of SPN-821 as an Adjunctive Therapy in Adults With Major Depressive Disorder",
+    "briefTitle": "Double-blind, Placebo-controlled Study in Adults With Major Depressive Disorder",
+    "briefSummary": "This study will evaluate the efficacy and safety of SPN-821 in adults with major depressive disorder",
+    "minAge": "18 Years",
+    "maxAge": "70 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Current diagnosis of MDD according to the DSM-5 for either single or recurrent MDE without psychotic features confirmed by the MINI",
+      "Duration of current MDE of at least 8 weeks",
+      "MADRS total score of ≥ 24 at the Screening Visit and Day 1 Visit",
+      "CGI-S score of ≥ 4 (moderately ill or worse) at the Screening Visit and Day 1 Visit",
+      "Stable, therapeutic dose of one of the following protocol-approved ADTs as a monotherapy for ≥ 8 weeks before the Screening Visit and ≥ 10 weeks at the Day 1 Visit. Additionally, inadequate response to the current ADT (less than 50% improvement in depressive symptoms) as confirmed by the ATRQ Investigator administered."
+    ],
+    "exclusion": [
+      "MADRS total score change of ≥ 25% from the Screening Visit to Day 1 Visit",
+      "History of treatment resistant depression (TRD) defined as 3 or more failed ADTs of adequate dose (per ATRQ) and duration (at least 8 weeks) for the current MDE",
+      "History of alcohol or substance use disorder according to DSM-5 criteria 6 months before the Screening Visit",
+      "Evidence of significant risk for suicidal behavior during participation in the study in the Investigator's opinion",
+      "Lifetime diagnosis of any psychotic disorder including MDD with psychosis, MDD with mixed features, bipolar I/II disorder, bipolar depression, schizophrenia, posttraumatic stress disorder, autism spectrum disorder, or any personality disorder or intellectual disability that would affect the ability of the participant to enroll in the study",
+      "Diagnosis less then 12 months before screening of severe obsessive-compulsive disorder, acute stress disorder, panic disorder, eating disorders, or any other psychiatric condition that has been the primary focus of treatment, or diagnosis of generalized anxiety disorder less then 6 months before screening.",
+      "History of cardiovascular, respiratory, gastrointestinal, renal, hepatic, and hematologic disorders, or other medical disorders that could impose undue risk or compromise the study in the Investigator's opinion",
+      "Clinically significant abnormal result prior to Day 1 Visit per Investigator's judgment or abnormal renal function.",
+      "Requires treatment with a medication or other substance that is prohibited by the protocol."
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 230,
+    "primary": [
+      {
+        "m": "Change From Baseline to Day 29 in the Montgomery-Åsberg Depression Rating Scale (MADRS) Total Score.",
+        "t": "4 weeks"
+      }
+    ],
+    "secondary": [
+      "Change From Baseline to Day 29 in the Clinical Global Impression - Severity of Illness Score (CGI-S)."
+    ]
+  },
+  "NCT06785012": {
+    "officialTitle": "A Randomized, Double-blind, Multicenter, Placebo-controlled, Proof-of-Concept Study to Evaluate the Efficacy, Safety, and Tolerability of JNJ-89495120 as Monotherapy in Adult Participants With Major Depressive Disorder (MDD)",
+    "briefTitle": "A Study to Explore the Efficacy of JNJ-89495120 in the Treatment of Major Depressive Disorder",
+    "briefSummary": "The purpose of this study is to evaluate how well JNJ-89495120 works (anti-depressant effects) and how well it is tolerated as compared to placebo on reducing the symptoms of depression in participants with major depressive disorder (MDD).",
+    "minAge": "18 Years",
+    "maxAge": "64 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Primary psychiatric diagnosis of recurrent major depressive disorder, without psychotic features, based on clinical assessment using diagnostic and statistical manual of mental disorders (DSM)-5 criteria and confirmed with the mini international neuropsychiatric interview (MINI)",
+      "Participant had to have at least one previous major depressive disorder (MDD) episode prior to their current episode",
+      "Were first diagnosed with depression before the age of 55",
+      "Are in a current episode of depression: Episode length must be at least 2 months but not longer than 24 months",
+      "Have taken 0, 1, or 2 treatments for depression in your current episode",
+      "Body mass index (BMI) within the range 18 to 35 kilograms per square meter (kg/m\\^2) at screening"
+    ],
+    "exclusion": [
+      "Treatment with vagus nerve stimulation (VNS), electroconvulsive therapy (ECT), transcranial magnetic stimulation (TMS), deep brain stimulation (DBS), or ketamine/esketamine within the current or past major depressive episodes",
+      "Current or past DSM-5 diagnosis of bipolar disorder, psychotic disorders, borderline personality disorder, antisocial personality disorder, or current obsessive-compulsive disorder",
+      "Post-traumatic stress disorder within the past three years of screening",
+      "Dementia, any dementing disease, intellectual disability, or neurocognitive disorder",
+      "History of Alcohol and Substance use disorders within 6 months of screening, with the exclusion of nicotine, caffeine, and mild cannabis use disorder, according to the MINI and Clinical Assessment",
+      "Known allergies, hypersensitivity, or intolerance to JNJ-89495120 or its excipients"
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 124,
+    "primary": [
+      {
+        "m": "Change from Baseline in Montgomery-Asberg Depression Rating Scale (MADRS) Total Score to Day 5",
+        "t": "Baseline up to Day 5"
+      }
+    ],
+    "secondary": [
+      "Change from Baseline in MADRS Total Score to Day 2",
+      "Change from Baseline in Clinician Global Impression-Severity (CGI-S) Scale Score to Days 2 and 5",
+      "Change from Baseline in Symptoms of Major Depressive Disorder Scale (SMDDS) Total Score to Day 5",
+      "Change from Baseline in Generalized Anxiety Disorder-7 (GAD-7) Scale Score to Day 5"
+    ]
+  },
+  "NCT07258485": {
+    "officialTitle": "A Study to Evaluate Sleep Electroencephalogram (EEG) Features in Participants With Major Depressive Disorder (MDD)",
+    "briefTitle": "A Study to Evaluate Sleep Electroencephalogram (EEG) Features (Brain Activity While Sleeping) in Participants With Major Depressive Disorder (MDD)",
+    "briefSummary": "The purpose of this study is to evaluate sleep in participants with Major Depressive Disorder with moderate to severe insomnia symptoms (MDDIS) or MDD with no or mild insomnia symptoms (non-MDDIS), using an at-home sleep Electroencephalogram (EEG; a device that records brain activity during sleep). The study also aims to examine the association between objective sleep EEG features (measured using devices) and subjective sleep measures (self-reported experiences, such as how a person feels about their sleep) in participants with MDDIS or non-MDDIS.",
+    "minAge": "18 Years",
+    "maxAge": "74 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Participants must be medically stable, based on investigator review of medical history, vital signs (including blood pressure), and clinical judgment. In cases of any medical concern, the investigator has the option to perform local 12-lead electrocardiogram (ECG) or local clinical laboratory testing at screening. This determination must be recorded in the participant's source documents and initialed by the investigator",
+      "Meet diagnostic and statistical manual of mental disorders (5th edition) (DSM-5) diagnostic criteria for major depressive disorder (MDD), without psychotic features based upon clinical assessment and confirmed by the structured clinical interview for DSM-5 axis I disorders-clinical trials version (SCID-CT). Must be diagnosed with first depressive episode prior to age 60",
+      "Have had an inadequate response to at least 1 but no more than 2 antidepressants, administered at an adequate dose and duration started in the current episode of depression. The current antidepressant cannot be the first antidepressant treatment for the first lifetime episode of depression. An inadequate response is defined as less than (\\<) 50 percent (%) reduction but with some improvement (that is, improvement greater than \\[\\>\\] 0%) in depressive symptom severity with residual symptoms present, and overall good tolerability, as assessed by the massachusetts general hospital-antidepressant treatment response questionnaire (MGH-ATRQ). An adequate trial is defined as an antidepressant treatment for at least 6 weeks on a stable dose at or above the minimum therapeutic dose specified in the MGH-ATRQ, and this must include the participant's current antidepressant treatment",
+      "Is receiving and tolerating well any one of the following selective serotonin reuptake inhibitor (SSRI) or serotonin-norepinephrine reuptake inhibitor (SNRI) for depressive symptoms at screening, in any formulation and approved by the Food and Drug Administration (FDA): citalopram, duloxetine, escitalopram, fluvoxamine, fluoxetine, milnacipran, levomilnacipran, paroxetine, sertraline, venlafaxine, desvenlafaxine, vilazodone, or vortioxetine at a stable dose (at therapeutic dose level per MGH-ATRQ) for at least 6 weeks",
+      "Has a body mass index (BMI) of 18 to 40 kilograms per meter square (Kg/m\\^2), inclusive"
+    ],
+    "exclusion": [
+      "Had major surgery (for example, requiring general anesthesia) within 2 weeks before screening, or will not have fully recovered from surgery, or has surgery planned during the time the participant is expected to participate in the study",
+      "Has a history of treatment-resistant MDD, defined as a lack of response to 2 or more adequate antidepressant treatments in the current episode, as indicated by no or minimal (less than or equal to \\[\\<=\\] 25%) improvement in symptoms when treated with an antidepressant of adequate dose (per MGH-ATRQ) and duration (at least 6 weeks)",
+      "Has a primary DSM-5 diagnosis of panic disorder, generalized anxiety disorder, social anxiety disorder, or specific phobia which has been the primary focus of psychiatric treatment within the past 2 years. These are allowed as secondary diagnoses if MDD is the primary focus of treatment according to the investigator",
+      "Has a history or current diagnosis of a psychotic disorder, bipolar disorder, intellectual disability, autism spectrum disorder, borderline personality disorder, or somatoform disorders",
+      "Has cognitive impairment per investigator judgment that would render the informed consent invalid or limit the ability of the participant to comply with the study requirements. Participant has neurodegenerative disorder (for example, alzheimer's disease, vascular dementia, parkinson's disease with clinical evidence of cognitive impairment) or evidence of mild cognitive impairment"
+    ],
+    "enrollment": 80,
+    "primary": [
+      {
+        "m": "Characterization of Objective Sleep Electroencephalogram (EEG) Features in Major Depressive Disorder Participants with Moderate to Severe Insomnia Symptoms (MDDIS) or Non-MDDIS As Assessed by Dreem 3S Headband",
+        "t": "Day -7 to Day -1"
+      },
+      {
+        "m": "Characterization of Subjective Sleep Measures in MDD Participants with MDDIS or Non-MDDIS As Assessed by Consensus Sleep Diary (CSD)",
+        "t": "Day -6 to Day 1"
+      },
+      {
+        "m": "Characterization of Subjective Sleep Measures in MDD Participants with MDDIS or Non-MDDIS As Assessed by the Structured Interview Guide (SIGH-D) Used to Implement the 17 item Hamilton Depression Rating Scale (HRSD17)",
+        "t": "Day -7 to Day -1"
+      }
+    ],
+    "secondary": []
+  },
+  "NCT06564818": {
+    "officialTitle": "A Phase III, Placebo-Controlled, Randomized, Double-Blind Trial of Oral Doses of CYB003 to Assess Combined Safety and Efficacy in Humans With Major Depressive Disorder",
+    "briefTitle": "\"A Study of a Deuterated Psilocin Analog (CYB003) in Humans With Major Depressive Disorder\"",
+    "briefSummary": "The purpose of this study is to examine the efficacy, safety, and tolerability of CYB003 compared to matching placebo as adjunctive treatment in participants with MDD.",
+    "minAge": "18 Years",
+    "maxAge": "85 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Participants must meet all the following criteria to be included in the trial:",
+      "Aged 18 to 85 years inclusive, at Screening",
+      "Participant has a diagnosis of MDD (single or recurrent episode as defined by DSM-5 TR \\[if single episode, duration of ≥4 weeks and ≤24 months\\] and established as per evaluation by the Investigator. The first MDD episode must have occurred prior to age 60.",
+      "Depression is of moderate to severe degree at Screening and Baseline, independently confirmed by additional clinical assessments",
+      "Participant has been on a stable dose of a single antidepressant medication at an adequate dose (label specified) for an adequate duration in the last month prior to Screening and has had an inadequate response (less than 50% improvement), as judged by the Investigator.",
+      "Participant has a body mass index (BMI) of 40 kg/m2 or less (BMI ≤ 40 kg/m2), inclusive, at Screening.",
+      "Participant is able to refrain from nicotine use during the dosing session (up to 8 hours)",
+      "Registered with a healthcare professional who can confirm the diagnosis and previous treatments received by the participant.",
+      "Participants capable of producing sperm must use a condom plus spermicide during the trial and for 12 weeks after their final dose of trial medication, if their partner is a person of childbearing potential.",
+      "Participants of childbearing potential who have a partner capable of producing sperm must agree to use a highly effective method of contraception (i.e., failure rate less than 1% when used consistently and correctly) in combination with the use of a condom plus spermicide during the trial and for 12 weeks after their final dose of trial medication. Such participants must have a negative pregnancy test at Screening and Day 1 prior to dosing."
+    ],
+    "exclusion": [
+      "Participants with any of the following characteristics/conditions will be excluded from trial participation:",
+      "Current or previously diagnosed schizophrenia spectrum or other psychotic disorders, including schizophrenia, schizoaffective disorder, schizotypal disorder, schizophreniform disorder, brief psychotic disorder, attention deficit hyperactivity disorder, current or previous history of bipolar disorder, or current borderline personality disorder.",
+      "Participants with a medical diagnosis of attention deficit hyperactivity disorder (ADHD) will be excluded if currently taking medication for ADHD",
+      "Family history of schizophrenia, schizoaffective disorder, or bipolar disorder type 1 (first degree relatives).",
+      "Significant suicide risk within the past 6 months, during the Screening Period, or at Baseline; or (b) suicidal behaviors within 12 months of Screening; or (c) clinical assessment of significant suicidal risk during clinical interview; or (d) non-suicidal self-injury within 12 months of Screening.",
+      "Current or previous diagnosis of treatment-resistant MDD, defined as failure to respond to 2 or more antidepressant treatments of 2 different classes given at an adequate dose (label specified) for an adequate duration as judged by the Investigator and clinical interview.",
+      "Has had electroconvulsive treatment, transcranial magnetic stimulation, deep brain stimulation, or vagal nerve stimulation for any episode of MDD in the last 6 months.",
+      "Currently receiving a monoamine oxidase inhibitor, tricyclic antidepressant, mirtazapine, trazodone, moclobemide, buspirone, ketamine or S-ketamine, or an antipsychotic or mood stabilizer for MDD. Note: if receiving these medications for another indication, they must be discontinued ≥ 14 days or 5 half-lives, whichever is longer, prior to Day 1.",
+      "Participant report of (or if available in medical record) exposure to psilocin, or 5-HT2a receptor agonists, or any other psychedelics, such as ayahuasca, mescaline, lysergic acid diethylamide, peyote, or 3,4-methylenedioxymethamphetamine, more than 10 times over the participant's lifetime or any psychedelic use within 12 months prior to Screening.",
+      "Participant report of (or if available in medical record) treatment with ketamine or S-ketamine use within 6 months prior to Screening."
+    ],
+    "phases": [
+      "PHASE3"
+    ],
+    "enrollment": 220,
+    "primary": [
+      {
+        "m": "Montgomery-Åsberg Depression Rating Scale (MADRS)",
+        "t": "Screening Day-45, Baseline Day-1, Day 2, Day 10, Day 21, Day 23, Day 31, and Day 42 (End of Treatment)"
+      }
+    ],
+    "secondary": [
+      "The Beck Depression Inventory-Second Edition (BDI-II)",
+      "The Clinical Global Impression Scale (CGI-S)",
+      "The Generalized Anxiety Disorder 7-item scale (GAD-7)",
+      "The Quality of Life Enjoyment and Satisfaction Questionnaire - Short Form (Q-LES-Q-SF)"
+    ]
+  },
+  "NCT06793397": {
+    "officialTitle": "An Efficacy and Safety, Phase III, Multi-center, Double-Blind, Randomized Controlled Study Comparing 2 Active Doses of CYB003 and Placebo in Eligible Participants With Major Depressive Disorder",
+    "briefTitle": "A Study of a Deuterated Psilocin Analog (CYB003) in Humans With Major Depressive Disorder",
+    "briefSummary": "The purpose of this study is to determine the efficacy, safety and tolerability of CYB003 compared to matching placebo as adjunctive treatment in patients with MDD.",
+    "minAge": "18 Years",
+    "maxAge": "85 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Participants must meet all the following criteria to be included in the trial:",
+      "Age18 to 85 years.",
+      "Participant has a diagnosis of MDD.",
+      "Moderate to severe depression at Screening.",
+      "Participants have been on a stable dose of antidepressant medication at an adequate dose in the last 4 weeks prior to Screening.",
+      "Participant has a body mass index (BMI) of 40 kg/m2 or less (BMI ≤40 kg/m2), inclusive, at Screening.",
+      "Participants with well controlled hypertension.",
+      "Participant is able to refrain from smoking during the dosing session.",
+      "Participants must use a condom plus spermicide during the trial and for 12 weeks afterwards.",
+      "Participants of childbearing potential must agree to use a highly effective method of and a negative pregnancy test at Screening and Day -1 prior to dosing."
+    ],
+    "exclusion": [
+      "Participants with any of the following characteristics/conditions will be excluded from trial participation:",
+      "Current or previously diagnosed schizophrenia spectrum or other psychotic disorders.",
+      "Family history of schizophrenia, schizoaffective disorder, or bipolar disorder type 1 (first-degree relatives).",
+      "Significant suicide risk within 12 months of Screening.",
+      "Current or previous diagnosis of treatment-resistant MDD.",
+      "Has had electroconvulsive treatment, transcranial magnetic stimulation, deep brain stimulation, or vagal nerve stimulation for any episode of MDD in the last 6 months.",
+      "Currently receiving a monoamine oxidase inhibitor, tricyclic antidepressants, mirtazapine, trazodone, moclobemide, buspirone, or an antipsychotic or mood stabilizer.",
+      "Clinically relevant history of abnormal physical health interfering with the trial (including but not limited to, neurological, cardiovascular, respiratory, gastrointestinal \\[including dyspepsia or gastroesophageal reflux disease\\], hepatic, or renal disorder).",
+      "Has hypothyroidism or hyperthyroidism, unless controlled on appropriate medication.",
+      "Current diagnosis of uncontrolled hypertension or an arrhythmia, or clinically relevant abnormal results for heart rate."
+    ],
+    "phases": [
+      "PHASE3"
+    ],
+    "enrollment": 330,
+    "primary": [
+      {
+        "m": "Montgomery-Asberg Depression Scale (MADRS)",
+        "t": "Screening Day-45, Baseline, Day -1, Day 21, Day 42, Day 63 and Day 84/End of Trial."
+      }
+    ],
+    "secondary": [
+      "The Beck Depression Inventory - Second Edition (BDI-II)",
+      "The Clinical Global Impression Scale (CGI-S)",
+      "The Generalized Anxiety Disorder 7-Item Scale (GAD-7)",
+      "The Quality of Life Enjoyment and Satisfaction Questionnaire - Short Form (Q-LES-Q-SF)"
+    ]
+  },
+  "NCT06605105": {
+    "officialTitle": "A Phase III Long-Term Extension Trial With Optional Additional Doses of CYB003 to Assess the Safety and Long-term Efficacy in Participants With Major Depressive Disorder (EXTEND)",
+    "briefTitle": "Phase III Long-term Extension Trial to Assess Safety and Efficacy of CYB003 in MDD (EXTEND)",
+    "briefSummary": "This is a long- term extension of the double-blind trials APPROACH (CYB003-002) and EMBRACE (CYB003-003). Its aim is to examine the safety and long-term efficacy of CYB003 in participants with MDD.",
+    "minAge": "18 Years",
+    "maxAge": "85 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Has successfully completed either CYB003-002 APPROACH or CYB003-003 EMBRACE and received both dose administrations of trial medication",
+      "Has continued the same antidepressant medication at the stable dose/day throughout CYB003-002 APPROACH or CYB003-003 EMBRACE",
+      "Has provided written informed consent, which includes compliance with the requirements and restrictions listed in the informed consent form",
+      "Participants capable of producing sperm must use a condom plus spermicide (where publicly available) during the trial and for 12 weeks after their final dose of IP, if their partner is a person of childbearing potential. In addition, their partner of childbearing potential must continue to use a highly effective method of contraception (i.e., failure rate less than 1% when used consistently and correctly) throughout the trial until 12 weeks after the participant's final dose of IP",
+      "Participants of childbearing potential (POCBP) who have a partner capable of producing sperm must agree to continue to use a highly effective method of contraception (i.e., failure rate of less than 1% when used consistently and correctly) in combination with the use of a condom plus spermicide (where publicly available) during the trial and for 12 weeks after their final dose of IP",
+      "Female participants must have a negative pregnancy test at Baseline (the end of trial \\[EOT\\] Visit in the APPROACH or EMBRACE trial), and prior to dose administration on the dosing day"
+    ],
+    "exclusion": [
+      "newly developed symptoms of schizophrenia spectrum or other psychotic disorders that manifested in the APPROACH or EMBRACE trial",
+      "Significant suicide risk as defined by suicidal ideation as endorsed on items 4 or 5 on the C-SSRS at Baseline OR has experienced an adverse event (AE) of suicide ideation/attempt or self-harm in CYB003-002 APPROACH OR has had a \\>1 point change in item 1 or 2 of the C-SSRS from Screening in CYB003-002 APPROACH",
+      "Clinically relevant arrhythmia or vital sign changes noted during any of the dosing sessions in the APPROACH or EMBRACE trial",
+      "Presence of clinically significant ECG abnormalities noted during the APPROACH or EMBRACE trials or at the Baseline of EXTEND",
+      "Sensitivity or suspected sensitivity to CYB003 noted in the APPROACH or EMBRACE trial",
+      "Positive urine test for drugs of abuse, or alcohol breath test prior to dosing.",
+      "Unwilling to consent to audio and video recording of psychological support and dosing sessions"
+    ],
+    "phases": [
+      "PHASE3"
+    ],
+    "enrollment": 468,
+    "primary": [
+      {
+        "m": "Montgomery-Asberg Depression Rating Scale (MADRS)",
+        "t": "Baseline, Day 28, Day 56, Day 84, Day 112, Day 140, Day 168, Day 196, Day 244, Day 252, Day 280, Day 301; additional assessments at Day -15, Day -1, Day 2, Day 10, Day 17, Day 21, Day 23, Day 31, Day 42 if non-response or relapse criteria met"
+      }
+    ],
+    "secondary": []
+  },
+  "NCT04777357": {
+    "officialTitle": "A 6-week, Multicenter, Randomized, Double-blind, Parallel-group, Placebo-controlled Study of the Efficacy and Safety of Cariprazine in Pediatric Subjects (10 to 17 Years of Age) in the Treatment of Depressive Episodes Associated With Bipolar I Disorder",
+    "briefTitle": "A Study to Assess Change in Disease Activity and Adverse Events (AEs) With Cariprazine in the Treatment of Depressive Episodes in Pediatric Participants Participants (10 to 17 Years of Age) With Bipolar I Disorder.",
+    "briefSummary": "Bipolar disorder is a severe chronic mood disorder that affects up to 4% of the adult population and 1.8% of the pediatric population in the United States. The treatment of the depressive episodes of bipolar disorder in the pediatric population has not been as widely studied as the treatment of depressive episodes in bipolar disorder in adults, therefore pharmacotherapeutic options are limited. Given the change in disease state and safety demonstrated in adults with depressive episodes associated with bipolar I disorder, the purpose of this study is to evaluate the change in disease state and ",
+    "minAge": "10 Years",
+    "maxAge": "17 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Participants with Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) primary diagnosis of bipolar I disorder as confirmed by Kiddie Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL).",
+      "Current depressive episode is more than 2 weeks and less than 12 months in duration.",
+      "Participant has a lifetime history of at least one manic episode.",
+      "Children's Depression Rating Scale - Revised (CDRS-R) score \\> = 45 at Visit 1 and Visit 2.",
+      "Young-Mania Rating Scale (YMRS) score \\< = 12 with YMRS Item 1 (elevated mood) score \\< = 2 at Visit 1 and Visit 2.",
+      "Clinical Global Impression-Severity (CGI-S) scale score of \\> = 4 (moderately ill) at Visit 1 and Visit 2."
+    ],
+    "exclusion": [
+      "Participants with DSM-5 diagnosis of schizophrenia, schizoaffective disorder, schizophreniform disorder, brief psychotic disorder, psychotic disorder due to another medical condition, PTSD, antisocial personality disorder, or borderline personality disorder.",
+      "Participant has a history of meeting DSM-5 diagnosis for any substance-related disorder (except caffeine- and tobacco-related) within the 3 months before Screening Visit 1.",
+      "History of serotonin syndrome or neuroleptic malignant syndrome.",
+      "Four or more episodes of a mood disturbance within the 12 months before Visit 1.",
+      "DSM-5 diagnosis of intellectual disability (IQ \\< 70), autism spectrum disorders, or documented history of chromosomal disorder with developmental impairment.",
+      "History of seizures, with the exception of febrile seizures.",
+      "Significant head trauma, history of tumor of the CNS, or any other condition that predisposes to seizures.",
+      "Participant requires concomitant treatment with moderate or strong CYP3A4 inhibitors or with any CYP3A4 inducers.",
+      "Participant requires concomitant treatment with any prohibited medication, supplement, or herbal product, including any psychotropic drug or any drug with psychotropic activity or with a potentially psychotropic component.",
+      "Use of a depot antipsychotic within 2 cycles of their respective dosing interval prior to Screening Visit 1."
+    ],
+    "phases": [
+      "PHASE3"
+    ],
+    "enrollment": 380,
+    "primary": [
+      {
+        "m": "Number of Participants with Adverse Events",
+        "t": "Baseline (Week 0) to Week 10"
+      },
+      {
+        "m": "Abnormal Change from Baseline in Vital Signs",
+        "t": "Baseline (Week 0) to Week 10"
+      },
+      {
+        "m": "Number of Participants with Incidence of Abnormal Clinical Laboratory Test Results",
+        "t": "Baseline (Week 0) to Week 6"
+      }
+    ],
+    "secondary": []
+  },
+  "NCT07140913": {
+    "officialTitle": "A Phase 3, Randomized, Double-blind, Placebo-controlled, Study to Evaluate the Efficacy and Safety of Adjunctive KarXT for the Treatment of Mania, With or Without Mixed Features, in Individuals With Bipolar-I Disorder Taking Lithium, Valproate, or Lamotrigine",
+    "briefTitle": "A Study to Evaluate the Efficacy and Safety of Adjunctive KarXT for the Treatment of Mania, With or Without Mixed Features, in Participants With Bipolar-I Disorder Taking Lithium, Valproate, or Lamotrigine",
+    "briefSummary": "The purpose of this study is to evaluate the efficacy and safety of adjunctive KarXT for the treatment of mania in participants with Bipolar-I Disorder.",
+    "minAge": "18 Years",
+    "maxAge": "65 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Individuals have a primary diagnosis of Bipolar-I disorder established by a comprehensive psychiatric evaluation based on the DSM-5-TR criteria and confirmed by the Mini International Neuropsychiatric Interview (MINI) version 7.0.2.",
+      "Individual is experiencing an acute exacerbation or relapse of manic episode, with or without mixed features (≤ 3 weeks).",
+      "The individual requires hospitalization for the acute exacerbation or relapse of mania.",
+      "Body mass index ≥ 18 and ≤ 40 kg/m2.",
+      "Currently experiencing an acute episode of mania or mania with mixed features with a therapeutic dose of lithium, valproate, or lamotrigine. The dose of the mood stabilizer must have remained stable for at least two weeks prior to screening. Additionally, participants on valproate must have been receiving treatment with valproate for a minimum of seven months.",
+      "YMRS Total Score of ≥ 18 at Screening and at Baseline, and \\< 20% reduction in YMRS from screening to baseline."
+    ],
+    "exclusion": [
+      "Any primary DSM-5-TR disorder other than BP-I within 12 months before screening (confirmed using MINI version 7.0.2 at screening) including BP-I depression (for previous 3 months only), BP-I with rapid cycling, first manic episode, BP-II, primary psychotic disorder, borderline personality disorder, and major depressive disorder, with the exception of mild anxiety disorders.",
+      "Individual has a DSM-5-TR diagnosis of moderate to severe substance use disorder (except tobacco use disorder) within the 12 months before screening (confirmed using MINI version 7.0.2 at screening), or current use as determined by urine toxicology screen or alcohol test.",
+      "Risk for suicidal behavior at screening as determined by the investigator's clinical assessment and the C-SSRS with an answer \"Yes\" to item 4 or 5 within 6 months before screening or between screening and baseline, or \"Yes\" to any of the 5 items (C-SSRS behavior) with an event occurring within the 12 months before screening, or between screening and baseline.",
+      "History of irritable bowel syndrome (with or without constipation) or any serious constipation requiring treatment within the last 6 months.",
+      "History or high risk of urinary retention, gastric retention, or narrow-angle glaucoma.",
+      "Participants with HIV, cirrhosis, biliary duct abnormalities, hepatobiliary carcinoma, and/or active hepatic viral infections based on either medical history or the LFT results.",
+      "Elevations in hepatic transaminases at screening ≥ 2 × ULN for ALT or AST and/or bilirubin \\> 1.5× ULN, unless in the context of Gilbert's syndrome.",
+      "All grades of hepatic impairment (mild \\[Child-Pugh Class A\\], moderate \\[Child-Pugh Class B\\], and severe \\[Child-Pugh Class C\\])."
+    ],
+    "phases": [
+      "PHASE3"
+    ],
+    "enrollment": 424,
+    "primary": [
+      {
+        "m": "Change from baseline in Young Mania Rating Scale (YMRS) at Week 5",
+        "t": "At Week 5"
+      }
+    ],
+    "secondary": [
+      "Change from baseline in Clinical Global Impressions Bipolar (CGI-BP) at Week 5",
+      "Occurrence of response at Week 5 assessed as the number of participants with a ≥ 50% decrease from baseline in Young Mania Rating Scale (YMRS) score",
+      "Occurrence of response at Week 5 assessed as the number of participants with a ≥ 1 change from baseline in CGI-BP",
+      "Number of participants with Treatment-emergent Adverse Events (TEAEs)"
+    ]
+  },
+  "NCT06846320": {
+    "officialTitle": "A Phase 2, Multicenter, Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Fixed-Dose Study to Evaluate the Efficacy, Safety, and Tolerability of ABBV-932 as an Adjunct to Antidepressant Therapies in the Treatment of Subjects With Generalized Anxiety Disorder Who Have Had an Inadequate Response to Antidepressant Therapies",
+    "briefTitle": "Study to Assess Adverse Events and Change in Disease Activity When Oral ABBV-932 is Added to Antidepressant Therapies in Adult Participants With Generalized Anxiety Disorder",
+    "briefSummary": "Generalized anxiety disorder (GAD) is usually treated with antidepressant therapy (ADT); however, sometimes ADTs alone are not enough to adequately treat GAD. The purpose of this study is to assess how safe and effective ABBV-932 is when added to the antidepressant therapies in adult participants with GAD who have had an inadequate response ADTs.\n\nABBV-932 is an investigational drug being developed for the adjunctive treatment of GAD. Participants will be randomly assigned to receive ABBV-932 or Placebo in addition to their currently prescribed ADTs. There is 1 in 3 chance of participants assi",
+    "minAge": "18 Years",
+    "maxAge": "65 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Meet Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR) criteria for generalized anxiety disorder (GAD) confirmed by the Mini International Neuropsychiatric Interview (MINI).",
+      "Currently taking one of the Food and Drug Administration (FDA) approved antidepressant therapies (ADT) for GAD (i.e., escitalopram, paroxetine, duloxetine, or venlafaxine ER) with an inadequate response to an adequate dose (per label) and duration (\\>= 8 weeks) as verified by a baseline Hamilton Anxiety Rating Scale (HAM-A) total score \\>= 20 and Clinical Global Impression of Severity Scale (CGI-S GAD) \\>= 4."
+    ],
+    "exclusion": [
+      "Have a Montgomery-Åsberg Depression Rating Scale (MADRS) score \\>= 20.",
+      "New diagnosis or exacerbation of major depression in the last 6 months."
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 315,
+    "primary": [
+      {
+        "m": "Number of Participants with Adverse Events (AEs)",
+        "t": "Up to approximately 10 weeks"
+      },
+      {
+        "m": "Change from Baseline in the Hamilton Anxiety Scale (HAM-A) Total Score",
+        "t": "Up to approximately 6 weeks"
+      }
+    ],
+    "secondary": [
+      "Change from Baseline in Penn State Worry Questionnaire-10 (PSWQ-10) Total Score",
+      "Change from Baseline in Clinical Global Impression of Severity Scale (CGI-S) Generalized Anxiety Disorder (GAD)",
+      "Change from Baseline in the Hamilton Anxiety Scale (HAM-A) Total Score",
+      "Change From Baseline in Montgomery-Åsberg Depression Rating Scale (MADRS) Total Score"
+    ]
+  },
+  "NCT07220460": {
+    "officialTitle": "Multicenter, Open-label Study to Evaluate the Long-term Safety and Tolerability of ABBV-932 in Subjects With Depressive Episodes Associated With Bipolar I or II Disorder",
+    "briefTitle": "Study to Assess the Adverse Events of Oral ABBV-932 in Adult Participants With Depressive Episodes Associated With Bipolar I or II Disorder",
+    "briefSummary": "Bipolar disorder is a severe chronic mood disorder that affects up to 4% of the adult population in the United States. The purpose of this study is to assess how safe and effective ABBV-932 is in treating participants with depressive episodes associated with bipolar I or II disorder.\n\nABBV-932 is an investigational drug being developed for the treatment of depressive episodes in adult participants with bipolar I or II disorder. Participants with bipolar I or II disorder who are currently experiencing a depressive episode will enter the study and be treated with open-label ABBV-932. Approximate",
+    "minAge": "18 Years",
+    "maxAge": "65 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Body Mass Index (BMI) ≥ 18.0 to ≤ 40.0 kg/m\\^2, inclusive.",
+      "Participants who currently meet the Diagnostic and Statistical Manual of Mental Disorders treatment (DSM-5-TR) criteria for bipolar I or II disorder without psychotic features based on the Mini International Neuropsychiatric Interview (MINI 7.0.2), currently experiencing a depressive episode of at least 4 weeks and not exceeding 12 months.",
+      "Normal physical examination findings, clinical laboratory test results, vital signs, and 12-lead ECG results at screening or abnormal results that are judged not clinically significant by the investigator and documented as such in the eCRF",
+      "Participant with the following psychiatric history:",
+      "No history of psychiatric hospitalization (inpatient or intensive outpatient) in the past 3 months prior to screening.",
+      "No lifetime history of schizophrenia, other psychotic disorders, dissociative disorders, or neurocognitive disorders.",
+      "No history of moderate or severe substance use disorder (except nicotine) in the past 6 months prior to screening."
+    ],
+    "exclusion": [
+      "A total score greater than 12 on the Young Mania Rating Scale (YMRS) at baseline.",
+      "History of an allergic reaction or significant sensitivity to constituents of the study drug (and its excipients) and/or other products in the same class.",
+      "A concurrent medical condition that might interfere with the conduct of the study, confound the interpretation of the study results, or endanger the subject's well-being. This includes any unstable condition, history or evidence of malignancy (other than treated basal or squamous cell carcinoma), or any significant hematologic, endocrine, cardiovascular, respiratory, renal impairment or disease (subjects with eGFR \\< 30 mL/min), hepatic (including history of severe hepatic impairment), gastrointestinal, or neurological disorder (if there is a history of such disease but the condition has been stable for more than 1 year, does not require treatment with prohibited medications, and is judged by the investigator not to interfere with participation in the study, the subject may be included in the study)."
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 200,
+    "primary": [
+      {
+        "m": "Number of Participants Experiencing Adverse Events",
+        "t": "Up to approximately 29 weeks"
+      },
+      {
+        "m": "Number of Participants with Abnormal Change From Baseline in Vital Sign Measurements",
+        "t": "Up to week 26"
+      },
+      {
+        "m": "Number of Participants with Change from Baseline in Electrocardiogram (ECG)",
+        "t": "Up to week 26"
+      }
+    ],
+    "secondary": []
+  },
+  "NCT07046494": {
+    "officialTitle": "A Phase 2, Double-blind, Placebo-controlled Study to Evaluate the Efficacy and Safety of RAP-219 for the Acute Treatment of Manic Episodes, With or Without Mixed Features, Associated With Bipolar I Disorder",
+    "briefTitle": "Study Evaluating the Efficacy and Safety of RAP-219 in Adult Participants With Bipolar I Disorder",
+    "briefSummary": "This is a clinical research study for an investigational drug called RAP-219 in participants with bipolar I disorder. This study is being conducted to determine if RAP-219 is safe and effective in participants experiencing mania associated with bipolar I disorder.",
+    "minAge": "18 Years",
+    "maxAge": "65 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Meets the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) diagnosis of bipolar I disorder, with or without psychotic symptoms, as confirmed by the Structured Clinical Interview for DSM-5, Clinical Trials Version (SCID-5-CT). Episode may contain mixed features, as confirmed by Montgomery-Åsberg Depression Rating Scale (MADRS).",
+      "Had at least one prior documented manic episode (with or without psychotic symptoms) that required treatment, within 5 years prior to Visit 1"
+    ],
+    "exclusion": [
+      "History of any of the following diagnoses: a. schizophrenia; schizoaffective disorder; major depressive disorder; moderate or severe substance or alcohol use disorder; as assessed by the SCID-5-CT b. delirium, dementia, amnestic, or other cognitive disorders; borderline, paranoid, histrionic, schizotypal, schizoid, or antisocial personality disorders; by medical history and/or Investigator opinion Note: Any other current diagnoses must be discussed with the Medical Monitor.",
+      "Rapid cycler, defined as experiencing ≥4 distinct mood episodes (ie, manic or depressive) each meeting full DSM-5 criteria in the previous 12 months, and each separated by ≥2 months of full or partial remission, or a switch to an episode of the opposite polarity, as assessed by the SCID-5-CT"
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 224,
+    "primary": [
+      {
+        "m": "Young Mania Rating Scale (YMRS)",
+        "t": "Baseline to End of Treatment at Week 3"
+      }
+    ],
+    "secondary": [
+      "Clinical Global Impression-Bipolar Version (CGI-BP) Severity of Illness Mania score",
+      "Treatment Emergent Adverse Events (TEAEs)",
+      "Heart Rate",
+      "Respiratory Rate"
+    ]
+  },
+  "NCT07288567": {
+    "officialTitle": "A Phase 3 Multicenter, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy and Safety of KarXT for the Treatment of Schizophrenia in Adolescents (13 to 17 Years of Age)",
+    "briefTitle": "A Study to Evaluate the Efficacy and Safety of KarXT for the Treatment of Schizophrenia in Adolescents (EMERGENT TEEN)",
+    "briefSummary": "The purpose of this study is to evaluate the efficacy and safety of KarXT for treatment of Schizophrenia in adolescents.",
+    "minAge": "13 Years",
+    "maxAge": "17 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Diagnosis of schizophrenia as defined by the The Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition,Text Revision (DSM-5-TR) criteria, confirmed by the Kiddie Schedule for Affective Disorders and Schizophrenia-Present and Lifetime version (K-SADS-PL) and experiencing symptoms of psychosis at screening (Visit 1).",
+      "PANSS total score of at least 70 at screening (Visit 1) and randomization (Visit 2).",
+      "Participant has a CGI-S score of ≥ 4 at screening (Visit 1) and randomization (Visit 2)."
+    ],
+    "exclusion": [
+      "Any primary DSM-5-TR disorder other than schizophrenia within 12 months before screening.",
+      "History or presence of clinically significant cardiovascular, pulmonary, hepatic impairment, renal, hematologic, GI, endocrine, immunologic, dermatologic, neurologic, or oncologic disease or any other condition that, in the opinion of the investigator, would jeopardize the safety of the participant or the validity of the study results.",
+      "All grades of hepatic impairment (mild \\[Child-Pugh Class A\\], moderate \\[Child-Pugh Class B\\], and severe \\[Child-Pugh Class C\\]). Participants with known intellectual disability defined as an IQ less than 70; or, either clinical evidence or known social or school history indicative of intellectual disability.",
+      "Any neurological disorder, except for Tourette's Syndrome.",
+      "Participants who have either a systolic blood pressure (sBP) or diastolic blood pressure (dBP) meeting criteria for stage 2 HTN, regardless of the presence or absence of symptoms."
+    ],
+    "phases": [
+      "PHASE3"
+    ],
+    "enrollment": 166,
+    "primary": [
+      {
+        "m": "Change From Baseline in Positive and Negative Syndrome Scale (PANSS) Total Score",
+        "t": "Week 5"
+      }
+    ],
+    "secondary": [
+      "Change From Baseline in Clinical Global Impression-Severity (CGI-S) Score",
+      "Change From Baseline in PANSS Positive Subscale Score",
+      "Change From Baseline in PANSS Negative Subscale Score",
+      "Change From Baseline in PANSS Marder Negative Factor Score"
+    ]
+  },
+  "NCT07114874": {
+    "officialTitle": "A Global, Phase 3, Multicenter, Open-Label Study to Assess the Long-Term Safety and Tolerability of NBI-1117568 in Adults With Schizophrenia",
+    "briefTitle": "NBI-1117568-SCZ3032: Long-Term Evaluation of NBI-1117568 in Adults With Schizophrenia",
+    "briefSummary": "This study will evaluate the long-term safety of NBI-1117568 in adults with schizophrenia.",
+    "minAge": "18 Years",
+    "maxAge": "65 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Participant has a primary diagnosis of schizophrenia",
+      "Participants taking prohibited medications, including antipsychotics, must discontinue before study participation",
+      "Participant must reside in a stable housing situation"
+    ],
+    "exclusion": [
+      "Participant has known hypersensitivity to any component of the formulation of NBI-1117568",
+      "Participant has an unstable or poorly controlled medical condition or chronic disease",
+      "Participant is considered by the investigator to be at imminent risk of suicide or injury to self or others",
+      "Participant has a diagnosis of moderate or severe substance use disorder (with the exception of nicotine or caffeine dependence) within 6 months prior to screening",
+      "Participant has a positive alcohol test or drug screen for disallowed substances",
+      "Participant has a history of poor or suspected poor compliance in clinical research studies and/or in the investigator's opinion, the participant is not capable of adhering to the protocol requirements."
+    ],
+    "phases": [
+      "PHASE3"
+    ],
+    "enrollment": 800,
+    "primary": [
+      {
+        "m": "Number of Participants with Treatment-emergent Adverse Events",
+        "t": "Up to 36 months"
+      }
+    ],
+    "secondary": []
+  },
+  "NCT06229210": {
+    "officialTitle": "An Open-label, Multicenter Trial to Assess the Safety and Tolerability of Lumateperone in the Treatment of Pediatric Patients With Schizophrenia, Bipolar Disorder or Autism Spectrum Disorder",
+    "briefTitle": "Safety and Tolerability Trial of Lumateperone in Pediatric Patients With Schizophrenia, Bipolar Disorder or Autism Spectrum Disorder",
+    "briefSummary": "This is a multicenter, global, 26-week, open-label study to assess the safety and tolerability of lumateperone in pediatric patients with schizophrenia, bipolar disorder or autism spectrum disorder.",
+    "minAge": "5 Years",
+    "maxAge": "17 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Able to provide consent as follows:",
+      "The patient's legally authorized representative (LAR) (eg, parent or guardian) must provide written, informed consent;",
+      "The patient must provide written assent to study enrollment;",
+      "Male or female patients aged 13 to 17 years (inclusive) with schizophrenia; male or female patients aged 10 to 17 years (inclusive) with bipolar I or II disorder; or male or female patients aged 5 to 17 years (inclusive) with autism spectrum disorder;",
+      "Meet Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition Text Revision (DSM-5-TR) primary diagnosis of schizophrenia, bipolar I or II disorder, or autism spectrum disorder as confirmed by Kiddie Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL).",
+      "Is currently an outpatient and is anticipated to maintain outpatient status for the duration of the study.",
+      "Rollover Patients entering from the lead-in study must have safely completed the lead-in study, in the opinion of the Investigator."
+    ],
+    "exclusion": [
+      "Has a primary psychiatric diagnosis other than schizophrenia, bipolar I or bipolar II disorder or autism spectrum disorder. Schizophrenia with catatonia, or bipolar disorder with psychotic features are not allowed. Exceptions include:",
+      "ADHD: If a subject is taking psychostimulant(s) for ADHD, they must have been on a stable treatment regimen of these medication(s) for 30 days prior to Screening. The treatment regimen should remain stable throughout the study. This must be confirmed by the Investigator and noted in the source records.",
+      "For ASD patients only, based on Investigator opinion and DSM-5 criteria, mild or moderate intellectual disability is allowed. Severe or profound intellectual disability is exclusionary.",
+      "In the opinion of the Investigator, the patient has a significant risk for suicidal behavior during their participation in the study or",
+      "At Screening, the patient scores \"yes\" on Suicidal Ideation Items 3, 4, or 5 of the Columbia-Suicide Severity Rating Scale (C SSRS) within 6 months prior to Screening or, at Baseline, the patient scores \"yes\" on Suicidal Ideation Items 3, 4, or 5 since the Screening Visit;",
+      "At Screening, the patient has had 1 or more suicidal attempts within the 2 years prior to Screening; or",
+      "At Screening or Baseline, scores \\> 3 on Item 13 (suicidal ideation) of the CDRS-R (for bipolar disorder patients only); or",
+      "The patient is considered to be an imminent danger to him/herself or others."
+    ],
+    "phases": [
+      "PHASE3"
+    ],
+    "enrollment": 500,
+    "primary": [
+      {
+        "m": "Incidence of Common Adverse Events",
+        "t": "Up to 6 months"
+      }
+    ],
+    "secondary": []
+  },
+  "NCT07365462": {
+    "officialTitle": "A Phase 2, Randomized, Double-Blind, Placebo-Controlled Study to Assess the Efficacy, Safety, and Tolerability of NBI-1065890 in Adult Participants With Tardive Dyskinesia",
+    "briefTitle": "Efficacy, Safety, and Tolerability of NBI-1065890 Versus Placebo in Adults With Tardive Dyskinesia",
+    "briefSummary": "The primary objective of this study is to evaluate the efficacy of NBI-1065890 compared with placebo for the treatment of tardive dyskinesia (TD) in adult participants.",
+    "minAge": "18 Years",
+    "maxAge": "75 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Medically confirmed diagnosis of schizophrenia, schizoaffective disorder, bipolar disorder, or major depressive disorder (MDD) as defined in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) for at least 3 months prior to screening.",
+      "Medically confirmed diagnosis of neuroleptic-induced TD as defined in the DSM-5 for at least 3 months prior to screening.",
+      "Moderate or severe TD (AIMS Item 8, severity of abnormal movement overall) as assessed by a blinded, external AIMS video reviewer using a video recording of the participant's AIMS assessment administered at the clinical site by a blinded, certified site AIMS rater. The AIMS dyskinesia total score (sum of Items 1 to 7) must be ≥6 as assessed by the blinded, external AIMS video reviewer."
+    ],
+    "exclusion": [
+      "Comorbid parkinsonism (drug-induced or otherwise) or more than a minimal level of extrapyramidal signs/symptoms, as documented by a score on the Modified Simpson-Angus Scale (mSAS) (excluding Items 8 and 10) \\>6 at screening or Day -1 (baseline) or a score \\>3 in any one item (excluding Items 8 and 10).",
+      "Barnes Akathisia Rating Scale (BARS) global clinical assessment score ≥2 at screening or Day -1.",
+      "Brief Psychiatric Rating Scale (BPRS) total score ≥50 at screening or Day -1.",
+      "Hospitalized for schizophrenia, schizoaffective disorder, bipolar disorder, or MDD within 6 months of screening.",
+      "Participant has an unstable medical condition or unstable chronic disease.",
+      "Any known history of neuroleptic malignant syndrome (NMS)."
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 100,
+    "primary": [
+      {
+        "m": "Change from Baseline in the Abnormal Involuntary Movement Scale (AIMS) Dyskinesia Total Score at Week 8 Based on the Blinded Central AIMS Video Raters' Assessment",
+        "t": "Baseline and Week 8"
+      }
+    ],
+    "secondary": [
+      "Percentage of Participants Who Are a Clinical Global Impression - Improvement (CGI-I) Responder 1 at Week 8"
+    ]
+  },
+  "NCT07105111": {
+    "officialTitle": "A Phase 4, Open-Label Study to Evaluate the Efficacy of Valbenazine on Clinician- and Patient-Reported Outcomes in Patients With Tardive Dyskinesia (TD) Who Remain Symptomatic While on Deutetrabenazine or After Discontinuing Prior TD Treatment With a Vesicular Monoamine Transporter 2 (VMAT2) Inhibitor",
+    "briefTitle": "A Study to Evaluate the Effectiveness of Valbenazine in Adult Participants With Tardive Dyskinesia (TD) Who Remain Symptomatic While Receiving or After Stopping a Vesicular Monoamine Transporter 2 (VMAT2) Inhibitor",
+    "briefSummary": "This study will evaluate the efficacy of valbenazine on clinician- and patient-reported outcomes in participants with TD while receiving or after stopping a VMAT2 inhibitor.",
+    "minAge": "18 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "years of age or older",
+      "Diagnosed with one of the following at least 3 months prior to screening: schizophrenia or schizoaffective disorder, bipolar disorder, or major depressive disorder",
+      "Diagnosed with at least mild neuroleptic-induced TD for at least 3 months prior to screening"
+    ],
+    "exclusion": [
+      "Have comorbid Parkinsonism or abnormal involuntary movement(s) that is more prominent than TD",
+      "Diagnosis of moderate or severe substance use disorder in the last 6 months",
+      "History of long QT syndrome, cardiac arrythmia, or severe hepatic impairment"
+    ],
+    "phases": [
+      "PHASE4"
+    ],
+    "enrollment": 50,
+    "primary": [
+      {
+        "m": "Change from Baseline in the Abnormal Involuntary Movement Scale (AIMS) Dyskinesia Total Score (AIMS 1-7) at Week 24",
+        "t": "Baseline, Week 24"
+      }
+    ],
+    "secondary": [
+      "Change from Baseline in the Clinical Global Impression of Severity - Tardive Dyskinesia (CGI-TD-S) Score at Week 24",
+      "Change from Baseline in the Tardive Dyskinesia Impact Scale (TDIS) at Week 24",
+      "Change from Baseline in the EuroQol-Visual Analogue Scale (EQ-VAS) at Week 24"
+    ]
+  },
+  "NCT06585787": {
+    "officialTitle": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled, Parallel Group Study to Evaluate the Safety and Efficacy of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease",
+    "briefTitle": "A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)",
+    "briefSummary": "The purpose of this study is to evaluate the safety and efficacy of KarXT in adult participants with mild to severe Alzheimer's Disease (AD) with moderate to severe psychosis related to AD.",
+    "minAge": "55 Years",
+    "maxAge": "90 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Patients who are 55 to 90 years of age, inclusive, at the time of Screening (Visit 1).",
+      "Patients who are diagnosed with AD based on the 2024 revised criteria for diagnosis and staging of AD: Alzheimer's Association Workgroup.",
+      "Patient must have a magnetic resonance imaging (MRI) or computed tomography (CT) scan of the brain (completed within the past 5 years) taken during or subsequent to the onset of dementia to rule out other central nervous system (CNS) disease that could account for the dementia syndrome, eg, major stroke, neoplasm, subdural hematoma.",
+      "Patient must have a history of psychotic symptoms (meeting International Psychogeriatric Association criteria) for at least 2 months prior to Screening (Visit 1) (participants may or may not have symptoms of agitation)."
+    ],
+    "exclusion": [
+      "\\- Patients will not be able to participate if they have:",
+      "i) Psychotic symptoms that are primarily attributable to a condition other than the AD causing the dementia, eg, schizophrenia, schizoaffective disorder, delusional disorder, or mood disorder with psychotic features.",
+      "ii) History of major depressive episode with psychotic features during the 12 months prior to Screening, or history of bipolar disorder, schizophrenia, or schizoaffective disorder.",
+      "iii) Patients are not able to participate if they have certain safety concerns, including certain laboratory test irregularities."
+    ],
+    "phases": [
+      "PHASE3"
+    ],
+    "enrollment": 406,
+    "primary": [
+      {
+        "m": "Change from baseline in Neuropsychiatric Inventory-Clinician: Hallucinations and Delusions (NPI-C: H+D) score",
+        "t": "Up to Week 14"
+      }
+    ],
+    "secondary": [
+      "Change from baseline in Clinical Global Impressions-Severity (CGI-S) scale",
+      "Change from baseline in Neuropsychiatric Inventory-Clinician (NPI-C) Core score: Hallucination Domain",
+      "Change from baseline in NPI-C Core score: Delusion Domain",
+      "Change from baseline in NPI-C Core score: Agitation Domain"
+    ]
+  },
+  "NCT06947941": {
+    "officialTitle": "A Phase 3, Randomized, Double-blind, Placebo-controlled, Parallel Group Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Psychosis Associated With Alzheimer's Disease",
+    "briefTitle": "A Study to Evaluate Safety and Efficacy of KarXT + KarX-EC as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-5)",
+    "briefSummary": "The purpose of this study is to evaluate KarXT + KarX-EC as a treatment for psychosis associated with Alzheimer's disease.",
+    "minAge": "55 Years",
+    "maxAge": "90 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Participants must be 55 to 90 years of age, inclusive, at the time of Screening (Visit 1).",
+      "Participants must be diagnosed with Alzheimer's disease in accordance with the 2024 NIA-AA criteria.",
+      "Participants must have a magnetic resonance imaging (MRI) or computed tomography (CT) scan of the brain (completed within the past 5 years) taken during or subsequent to the onset of dementia to rule out other central nervous system (CNS) disease that could account for the dementia syndrome, eg, major stroke, neoplasm, subdural hematoma.",
+      "Participants must have a history of psychotic symptoms (meeting International Psychogeriatric Association criteria) for at least 2 months prior to Screening (Visit 1) (participants may or may not have symptoms of agitation)."
+    ],
+    "exclusion": [
+      "Participants must not have psychotic symptoms that are primarily attributable to a condition other than the AD causing the dementia, eg, schizophrenia, schizoaffective disorder, delusional disorder, or mood disorder with psychotic features.",
+      "Participants must not have history of major depressive episode with psychotic features during the 12 months prior to Screening, or history of bipolar disorder, schizophrenia, or schizoaffective disorder.",
+      "Participants must not have certain safety concerns, including certain laboratory test irregularities."
+    ],
+    "phases": [
+      "PHASE3"
+    ],
+    "enrollment": 1046,
+    "primary": [
+      {
+        "m": "Change From Baseline in Neuropsychiatric Inventory-Clinician: Hallucinations and Delusions (NPI-C: H+D) Score",
+        "t": "Up to Week 12"
+      }
+    ],
+    "secondary": [
+      "Change From Baseline in Clinical Global Impressions-Severity (CGI-S) Score",
+      "Change From Baseline in Neuropsychiatric Inventory-Clinician Rating Scale (NPI-C) Core Score",
+      "Change From Baseline in NPI-C: Agitation Score",
+      "Change From Baseline in NPI-C Core Score: Caregiver Distress Scale"
+    ]
+  },
+  "NCT06808984": {
+    "officialTitle": "A Phase 2, Randomized, Double-blind, Three-Arm, Placebo-controlled, Multicenter Study Assessing the Efficacy, Safety and Tolerability of Orally Administered BMS-986368, a FAAH/MAGL Inhibitor, for the Treatment of Agitation in Participants With Alzheimer's Disease (BALANCE-AAD-1)",
+    "briefTitle": "Study to Evaluate the Efficacy, Safety, and Tolerability of BMS-986368, for the Treatment of Agitation in Participants With Alzheimer's Disease",
+    "briefSummary": "This is a study to evaluate the efficacy, safety, and tolerability of BMS-986368, a FAAH/MAGL inhibitor, for the treatment of agitation in participants with Alzheimer's Disease.",
+    "minAge": "55 Years",
+    "maxAge": "90 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Participants with a diagnosis of Alzheimer's disease with biomarker confirmation meeting the 2024 Revised criteria for diagnosis and staging of AD: Alzheimer's Association Workgroup.",
+      "The diagnosis of agitation must meet the International Psychogeriatric Association (IPA) definition of agitation.",
+      "History of agitation with onset at least four weeks prior to Screening",
+      "MMSE-1 score \\< 21",
+      "NPI-NH agitation/aggression sub-score ≥ 4.",
+      "Stable living environment for at least 6 weeks prior to Screening. Participants are eligible if they are in nursing homes, assisted living facilities, or living at home and have an identified study partner (caregiver).",
+      "Capable of self-locomotion (alone or with the aid of an assistive device); wheelchairs and other mobility aids are acceptable."
+    ],
+    "exclusion": [
+      "Clinically significant delusions/hallucinations requiring hospitalization.",
+      "History of bipolar disorder, schizophrenia, or schizoaffective disorder.",
+      "History of major depressive episode with psychotic features during the 12 months prior to Screening.",
+      "History of delirium within 30 days of Screening."
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 120,
+    "primary": [
+      {
+        "m": "Change in Cohen-Mansfield Agitation Inventory (CMAI) total score from baseline",
+        "t": "Up to Week 8"
+      }
+    ],
+    "secondary": [
+      "Change in Clinical Global Impression-Severity (CGI-S)",
+      "Change in CMAI-International Psychogeriatric Association (CMAI-IPA) Total Score",
+      "CMAI sub-score change in Aggressive Behaviors",
+      "CMAI sub-score change in Physically Non-aggressive Behaviors"
+    ]
+  },
+  "NCT06372964": {
+    "officialTitle": "A Randomized, Double-blind, Placebo-controlled, Multicenter Study to Evaluate the Efficacy and Safety of Lumateperone for the Treatment of Major Depressive Episodes (MDEs) Associated With Bipolar I or Bipolar II Disorder (Bipolar Depression) in Pediatric Patients Aged 10 to 17 Years",
+    "briefTitle": "Multicenter Study of Lumateperone for the Treatment of Bipolar Depression in Pediatric Patients",
+    "briefSummary": "This is a multicenter, randomized, double-blind, placebo-controlled study in pediatric patients who are experiencing major depressive episodes (MDEs) associated with a primary diagnosis of bipolar I or bipolar II disorder as confirmed by Kiddie Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL), according to criteria of the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM 5).",
+    "minAge": "10 Years",
+    "maxAge": "17 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Able to provide consent as follows:",
+      "The Legally Authorized Representative (LAR) must provide written, informed consent.",
+      "The patient must provide written assent;",
+      "Male or female patients 10 to 17 years of age, inclusive;",
+      "Have a Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition Text Revision (DSM-5-TR) primary diagnosis of bipolar I or bipolar II disorder with a current MDE without psychosis as confirmed by Kiddie Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL);",
+      "Subject has a lifetime history of at least one manic or hypomanic episode.",
+      "Subject's current major depressive episode is ≥ 4 weeks and less than 12 months in duration;",
+      "CDRS-R total score ≥ 45 with ≥ 5 on Item 11 (depressed feelings) at Screening and Baseline;",
+      "Young Mania Rating Scale (YMRS) score ≤ 15 (with YMRS Item 1 \\[elevated mood\\] score ≤ 2) at Screening and Baseline."
+    ],
+    "exclusion": [
+      "Has a primary psychiatric diagnosis other than bipolar I or bipolar II disorder. Exception includes:",
+      "Attention deficit hyperactivity disorder (ADHD). If a subject is taking medications for ADHD, they must have been on a stable treatment regimen of these medication(s) for 30 days prior to screening and the treatment regimen is expected to remain stable throughout the study.",
+      "Intellectual disability based on Investigator opinion and DSM-5 criteria",
+      "Patient has been hospitalized for a bipolar manic episode within the 30 days prior to randomization;",
+      "Demonstrates a ≥ 25% decrease (improvement) in the CDRS-R total score between Screening and Baseline visits, or the CDRS-R is below 45 at Baseline;",
+      "In the opinion of the Investigator, the patient has a significant risk for suicidal behavior during his/her participation in the study or",
+      "At Screening, the patient scores \"yes\" on Suicidal Ideation Items 3, 4, or 5 of the Columbia-Suicide Severity Rating Scale (C-SSRS) within 6 months prior to Screening or, at Baseline, the patient scores \"yes\" on Suicidal Ideation Items 3, 4, or 5 since the Screening Visit;",
+      "At Screening, the patient has had 1 or more suicidal attempts within the 2 years prior to Screening; or",
+      "At Screening or Baseline, scores \\> 3 on Item 13 (suicidal ideation) on the CDRS-R; or",
+      "The patient is considered to be an imminent danger to him/herself or others."
+    ],
+    "phases": [
+      "PHASE3"
+    ],
+    "enrollment": 384,
+    "primary": [
+      {
+        "m": "Children's Depression Rating Scale-Revised (CDRS-R)",
+        "t": "Week 6"
+      }
+    ],
+    "secondary": [
+      "Clinical Global Impression Scale-Severity (CGI-S)"
+    ]
+  },
+  "NCT06690398": {
+    "officialTitle": "A Randomized, Double-blind, Placebo-controlled, Multicenter Study to Assess the Efficacy and Safety of Lumateperone in the Treatment of Irritability Associated With Autism Spectrum Disorder in Pediatric Patients 5 to 17 Years of Age",
+    "briefTitle": "Multicenter Study of Lumateperone for the Treatment of Irritability Associated With Autism Spectrum Disorder in Pediatric Patients",
+    "briefSummary": "This is a multicenter, randomized, double-blind, placebo-controlled study in pediatric patients aged 5 to 17 years with a primary diagnosis of irritability associated with Autism Spectrum Disorder (ASD) based on Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition Text Revision (DSM-5-TR) and confirmed by the Kiddie Schedule for Affective Disorders and Schizophrenia Present and Lifetime Version (K-SADS-PL).",
+    "minAge": "5 Years",
+    "maxAge": "17 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "All patients must have a legally authorized representative LAR (eg, parent or legal guardian) who is willing and able to be responsible for the safety and well-being of the patient, provide information about the patient's condition, and accompany the patient to study visits.",
+      "Able to provide consent as follows:",
+      "The patient's LAR must provide written, informed consent.",
+      "When developmentally appropriate based on Investigator judgment, the patient should provide written assent.",
+      "Male or female patients 5 to 17 years of age. Currently, only patients aged 13 to 17 years will be eligible for enrollment.",
+      "Meet Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition Text Revision (DSM-5-TR) primary diagnosis of ASD as confirmed by the Kiddie Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL);",
+      "ABC-I subscale score of \\>18 at Screening and Baseline;",
+      "CGI-S score \\> 4 with respect to irritability associated with ASD at Screening and Baseline."
+    ],
+    "exclusion": [
+      "Has a primary psychiatric diagnosis other than ASD. Exceptions include:",
+      "Attention Deficit Hyperactivity Disorder (ADHD). If a patient is taking medication(s) for ADHD, they must be on a stable treatment regimen of these medication(s) for 30 days prior to screening and the treatment regimen is expected to remain stable throughout the study. This must be confirmed by the Investigator and noted in the source records.",
+      "Mild and moderate intellectual disability based on Investigator judgment and DSM-5 criteria (severe and profound intellectual disability are excluded).",
+      "History or current diagnosis of Rett syndrome or Fragile X syndrome;",
+      "In the opinion of the Investigator, the patient has a significant risk for suicidal behavior during their participation in the study or",
+      "At Screening, the patient scores \"yes\" on Suicidal Ideation Items 3, 4, or 5 of the Columbia-Suicide Severity Rating Scale (C-SSRS) within 6 months prior to Screening or, at Baseline, the patient scores \"yes\" on Suicidal Ideation Items 3, 4, or 5 since the Screening Visit;",
+      "At Screening, the patient has had 1 or more suicidal attempts within the 2 years prior to Screening; or",
+      "The patient is considered to be an imminent danger to themselves or others."
+    ],
+    "phases": [
+      "PHASE3"
+    ],
+    "enrollment": 174,
+    "primary": [
+      {
+        "m": "Aberrant Behavior Checklist - Irritability (ABC-I)",
+        "t": "Week 6"
+      }
+    ],
+    "secondary": [
+      "Clinical Global Impression-Severity (CGI-S)"
+    ]
+  },
+  "NCT06413433": {
+    "officialTitle": "A Phase 3, Randomized, Double-blind, Placebo-Controlled Trial of Solriamfetol in Adults With Binge Eating Disorder (BED)",
+    "briefTitle": "Elucidating TAAR-1, Dopamine, and Norepinephrine in Binge Eating Disorder Using Solriamfetol",
+    "briefSummary": "ENGAGE (Elucidating TAAR-1, Dopamine, and Norepinephrine in Binge Eating Disorder Using Solriamfetol) is a Phase 3, randomized, double-blind, placebo-controlled, multicenter trial to assess the efficacy and safety of solriamfetol for the treatment of binge eating disorder (BED) in adults.",
+    "minAge": "18 Years",
+    "maxAge": "55 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Primary diagnosis of BED according to DSM-5 criteria.",
+      "Provides written informed consent to participate in the study before the conduct of any study procedures.",
+      "Male or female, aged 18 to 55 inclusive."
+    ],
+    "exclusion": [
+      "Prior exposure to solriamfetol/Sunosi, through either a clinical study or prescription.",
+      "Unable to comply with study procedures.",
+      "Medically inappropriate for study participation in the opinion of the investigator."
+    ],
+    "phases": [
+      "PHASE3"
+    ],
+    "enrollment": 450,
+    "primary": [
+      {
+        "m": "Change from Baseline to Week 12 in number of binge eating episodes",
+        "t": "12 weeks"
+      }
+    ],
+    "secondary": []
+  },
+  "NCT07456696": {
+    "officialTitle": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled, Evaluation of the Safety and Efficacy of TSND-201 for the Treatment of PTSD",
+    "briefTitle": "An Evaluation of the Safety and Efficacy of TSND-201 for the Treatment of PTSD (EMPOWER-1)",
+    "briefSummary": "This study is evaluating the safety and efficacy of TSND-201 in adults with PTSD.\n\nEligible participants will enter a 4-week Treatment Period where they will be randomized 1:1:1 to receive one of two doses of TSND-201 or placebo, once per week. Following the Treatment Period, participants will enter an 8-week Follow-up Period.",
+    "minAge": "18 Years",
+    "sex": "ALL",
+    "inclusion": [
+      "Meets the DSM-5 criteria for current PTSD diagnosis, with a symptom duration of at least 6 months.",
+      "Tried at least one pharmacological treatment for PTSD or trauma-focused psychotherapy.",
+      "Proficient in communication (verbal and reading) to complete interviews and written questionnaires.",
+      "Free from any other clinically significant illness or disease."
+    ],
+    "exclusion": [
+      "Primary diagnosis of any other DSM-5 disorder.",
+      "Body mass index (BMI) \\<18 kg/m2 or ≥40 kg/m2.",
+      "Unable to refrain from nicotine use for at least 8 hours.",
+      "Use of prohibited concomitant medications or therapies.",
+      "Current or previous history of clinically significant cardiovascular (including current uncontrolled hypertension) / cerebrovascular conditions."
+    ],
+    "phases": [
+      "PHASE3"
+    ],
+    "enrollment": 300,
+    "primary": [
+      {
+        "m": "Change from Baseline in Clinician-Administered PTSD Scale for DSM-5 (CAPS-5) Total Severity Score",
+        "t": "Up to 12 weeks"
+      }
+    ],
+    "secondary": []
+  }
+}

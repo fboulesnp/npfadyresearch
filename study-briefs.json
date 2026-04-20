@@ -1,0 +1,2939 @@
+{
+  "NCT04777357": {
+    "code": "YOUTHLIFT",
+    "site": "CHINO",
+    "title": "Cariprazine (Vraylar) in Pediatric Bipolar I Depression",
+    "sponsor": "AbbVie / Allergan",
+    "protocol": "3112-301-001",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL watching a 13-year-old sink into bipolar depression while the FDA only\napproves three drugs for this age group?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "Pediatric bipolar depression affects ~1% of youth and drives the highest suicide risk in child psychiatry. Only\nlurasidone, olanzapine-fluoxetine, and lumateperone carry pediatric bipolar-depression labels. Parents and\nclinicians are left choosing between metabolic risk and weight gain.\nA D2/D3 partial agonist with a clean metabolic profile could reset the pediatric\nbipolar-depression standard of care."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "10-17 6 wks 1.5-3 mg ~380\nAGE RANGE DOUBLE-BLIND FLEX DOSE TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Cariprazine is already approved for adult bipolar I depression, mania, schizophrenia, and MDD adjunct. This\nPhase 3 bridges to pediatric label — a gap the field has begged to fill."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "D3-preferring D2/D3 partial agonist + 5-HT1A partial agonist + 5-HT2B antagonist. Long half-life (1-3 weeks\nfor active metabolite) provides forgiving dosing in adolescents prone to missing doses."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled, flexible-dose 6-week monotherapy study. Primary endpoint:\nchange in CDRS-R total. Key secondary: CGI-BP-S depression. Includes 26-week open-label extension."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "Your patient is 10-17, has a confirmed DSM-5 Bipolar I diagnosis, is currently in a major depressive episode\n(CDRS-R >=45), and hasn't responded to or tolerated first-line options. The whole point: catch bipolar\ndepression before suicide attempts and school failure compound."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Active suicidal plan/intent (C-SSRS item 4-5 past month)\n✗ Substance use disorder past 6 months (except nicotine)\n✗ History of NMS or tardive dyskinesia\n✗ Pregnancy/nursing; sexually active without contraception\n✗ Prior cariprazine failure or intolerance"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "13-16 y/o with early-onset BP-I, currently depressed, on a mood stabilizer that isn't working, family frustrated\nwith weight gain from atypicals."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW query: ICD-10 F31.3x / F31.4 / F31.5 + age 10-17 + any antidepressant/antipsychotic in last 90 days.\nFlag 'weight gain' chief complaints."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Lurasidone (Latuda) pediatric BP-D approved 2018; olanzapine-fluoxetine (Symbyax) 10+; lumateperone\npediatric pending. Cariprazine differentiates on metabolic neutrality + once-daily long half-life."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: first D3-preferring option for youth BP-D, minimal weight/metabolic burden. Risk: akathisia\n(10-15%), somnolence, EPS. Manageable with slow titration."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "IPMG's pediatric volume across 4 sites means we can realistically enroll 15-20 patients — meaningful\ncontribution to a ~380-patient trial and a gateway to pediatric research credentials."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“We have a study for kids 10 to 17 with bipolar depression. The medicine is already approved for adults.\nWe're checking if it works for teens without the weight gain that other medicines cause.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment YOUTHLIFT."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT04777357\n• AbbVie Vraylar pediatric press release\n• Cariprazine FDA Prescribing Information"
+      }
+    }
+  },
+  "NCT07284667": {
+    "code": "NORLIGHT",
+    "site": "CHINO",
+    "title": "ACP-211 in MDD (NORLIGHT)",
+    "sponsor": "Acadia Pharmaceuticals",
+    "protocol": "ACP-211-002",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL watching TRD patients cycle through 3 SSRIs, an SNRI, and an atypical\nbefore anyone offers a novel mechanism?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "Two-thirds of MDD patients fail to remit on first-line SSRIs, and for those with true treatment-resistant\ndepression (TRD), every additional failed trial compounds demoralization and disability. The field needs\nnovel non-monoaminergic mechanisms for patients already on an approved antidepressant.\nA once-daily oral adjunct with a non-monoaminergic mechanism could replace atypical\naugmentation as the go-to TRD next step."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-65 6 wks Once daily ~500\nAGE DB PHASE DOSING TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Acadia built its psychiatry franchise on pimavanserin (Nuplazid). ACP-211 is their swing at\ntreatment-resistant depression with a differentiated MOA."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Novel serotonergic/glutamatergic modulator (Acadia-proprietary). Designed to engage mood and anhedonia\ncircuits in patients who have already failed standard antidepressants."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled adjunctive Phase 2/3 in TRD. Patients remain on their current\nFDA-approved antidepressant and add ACP-211 or placebo. Primary: MADRS change at Week 6. Key\nsecondary: SHAPS (anhedonia), CGI-S, response/remission."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "Adults 18-65 with moderate-to-severe MDD (MADRS >=26), current episode >=8 weeks, CURRENTLY\nTREATED with an FDA-approved antidepressant at adequate dose/duration, AND documented history of\ninadequate response to at least 2 prior antidepressant trials in the current episode. The whole point: TRD is\nthe target — screen IN, not out."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Bipolar, psychotic, or substance use disorder\n✗ Active suicidality (C-SSRS 4-5)\n✗ Pregnancy/nursing\n✗ Recent psychedelic or ketamine exposure\n✗ Currently antidepressant-naive or off antidepressants at screening"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "48-year-old TRD patient on venlafaxine 225 mg x 10 weeks, already tried sertraline and escitalopram at full\ndose this episode, PHQ-9 stuck at 18."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: ICD-10 F32.1/F32.2/F33.1/F33.2, PHQ-9 >=15 in last 90 days, CURRENTLY on an antidepressant,\nwith medication history showing >=2 prior antidepressant trials this episode. Flag 'refractory' or 'not\nresponding' in HPI."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Auvelity (dextromethorphan-bupropion), Spravato, Exxua (gepirone), and aripiprazole/brexpiprazole\naugmentation all compete for the TRD adjunct space. ACP-211 needs clean adjunctive data to separate\nfrom the pack."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: potential novel non-monoaminergic adjunct, no need to switch the patient off their existing\nantidepressant. Risk: unknown long-term safety, Phase 2/3 efficacy unproven. Adjunct design preserves\nbaseline coverage but adds a new side-effect profile."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "TRD is every psychiatrist's daily problem. A site that can consistently enroll TRD adjunct studies is always in\ndemand."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“This is a brand-new kind of add-on depression medicine. You'll stay on your current antidepressant\nand add this or a placebo. It doesn't work like Prozac or Zoloft — it works on different brain circuits.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment NORLIGHT."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT07284667\n• Acadia pipeline page"
+      }
+    }
+  },
+  "NCT06656416": {
+    "code": "ALTOBIP",
+    "site": "CHINO",
+    "title": "ALTO-100 in Bipolar Depression",
+    "sponsor": "Alto Neuroscience",
+    "protocol": "ALTO-100-211",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL using the same three bipolar-depression drugs from 2013?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "Bipolar depression accounts for 70% of BP morbidity. Lurasidone, quetiapine, lumateperone, and\ncariprazine are the only labeled options — none address cognitive deficits or adult neurogenesis.\nA pro-neurogenic small molecule could be the first mechanism that actually heals\ndepressive circuits in BP patients."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-65 6 wks BP-I/II ~200\nAGE DB BOTH TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Alto Neuroscience uses EEG biomarker stratification to pre-select responders. ALTO-100 is their lead\npro-neurogenic asset."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Pro-neurogenic, pro-plasticity small molecule; enhances adult hippocampal neurogenesis and BDNF\nsignaling. Orally bioavailable, once-daily."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled, biomarker-enriched (EEG-based). 6-week double-blind\ntreatment period with primary MADRS endpoint at Week 6, followed by an open-label period of up to 7\nweeks. Adjunct to stable mood stabilizer or antipsychotic."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "Adult BP-I or BP-II, currently depressed (MADRS >=24), on stable mood stabilizer >=4 weeks. The whole\npoint: help patients whose depression returns despite mood-stabilizer therapy."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Current mania/hypomania/mixed features\n✗ Rapid cycling (>=4 episodes/year)\n✗ Active psychosis\n✗ Substance use past 6 months\n✗ Active suicidality C-SSRS 4-5"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "42 y/o BP-II on lamotrigine, depressed 3 months, reluctant to add quetiapine due to sedation."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: F31.3x/F31.4/F31.5/F31.81 + mood stabilizer prescription. Screen for current depressive episode in\nlast PHQ-9."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Caplyta (lumateperone), Latuda (lurasidone), quetiapine, Vraylar hold the adjunct space. ALTO-100's\npro-neurogenic MOA and EEG pre-selection are the differentiators."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: novel regenerative mechanism, biomarker-matched responders. Risk: unproven at Phase 2/3;\nadjunct design means baseline meds still contribute side effects."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "BP-D is underserved by pharma pipelines. Owning a BP-D site with EEG infrastructure creates durable\ncompetitive advantage."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“This is a new medicine being added to your mood stabilizer. It's designed to help your brain make new\nconnections — not just mask symptoms.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment ALTOBIP."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT06656416\n• Alto Neuroscience pipeline"
+      }
+    }
+  },
+  "NCT07484217": {
+    "code": "CLARITY",
+    "site": "CHINO",
+    "title": "Solriamfetol in MDD + Excessive Daytime Sleepiness (CLARITY)",
+    "sponsor": "Axsome Therapeutics",
+    "protocol": "SOL-MDD-302",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL treating depression while your patient sleeps 11 hours and still can't stay\nawake at work?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "40% of MDD patients have excessive daytime sleepiness (EDS) — residual after SSRI response. No drug is\nlabeled for EDS-in-MDD.\nA DNRI + TAAR1 agonist that treats depression AND wakefulness in one pill could redefine\nthe residual-symptom endpoint."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-65 Open-label\nlead-in 150/300 mg ~450\nAGE THEN RW DOSE TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Axsome bought Sunosi (solriamfetol) from Jazz and is expanding beyond narcolepsy. CLARITY is the\nregistrational MDD+EDS program."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Dopamine-norepinephrine reuptake inhibitor (DNRI) + TAAR1 agonism. No opioid, no Schedule II\namphetamine profile (Schedule IV)."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized-withdrawal Phase 3. All eligible participants FIRST receive open-label solriamfetol during a\nlead-in period — every patient is guaranteed active drug at the start. Only participants who achieve a\nprotocol-defined clinical response are then randomized 1:1 to either continue solriamfetol or withdraw to\nplacebo for the double-blind maintenance phase. Primary: MADRS change / time to relapse. Key secondary:\nEpworth Sleepiness Scale, PROMIS-Fatigue."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "Adult MDD (MADRS >=26) with EDS (ESS >=10), on stable antidepressant >=6 weeks with partial\nresponse. The whole point: tackle the fatigue that makes 'recovered' depression still feel disabling — and\nevery enrolled patient gets active drug at the start."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Narcolepsy/OSA/other primary sleep disorder\n✗ Substance use past 6 months\n✗ Uncontrolled hypertension (systolic >140)\n✗ Pregnancy/nursing\n✗ MAOI past 14 days"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "38 y/o on sertraline 150 mg for 8 weeks, PHQ-9 down from 22 to 14, sleeps 10+ hours and still exhausted."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: ICD-10 F32.x/F33.x + G47.10 (hypersomnia) OR complaint of fatigue/EDS in last 3 visits."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Auvelity, Caplyta adjunct, Rexulti adjunct compete for MDD augmentation. Solriamfetol owns the EDS axis\n— no direct competitor."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: dual symptom coverage (mood + wakefulness), existing safety database from Sunosi, every patient\nstarts on active drug. Risk: BP elevation, insomnia if dosed late, headache. Responders randomized to\nplacebo face relapse risk in withdrawal phase."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "EDS is reported in 1 of every 3 MDD visits. Offering a study matched to that chief complaint — and one\nwhere every patient tries active drug first — converts at a much higher rate than generic MDD recruitment."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“This study has two parts. First, everyone gets the real medicine for several weeks. If it helps, you then\nhave a 50/50 chance of staying on it or switching to a placebo. That means everyone at least tries the\nactual drug.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment CLARITY."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT07484217\n• Axsome Sunosi page"
+      }
+    }
+  },
+  "NCT06423781": {
+    "code": "BHVLTS",
+    "site": "CHINO",
+    "title": "BHV-7000 in MDD — Long-Term Safety",
+    "sponsor": "Biohaven Pharmaceutical",
+    "protocol": "BHV7000-203",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL waiting for the first Kv7 channel opener to land in psychiatry?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "MDD remission rates plateau at 30%. Ion-channel modulation is a virtually untouched MDD target beyond\nketamine.\nIf Kv7 activators stabilize hyperexcitable limbic circuits, they could rewrite the depression\nplaybook."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-75 52 wks Once daily ~400\nAGE OPEN-LABEL DOSING TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Biohaven's Kv7 program followed Nurtec's success. Long-term safety enrollment supports NDA — BUT\nnote: Phase 2 MDD missed its primary endpoint in December 2025 and Biohaven has announced it is\ndiscontinuing the psychiatry program. Study status should be verified before enrollment."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Kv7.2/7.3 potassium-channel opener. Reduces neuronal hyperexcitability. Distinct from XEN1101\n(azetukalner) but same target class."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Open-label extension, single-arm, safety-focused. Primary: incidence of TEAEs over 52 weeks. Rollover\nfrom Phase 2 parent studies."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "Adults who completed a BHV-7000 MDD parent trial. The whole point: generate the long-term safety\ndatabase NDAs require."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ New-onset suicidality\n✗ Seizure disorder or epilepsy\n✗ QTc >470 ms\n✗ Pregnancy/nursing\n✗ Active substance use"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "Prior completer from BHV-7000 Phase 2 MDD parent study."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: cross-reference prior Biohaven study participants at your site. Limited external recruitment."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Azetukalner (XEN1101, Neurocrine) is the other major Kv7 psychiatry asset. Both face uncertainty after\nBHV-7000 Phase 2 MDD failure."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: novel ion-channel mechanism, if signal emerges. Risk: program discontinuation likely means no\npath to label. Discuss status with sponsor before dosing new patients."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "LTS studies are low-effort, high-retention revenue. Even a discontinued program pays site overhead while\npatients complete."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“This is a safety study for patients already in our depression research. We're making sure the medicine\nis safe when taken for a full year.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment BHVLTS."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT06423781\n• Biohaven Dec 2025 Phase 2 MDD topline announcement"
+      }
+    }
+  },
+  "NCT06419608": {
+    "code": "BHVMONO",
+    "site": "CHINO",
+    "title": "BHV-7000 MDD Monotherapy",
+    "sponsor": "Biohaven Pharmaceutical",
+    "protocol": "BHV7000-305",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL hoping ion-channel biology will finally crack MDD?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "Same as BHV-7000 LTS: field needs non-monoaminergic MDD mechanisms.\nMonotherapy efficacy would have validated the Kv7 class. The December 2025 Phase 2 miss\nsignificantly dims the path."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-75 6 wks Once daily ~500\nAGE DB DOSING TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Registrational monotherapy MDD study. With Phase 2 miss announced Dec 2025, sponsor is reassessing\n— sites should confirm enrollment status."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Kv7.2/7.3 channel opener (see Study 5)."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled, fixed-dose monotherapy. Primary: MADRS Week 6."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "Adults 18-75 with MDD, MADRS >=26, off antidepressants (washout). The whole point was first-line Kv7\nmonotherapy — subject to program status."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Seizure history\n✗ Bipolar disorder\n✗ Psychotic features\n✗ Active SUD\n✗ QTc prolongation"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "N/A — confirm whether enrollment is paused."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: suspended until sponsor confirms enrollment posture."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Azetukalner Phase 3 MDD (Neurocrine) — the remaining flagship Kv7 program."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: access to novel mechanism. Risk: program discontinuation; patients may lose access\nmid-treatment."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "Even if this specific study winds down, staying in the Biohaven orbit positions IPMG for their next program."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“We're checking on whether this study is still enrolling. If it is, it's a new kind of depression pill. If not,\nwe'll keep you on our list for the next study.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment BHVMONO."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT06419608\n• Biohaven pipeline page"
+      }
+    }
+  },
+  "NCT07288567": {
+    "code": "COBENTEEN",
+    "site": "CHINO",
+    "title": "KarXT in Adolescent Schizophrenia",
+    "sponsor": "Bristol Myers Squibb (Karuna)",
+    "protocol": "CN012-0020",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL giving 14-year-olds with first-episode psychosis the same D2 blockers we\nused in 1975?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "Pediatric schizophrenia is devastating and under-served. Metabolic side effects from D2 antipsychotics drive\n50%+ non-adherence in teens.\nA non-D2, M1/M4-selective muscarinic could be the first truly new antipsychotic class ever\nlabeled in adolescents."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "13-17 6 wks Flexible ~400\nAGE DB DOSE TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "BMS acquired Karuna for $14B largely for KarXT (Cobenfy). Pediatric label expansion is the highest-value\nfollow-on."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Xanomeline (M1/M4 agonist) + trospium (peripheral muscarinic antagonist that blocks GI side effects without\ncrossing BBB)."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled flex-dose 6 weeks. Primary: PANSS total change. Open-label\nextension follows."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "13-17 y/o, DSM-5 schizophrenia, PANSS >=80, stable housing, guardian-consented. The whole point:\nprevent the metabolic catastrophe D2 antipsychotics create in adolescents."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Known narrow-angle glaucoma\n✗ Urinary retention/severe constipation\n✗ Substance-induced psychosis\n✗ Pregnancy/nursing\n✗ Ongoing homicidality"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "16 y/o first-episode, started risperidone 8 weeks ago, gained 14 lb, refusing further dose increases."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: ICD-10 F20.x + age 13-17 + antipsychotic in last 90 days. Flag BMI increase >=5% in 6 months."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Risperidone, aripiprazole, paliperidone, lurasidone all have pediatric SCZ labels. KarXT differentiates on\nnon-D2 mechanism + no weight/metabolic signal."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: first non-D2 antipsychotic for teens, no weight gain/EPS. Risk: cholinergic side effects (nausea, dry\nmouth), anticholinergic from trospium (constipation)."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "IPMG's pediatric psychiatry volume is rare. Sites that can enroll pediatric psychosis are a national asset."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“This is a brand-new kind of medicine for teenagers with schizophrenia. It's not like the older pills that\ncause weight gain. It works on a different brain chemical.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment COBENTEEN."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT07288567\n• BMS Cobenfy pediatric program"
+      }
+    }
+  },
+  "NCT07140913": {
+    "code": "BALSAM",
+    "site": "CHINO",
+    "title": "KarXT BALSAM-4 in Bipolar I Mania",
+    "sponsor": "Bristol Myers Squibb",
+    "protocol": "CN012-0046",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL watching bipolar patients on Lithium or Depakote break through into mania\nwith no adjunct option that won't wreck them metabolically?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "Acute bipolar mania breakthrough on a mood stabilizer is a daily psychiatric problem. Every adjunctive\natypical brings a metabolic penalty that kills adherence post-discharge.\nIf KarXT controls breakthrough mania as an ADJUNCT to lithium, valproate, or lamotrigine\nwithout weight gain, it becomes the default post-hospital bridge."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-65 3 wks Adjunct only ~400\nAGE DB DESIGN TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "BMS's adult bipolar-mania expansion for Cobenfy as an ADJUNCT to standard mood stabilizers.\nComplements the SCZ label and the adolescent program."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Same as Study 7 — M1/M4 agonist + peripheral muscarinic antagonist."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled ADJUNCTIVE 3-week acute mania study. Patients must\ncurrently be taking — and remain on throughout the trial — lithium, valproate (divalproex), or lamotrigine as\ntheir background mood stabilizer. KarXT or placebo is added on top. Primary: YMRS change at Day 21."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "Adults 18-65 with DSM-5 BP-I, current manic or mixed episode, YMRS >=20, AND currently taking lithium,\nvalproate, or lamotrigine (must be continued throughout the study). The whole point: adjunctive rescue\nwithout piling on metabolic burden."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Patient NOT currently on lithium, valproate, or lamotrigine (they must stay on background stabilizer)\n✗ Mixed features with severe depression\n✗ Rapid cycling\n✗ Substance-induced mania\n✗ Pregnancy\n✗ History of narrow-angle glaucoma"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "29 y/o BP-I on lithium 900 mg daily for the past year, now in a manic episode (YMRS 28), needs adjunctive\ntreatment but doesn't want to add olanzapine due to weight gain history."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: F31.1x/F31.2 + ACTIVE lithium, valproate/divalproex, OR lamotrigine prescription + recent\nmanic/mixed features documented. These are the ONLY eligible patients."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Olanzapine, risperidone, quetiapine, aripiprazole, asenapine, Vraylar all labeled as adjuncts for mania.\nKarXT's weight-neutrality is the unique selling point within the adjunct space."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: mania control as an adjunct to standard mood stabilizer, without atypical metabolic burden. Risk:\ncholinergic GI side effects acute; efficacy vs olanzapine gold standard unknown."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "Mania studies require inpatient/24-hour-accessible sites AND patients already established on a mood\nstabilizer. IPMG's footprint supports both."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“This is a new add-on medicine for bipolar mania. You'd keep taking your lithium (or Depakote or\nLamictal), and we'd add this or a placebo on top. It works differently from Zyprexa and doesn't cause\nthe big weight gain.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment BALSAM."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT07140913\n• BMS Cobenfy program"
+      }
+    }
+  },
+  "NCT06585787": {
+    "code": "ADEPT4",
+    "site": "CHINO",
+    "title": "KarXT ADEPT-4 in Alzheimer's Psychosis",
+    "sponsor": "Bristol Myers Squibb",
+    "protocol": "CN012-0056",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL telling families there's nothing safe for Grandpa's paranoia and\nhallucinations?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "Alzheimer's psychosis affects ~30% of AD patients. Pimavanserin is the only approved option (for\nPD-psychosis, off-label in AD). Off-label atypicals carry a Black Box mortality warning.\nA non-D2 mechanism with no black-box mortality signal would be a paradigm shift for\ndementia psychiatry."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "55-90 12 wks Flex dose ~380\nAGE DB DOSING TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "BMS is pursuing Cobenfy's highest-value expansion — the AD psychosis market is massive and nearly\nempty."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "See Study 7. Additional hypothesis: M1 agonism may also slow cognitive decline via cholinergic restoration."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled, 12 weeks. Primary: NPI-C hallucinations + delusions\ndomain."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "55-90 y/o, probable AD (MMSE 8-22), clinically significant psychosis >=4 weeks, caregiver consent. The\nwhole point: give families a safe option."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Non-AD dementia (Lewy body, frontotemporal)\n✗ Uncontrolled medical illness\n✗ Urinary retention/glaucoma\n✗ Recent anticholinergic use"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "78 y/o wife caring for husband with AD who accuses her of infidelity every evening; haloperidol caused falls."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: ICD-10 G30.x + F06.0/F06.2/F06.8 (psychotic symptoms due to known condition). Flag caregiver\nvisits."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Pimavanserin (failed Phase 3 AD psychosis 2019; off-label use continues). BMS's BMS-986368 also in this\nspace."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: potential first approved non-black-box AD-psychosis treatment. Risk: cholinergic side effects tricky\nin elderly; fall/constipation risk."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "Geriatric psychiatry studies pay premium per-patient. Families drive referrals."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“This is a new medicine for older adults with Alzheimer's who are having hallucinations or paranoia. The\nmedicines we use now have a serious warning — this one is trying to avoid that.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment ADEPT4."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT06585787\n• BMS ADEPT program overview"
+      }
+    }
+  },
+  "NCT06947941": {
+    "code": "ADEPT5",
+    "site": "CHINO",
+    "title": "KarXT + KarX-EC ADEPT-5 in Alzheimer's Psychosis",
+    "sponsor": "Bristol Myers Squibb",
+    "protocol": "CN012-0034",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL wishing you could spread dementia-psychosis dosing over the whole day\nwithout 5 pills?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "KarXT IR dosing = BID; GI tolerability in elderly is the rate-limiter. An extended-release (KarX-EC) could\nunlock this population.\nOnce-daily KarX-EC could be the ultimate geriatric-friendly formulation."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "55-90 12 wks QD EC ~500\nAGE DB DOSING TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Formulation bridge study. Pairs IR (KarXT) vs EC (KarX-EC) to demonstrate equivalence and support QD\nlabel in AD."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Same xanomeline + trospium; extended-release formulation reduces peak/trough variability."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo + active comparator (IR vs EC). Primary: NPI-C hallucinations +\ndelusions."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "Same as ADEPT-4, age 55-90, probable AD with psychosis. The whole point: once-daily dosing for\ncaregivers managing complex regimens."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Same as ADEPT-4\n✗ Severe dysphagia (can't swallow whole capsule)"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "82 y/o with AD psychosis whose daughter manages 9 daily medications and can't add a BID pill."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "Same as ADEPT-4."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "ADEPT-4 is the direct internal comparator; BMS-986368 the external."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: simpler adherence. Risk: slower onset of action from EC formulation; variable absorption in elderly."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "Having both ADEPT-4 and ADEPT-5 at the same site streamlines recruitment across formulations."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“Same as ADEPT-4, but this one is once a day instead of twice a day — easier for caregivers.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment ADEPT5."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT06947941"
+      }
+    }
+  },
+  "NCT06808984": {
+    "code": "CALM45",
+    "site": "CHINO",
+    "title": "BMS-986368 for Agitation in Alzheimer's",
+    "sponsor": "Bristol Myers Squibb",
+    "protocol": "IM045-P06",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL sending caregivers home with lorazepam PRN for sundowning?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "AD agitation affects ~45% of AD patients; brexpiprazole (Rexulti) is the only approved agent but carries the\nantipsychotic black-box.\nA non-antipsychotic mechanism for AD agitation would unshackle primary care prescribing."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "55-90 10 wks Flex dose ~350\nAGE DB DOSE TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "BMS is competing with brexpiprazole's $1B+ agitation-in-AD market using a differentiated mechanism."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Proprietary BMS mechanism (non-D2) targeting agitation pathways. Exact MOA per sponsor\ncommunications."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled. Primary: CMAI (Cohen-Mansfield Agitation Inventory)\nchange."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "Same as ADEPT-4 age band; probable AD with clinically significant agitation (CMAI >=45). The whole point:\ncontrol agitation without black-box risk."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Psychosis as predominant feature (use ADEPT-4 instead)\n✗ Non-AD dementia\n✗ Acute medical instability"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "76 y/o AD patient with evening agitation who hits the nursing-home staff; family refusing brexpiprazole."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: G30.x + behavioral/agitation documentation + no current brexpiprazole."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Brexpiprazole (Rexulti) owns the label. AXS-05 (Axsome's dextromethorphan-bupropion) in Phase 3\n(ACCORD)."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: potential black-box-free option. Risk: Phase 2/3 efficacy unproven."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "Agitation and psychosis are the #1 and #2 caregiver distress drivers. Offering BOTH ADEPT-4 and CALM45\ncovers the full clinical spectrum."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“This medicine is for agitation in Alzheimer's — the pacing, yelling, restlessness at night. It's not an\nantipsychotic, so it doesn't carry the same warnings.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment CALM45."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT06808984"
+      }
+    }
+  },
+  "NCT06963021": {
+    "code": "SAVITRI3",
+    "site": "CHINO",
+    "title": "NBI-1065845 (Osavampator) Adjunctive MDD",
+    "sponsor": "Neurocrine Biosciences",
+    "protocol": "MDD3026",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL augmenting SSRIs with Abilify and hoping the akathisia doesn't wreck\nadherence?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "Adjunct MDD is dominated by atypical antipsychotics that carry metabolic and EPS risk. A cleaner AMPA\nmodulator could redefine augmentation.\nAMPA positive allosteric modulation is the long-sought glutamate angle — osavampator's\nPhase 2 SAVITRI HIT validates the class."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-65 6 wks QD dosing ~500\nAGE DB TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Phase 2 SAVITRI showed statistically significant MADRS separation vs placebo in adjunct MDD. Phase 3\nSAVITRI-3 is registrational."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "AMPA receptor positive allosteric modulator (PAM). Enhances fast excitatory glutamate signaling without\nNMDA/ketamine dissociative profile."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled adjunct to ongoing antidepressant. Primary: MADRS Week 6."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "MDD adults on stable antidepressant >=6 weeks, MADRS >=24, partial response. The whole point:\nglutamate augmentation without ketamine's baggage."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ TRD (>=2 failed trials this episode typically)\n✗ Bipolar\n✗ Substance use\n✗ Seizure history\n✗ Pregnancy"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "45 y/o on escitalopram 20 mg x 8 weeks, PHQ-9 stuck at 14, doesn't want Abilify."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: F32.x/F33.x + antidepressant >=6 weeks + PHQ-9 >=10 most recent."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Aripiprazole, brexpiprazole, olanzapine-fluoxetine, Caplyta, Rexulti ADMDD space. Osavampator's non-D2\nmechanism + Phase 2 HIT = strong differentiator."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: novel glutamate mechanism, clean Phase 2 signal. Risk: unknown long-term cognitive effects;\nAMPA overstimulation carries seizure-risk theoretical concern."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "Adjunct MDD is every psychiatrist's daily problem. Carrying a differentiated asset here builds KOL\nreputation."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“This is a new add-on medicine for depression that isn't getting better. Unlike Abilify, it doesn't work on\ndopamine — it helps the brain's main 'go' signal.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment SAVITRI3."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT06963021\n• Neurocrine SAVITRI Phase 2 topline"
+      }
+    }
+  },
+  "NCT07365462": {
+    "code": "NEXTVMAT",
+    "site": "CHINO",
+    "title": "NBI-1065890 in Tardive Dyskinesia",
+    "sponsor": "Neurocrine Biosciences",
+    "protocol": "TD2033",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL titrating Ingrezza hoping the akathisia and somnolence resolve?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "VMAT2 inhibitors (valbenazine, deutetrabenazine) changed the TD landscape but leave ~40% with partial\nresponse.\nA next-gen VMAT2 with improved tolerability could unlock higher doses and full symptom\nremission."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-75 12 wks Flex dose ~300\nAGE DB TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Neurocrine's follow-on to Ingrezza, designed to extend the franchise post-LOE with a better profile."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Selective VMAT2 inhibitor, next-generation. Refined selectivity to reduce off-target somnolence/depression\nsignals."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled 12 weeks. Primary: AIMS total score change."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "Adults with moderate-severe TD (AIMS >=8) on stable antipsychotic. The whole point: rescue patients who\nstill dyskinese on standard VMAT2s."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Concurrent VMAT2 inhibitor (washout required)\n✗ Uncontrolled depression with suicidality\n✗ Hepatic impairment\n✗ Concurrent strong CYP3A4 inhibitor"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "60 y/o on perphenazine for 15 years, facial AIMS score 10, tried valbenazine but discontinued due to\nsomnolence."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: G24.01 (TD) + current antipsychotic. Cross-reference with antipsychotic rx histories >=3 months."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Valbenazine (Ingrezza — Neurocrine itself), deutetrabenazine (Austedo — Teva). NBI-1065890 is\nNeurocrine's internal next-gen."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: potential cleaner profile than parent molecule. Risk: Phase 2 class — tolerability superiority must be\ndemonstrated."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "IPMG's high antipsychotic rx volume = large TD pool. Screening AIMS at every AP visit identifies\ncandidates."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“If your movements from the old antipsychotic are still bothering you, this is a new version of the\nmedicine we use to fix that — hopefully with fewer side effects.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment NEXTVMAT."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT07365462\n• Neurocrine pipeline"
+      }
+    }
+  },
+  "NCT07114874": {
+    "code": "M4OLE",
+    "site": "CHINO",
+    "title": "NBI-1117568 Schizophrenia Open-Label Extension",
+    "sponsor": "Neurocrine Biosciences",
+    "protocol": "SCZ3032",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL wondering if the new M4 class will actually hold up beyond 6 weeks?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "Long-term tolerability is the acid test for all novel antipsychotics. NBI-1117568's Phase 2 hit hard (PANSS\n-18.2 at 20 mg) but durability matters.\nIf M4 selectivity holds over a year with clean metabolic data, it out-competes KarXT on\ndosing simplicity."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-65 52 wks 20 mg QD ~400\nAGE OLE DOSE TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Rollover from Phase 2/3 parent studies. Safety + durability package for NDA."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Selective M4 muscarinic receptor agonist. Unlike KarXT (M1+M4), this is M4-pure — potentially avoids\nsome cholinergic side effects."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Open-label, single-arm, 52 weeks. Primary: long-term safety/tolerability. Secondary: PANSS maintenance."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "Parent-study completers. The whole point: durability + safety data for the first M4-selective antipsychotic."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ New-onset suicidality\n✗ Narrow-angle glaucoma\n✗ Significant urinary retention\n✗ Pregnancy/nursing"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "Parent-study completer, stabilized on NBI-1117568, wants continued access."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: cross-reference prior Neurocrine trial participants."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "KarXT (BMS Cobenfy) is the competitor class. Emraclidine (AbbVie, acquired from Cerevel in the $8.7B\n2024 deal) failed its Phase 2 schizophrenia trials in November 2024, effectively leaving M4 territory to NBI."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: likely label-enabling data. Risk: OLE reveals rare AEs; withdrawal management complex."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "OLEs are retention-heavy, high-margin. Maintaining chronic-SCZ patients in research = steady revenue."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“You did well on the study medicine. This is the next year, where we make sure it keeps working safely\nlong-term.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment M4OLE."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT07114874\n• Neurocrine M4 Phase 2 PANSS data\n• AbbVie emraclidine Phase 2 failure Nov 2024"
+      }
+    }
+  },
+  "NCT07105111": {
+    "code": "RESIDUALTD",
+    "site": "CHINO",
+    "title": "Valbenazine TD4027 Residual TD",
+    "sponsor": "Neurocrine Biosciences",
+    "protocol": "NBI-98854-TD402",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL telling TD patients 'as good as it gets' at 60% symptom reduction?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "Residual TD on approved VMAT2 dosing leaves patients still socially impaired. Higher/extended dosing\nparadigms are untested.\nDose optimization could convert partial responders to full remitters without new chemistry."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-75 12 wks 80-120 mg ~250\nAGE DB DOSE TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Lifecycle management for Ingrezza. Tests higher doses/longer titration for residual TD after first-line\nresponse."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Valbenazine (already approved) — VMAT2 inhibitor. This study optimizes dosing."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled in partial-responder population. Primary: AIMS change at\nWeek 12."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "Adults with TD, AIMS >=6 despite >=12 weeks of valbenazine at standard dose. The whole point: rescue\npatients for whom 'good enough' isn't."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ QTc >500 ms\n✗ Severe hepatic impairment\n✗ Concurrent strong CYP3A4 inhibitor\n✗ Pregnancy"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "67 y/o with residual tongue dyskinesia on valbenazine 80 mg x 6 months, AIMS 7."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: G24.01 + active valbenazine rx + last AIMS >=6."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Deutetrabenazine, NBI-1065890 next-gen. Dose-optimization vs molecule-switch is the strategic question."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: leverages an already-approved, tolerated drug. Risk: higher doses may surface new AEs\n(somnolence, depression)."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "Residual TD patients are already in your chart. Turnkey recruitment."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“The movement medicine is helping, but not enough. This study tests whether a higher dose finishes\nthe job.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment RESIDUALTD."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT07105111\n• Ingrezza Prescribing Information"
+      }
+    }
+  },
+  "NCT07065240": {
+    "code": "BUOY1",
+    "site": "CHINO",
+    "title": "SPT-300 (GlyphAllo) MDD with Anxious Distress — BUOY-1",
+    "sponsor": "Seaport Therapeutics",
+    "protocol": "2024-203",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL watching 'depression with anxious distress' patients fail both SSRI and\nbenzo paths?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "DSM-5 MDD 'with anxious distress' specifier predicts SSRI non-response. No mechanism-matched drug\nexists.\nAn oral allopregnanolone prodrug could deliver Zulresso-like GABAA modulation\noutpatient, targeting the anxious subset."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-65 8 wks Oral QD ~250\nAGE DB TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Seaport (spin-out from PureTech) is advancing SPT-300 — an oral allopregnanolone prodrug — for MDD\nwith anxious features. BUOY-1 is the lead efficacy trial."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Glycolipid-conjugated allopregnanolone prodrug (GlyphAllo). Slow-release oral delivery of the same active\nas brexanolone/zuranolone."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled 8 weeks. Primary: HAM-D17 change; key secondary: HAM-A."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "Adults with MDD + DSM-5 anxious distress specifier (>=2 of 5 anxious features). The whole point: target the\nanxious-depressed subset that SSRIs fail."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Bipolar\n✗ Active SUD\n✗ Recent benzodiazepine/hypnotic use\n✗ Pregnancy\n✗ Severe hepatic dysfunction"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "38 y/o MDD with panic-like somatic anxiety, tried escitalopram + buspirone, still HAM-D 22."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: F32.x/F33.x + F41.1 (GAD)/F41.9 comorbid. Flag PHQ + GAD-7 both elevated."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Zuranolone (Zurzuvae) is approved for PPD only. SSRI + benzo is the default messy combo. SPT-300 aims\nto replace both."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: GABAA mechanism matched to anxious-depressed subtype, no scheduled status expected. Risk:\nsomnolence/sedation class AEs."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "Anxious depression is the MOST common MDD subtype. Target-able, screenable, and under-treated."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“This pill is based on a new way to treat depression — especially the kind where anxiety is also a big\nproblem. It's an oral version of a medicine used after childbirth.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment BUOY1."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT07065240\n• Seaport Therapeutics pipeline"
+      }
+    }
+  },
+  "NCT07161700": {
+    "code": "BUOYOLE",
+    "site": "CHINO",
+    "title": "SPT-300 MDD Open-Label Extension",
+    "sponsor": "Seaport Therapeutics",
+    "protocol": "2024-204",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL waiting to see if the GABAA breakthrough lasts beyond the acute trial?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "Allopregnanolone modulators historically show rapid onset but durability questions. OLE answers them.\n52-week maintenance data = label-enabling story."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-65 52 wks Oral QD ~400\nAGE OLE TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Rollover OLE from BUOY-1 / sister studies. Supports NDA long-term safety."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Same as SPT-300 / BUOY-1."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Open-label single-arm 52 weeks. Primary: long-term safety/tolerability; secondary: HAM-D maintenance."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "BUOY-1 and parent-trial completers. The whole point: durability and safety package."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Emergent suicidality\n✗ New substance use\n✗ Pregnancy\n✗ Severe hepatic dysfunction"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "Parent-trial completer with sustained response wanting continued access."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: cross-reference parent Seaport trial participants."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Zuranolone OLE data (limited to PPD). SPT-300 OLE breaks new ground for MDD with anxious features."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: continued response, NDA-enabling data. Risk: rare long-term AEs surface; GABAA dependence\nquestions."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "Retained cohort drives predictable site revenue; OLEs cushion enrollment gaps."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“You're doing well on the study medicine. This is the year-long continuation so we know it's safe and\nkeeps working.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment BUOYOLE."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT07161700"
+      }
+    }
+  },
+  "NCT07046494": {
+    "code": "RAPBP",
+    "site": "CHINO",
+    "title": "RAP-219 in Bipolar I",
+    "sponsor": "Rapport Therapeutics",
+    "protocol": "RAP-219-BPM-20",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL balancing lithium toxicity and lamotrigine rashes as 'mood stabilizer\noptions' in 2026?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "Mood stabilizer innovation has stalled since Depakote. Novel targets are desperately needed.\nTARP-gamma8-dependent AMPA modulation offers region-selective glutamate tuning — a\nfundamentally new bipolar mechanism."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-65 8 wks QD ~200\nAGE DB DOSING TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Rapport's lead asset, entering bipolar mood episodes. Phase 2a proof-of-concept in BP-I."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Selective TARP-gamma8-dependent AMPA receptor negative allosteric modulator. Targets\nhippocampal/cortical AMPA without global glutamate suppression."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled 8 weeks. Primary: YMRS (for mania-inclusive cohort) or\nMADRS (for depressed cohort)."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "BP-I adults in current episode. The whole point: rescue patients whose mood stabilizer regimen isn't working\nwithout adding atypical metabolic burden."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Rapid cycling\n✗ Psychotic features\n✗ Substance use\n✗ Seizure history (AMPA NAM could theoretically alter threshold — but mechanistically seizure-neutral)\n✗ Pregnancy"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "40 y/o BP-I mixed episode, failed lithium and lamotrigine, currently on quetiapine but gaining weight."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: F31.1x/F31.2/F31.3x/F31.4 + prior mood stabilizer failure."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Lithium, Depakote, lamotrigine, atypicals, Vraylar, Caplyta. RAP-219 is the only TARP-gamma8 asset in\nbipolar clinical-stage development."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: truly new mechanism; region-selective = fewer side effects predicted. Risk: Phase 2, unproven\nefficacy; glutamatergic class carries seizure-threshold questions."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "Early-stage novel mood stabilizer positions the site for the first new bipolar mechanism in 20 years."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“This is a brand-new kind of mood stabilizer. It doesn't work like lithium or Depakote — it fine-tunes a\nspecific brain signal involved in mood episodes.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment RAPBP."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT07046494\n• Rapport Therapeutics pipeline\nSITE\nRedlands\n3 active protocols · 2026\n19 Lumateperone Pediatric SCZ / Bipolar / Autism Safety LUMAPED\n20 Lumateperone Pediatric Bipolar Depression LUMABIP\n21 Lumateperone Pediatric Autism Irritability LUMAAUT"
+      }
+    }
+  },
+  "NCT06229210": {
+    "code": "LUMAPED",
+    "site": "REDLANDS",
+    "title": "Lumateperone Pediatric SCZ / Bipolar / Autism Safety",
+    "sponsor": "Intra-Cellular Therapies (J&J;)",
+    "protocol": "ITI-007-321",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL prescribing risperidone to 8-year-olds because nothing cleaner is labeled?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "Pediatric psychiatric labels are thin, and weight/metabolic safety in kids on D2 blockers is dire.\nLumateperone's clean adult profile (virtually no weight gain) makes it the most anticipated\npediatric antipsychotic launch since risperidone."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "6-17 52 wks Flex dose ~300\nAGE SAFETY TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "J&J; closed its $14.6B Intra-Cellular acquisition April 2025. Caplyta adjunctive MDD approved Nov 6, 2025.\nPediatric expansion across SCZ/BP/autism is J&J;'s next move."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Serotonin/dopamine/glutamate modulator. Unique presynaptic D2 agonism + postsynaptic D2 antagonism +\n5-HT2A antagonism + glutamate modulation."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Long-term open-label safety in pediatric populations spanning schizophrenia, bipolar, and autism. Primary:\nsafety/tolerability; secondary: efficacy signals."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "6-17 y/o with DSM-5 SCZ, BP-I (dep or mania), or autism with severe behavioral disturbance. The whole\npoint: give kids the cleanest antipsychotic safety data available."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Severe comorbid medical illness\n✗ Active substance use (older adolescents)\n✗ Pregnancy/nursing\n✗ Recent major treatment change"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "11 y/o with BP-I + autism irritability, gained 15 lb on risperidone, family seeking alternative."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: F20.x / F31.x / F84.0 + age 6-17 + antipsychotic rx in last year. Track BMI percentile trajectory."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Risperidone, aripiprazole, olanzapine, paliperidone all pediatric-labeled. Caplyta is positioned as the\ncleanest metabolic profile."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: clean adult safety profile, J&J; resources behind pediatric rollout. Risk: pediatric-specific AEs\n(growth, puberty) still being defined."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "Pediatric antipsychotic research is extremely hard to staff — IPMG's infrastructure and referral networks are\na real moat."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“Caplyta is a newer antipsychotic that adults tolerate really well. We're studying it in kids and teens to\nsee if it's the same for them.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment LUMAPED."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT06229210\n• J&J; closes Intra-Cellular acquisition April 2025\n• Caplyta adjunctive MDD FDA approval Nov 2025"
+      }
+    }
+  },
+  "NCT06372964": {
+    "code": "LUMABIP",
+    "site": "REDLANDS",
+    "title": "Lumateperone Pediatric Bipolar Depression",
+    "sponsor": "Intra-Cellular Therapies (J&J;)",
+    "protocol": "ITI-007-421",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL offering quetiapine to depressed bipolar teens and hoping for the best?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "Lurasidone and olanzapine-fluoxetine are the pediatric BP-D labels. Neither is popular in 2026 teen\npsychiatry.\nLumateperone pediatric BP-D approval = a preferred first-line for a diagnosis we can't afford\nto miss."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "10-17 6 wks Flex dose ~400\nAGE DB TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Adult BP-D label already held. Pediatric expansion extends franchise and matches Cariprazine's pediatric\npush (Study 1)."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Same as Study 19."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled 6 weeks monotherapy. Primary: CDRS-R change. OLE\nfollows."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "10-17 y/o BP-I current depressive episode, CDRS-R >=45. The whole point: give clinicians a weight-neutral\npediatric BP-D option."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Mixed features/mania\n✗ Active suicidality\n✗ Substance use\n✗ Pregnancy"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "15 y/o BP-I depressed, failed lamotrigine monotherapy, family refusing Latuda due to food requirement."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: F31.3x/F31.4/F31.5 + age 10-17."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Lurasidone, olanzapine-fluoxetine, cariprazine pediatric (Study 1). Lumateperone's 'take with or without\nfood' + clean metabolic profile is the pitch."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: clean metabolic profile matters disproportionately in teens. Risk: somnolence, EPS mild but present."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "Dual Redlands studies (Study 19 + 20) = coordinated pediatric recruitment."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“This is the depression side of bipolar disorder, in teenagers. We're testing if Caplyta helps lift the mood\nwithout the weight gain of other pills.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment LUMABIP."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT06372964"
+      }
+    }
+  },
+  "NCT06690398": {
+    "code": "LUMAAUT",
+    "site": "REDLANDS",
+    "title": "Lumateperone Pediatric Autism Irritability",
+    "sponsor": "Intra-Cellular Therapies (J&J;)",
+    "protocol": "ITI-007-601",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL using aripiprazole or risperidone for autism irritability despite massive\nweight gain?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "Risperidone and aripiprazole are the only FDA-approved autism irritability drugs. Both cause metabolic\nsyndrome and prolactin issues in kids.\nA weight-neutral option for autism irritability would transform pediatric autism care."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "5-17 8 wks Flex dose ~300\nAGE DB TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Completes J&J;'s pediatric Caplyta trifecta — SCZ/BP/autism. Autism irritability is a >$1B market."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Same as Studies 19-20."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled 8 weeks. Primary: ABC-Irritability subscale change."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "5-17 y/o DSM-5 autism with severe irritability (ABC-I >=18). The whole point: reduce self-injury, aggression,\nsevere tantrums without weight gain."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Epilepsy (uncontrolled)\n✗ Severe intellectual disability where consent impossible\n✗ Substance use (older adolescents)\n✗ Pregnancy"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "9 y/o autistic boy with head-banging and aggression, 18 lb weight gain on risperidone in 6 months."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: F84.0 + ABC-I documentation OR behavioral documentation of aggression/self-injury. Flag BMI\nincrease."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Risperidone (Risperdal) and aripiprazole (Abilify) are the incumbents. Lumateperone competes on metabolic\nprofile."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: first weight-neutral autism-irritability agent. Risk: efficacy vs aripiprazole gold standard uncertain in\nthis population."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "Autism families travel for trial access. Redlands' geographic reach pulls from a wide catchment."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“This is for kids with autism whose aggression or self-injury is overwhelming. The old pills help but\ncause a lot of weight gain. This new one might not.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment LUMAAUT."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT06690398\nSITE\nTemecula\n✗ active protocols · 2026\n22 ABBV-932 Adjunctive Generalized Anxiety Disorder M4GAD\n23 ABBV-932 Bipolar Depression M4BP\n24 Icalcaprant (ABBV-987) MDD KORMDD\n25 ALTO-300 Adjunctive MDD (Biomarker-Matched) EEG300\n26 SPN-821 MDD MTORCMDD\n27 JNJ-89495120 MOONLIGHT-1 MDD MOONLIGHT\n28 Seltorexant (JNJ-42847922) MDD + Insomnia — Sleep EEG\nObservational\nDREEM3S"
+      }
+    }
+  },
+  "NCT06846320": {
+    "code": "M4GAD",
+    "site": "TEMECULA",
+    "title": "ABBV-932 Adjunctive Generalized Anxiety Disorder",
+    "sponsor": "AbbVie (Cerevel)",
+    "protocol": "M25-099",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL stacking SSRI + buspirone + hydroxyzine + trazodone for\ntreatment-resistant GAD?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "GAD pharmacology is stuck in 1995. Benzodiazepines are problematic; SSRI augmentation is hit-or-miss.\nM4 muscarinic partial agonism may stabilize limbic hyperactivity without sedation."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-65 8 wks QD dosing ~300\nAGE DB TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "AbbVie's 2024 Cerevel acquisition brought this M4 PAM into the portfolio. First anxiety indication."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "M4 muscarinic receptor partial agonist. Differentiates from KarXT by being muscarinic-only and partial\nagonism (softer activation curve)."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled adjunct to SSRI/SNRI. Primary: HAM-A change Week 8."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "GAD adults (DSM-5) on stable SSRI/SNRI >=8 weeks, HAM-A >=18. The whole point: end the\npolypharmacy spiral."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Panic disorder as primary diagnosis\n✗ Bipolar/psychotic disorder\n✗ SUD\n✗ Narrow-angle glaucoma\n✗ Urinary retention"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "42 y/o on sertraline 100 mg x 6 months, still HAM-A 22, PRN benzos creeping up."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: F41.1 + current SSRI/SNRI + GAD-7 >=15."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Buspirone, quetiapine off-label, hydroxyzine, benzos. No muscarinic anxiety drug exists. ABBV-932 is the\nnovel entrant."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: novel mechanism, potentially non-sedating. Risk: cholinergic AEs (nausea, GI), anticholinergic\nburden considerations."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "GAD is the most common anxiety diagnosis in primary care. Offering a novel study converts aggressively."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“Your anxiety isn't fully controlled even with Zoloft. This adds a brand-new medicine that works on a\ndifferent brain system — not another antidepressant, not a Xanax-type.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment M4GAD."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT06846320\n• AbbVie / Cerevel acquisition overview"
+      }
+    }
+  },
+  "NCT07220460": {
+    "code": "M4BP",
+    "site": "TEMECULA",
+    "title": "ABBV-932 Bipolar Depression",
+    "sponsor": "AbbVie (Cerevel)",
+    "protocol": "M25-456",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL telling BP-D patients their only options are Latuda, Vraylar, Caplyta, or\nquetiapine?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "BP-D innovation is slow. A non-D2 option would broaden choice dramatically.\nIf M4 partial agonism treats both mania AND depression phases, it's a true mood stabilizer\n— not just an antipsychotic."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-65 6 wks QD dosing ~400\nAGE DB TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "AbbVie betting M4 PAM = true mood stabilizer. Sibling study to ABBV-932 GAD."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Same M4 PAM as Study 22."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled 6 weeks. Primary: MADRS change."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "BP-I or BP-II, current depressive episode, MADRS >=24. The whole point: test a non-D2, non-antipsychotic\nfor bipolar depression."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Mania/hypomania current\n✗ Rapid cycling\n✗ Psychotic features\n✗ Narrow-angle glaucoma"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "50 y/o BP-II depressed, gained weight on quetiapine, open to something new."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: F31.3x/F31.4/F31.5/F31.81 + currently depressed."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Same as Study 3 (ALTO-100) and Study 20 (Lumateperone pediatric)."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: non-D2 option. Risk: Phase 2, efficacy unproven in BP-D."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "Having BOTH ABBV-932 GAD and BP-D at the same site creates efficient infrastructure sharing."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“This is a depression side of bipolar study, testing a brand-new kind of medicine — not an antipsychotic,\nnot an antidepressant. A new category.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment M4BP."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT07220460"
+      }
+    }
+  },
+  "NCT07276997": {
+    "code": "KORMDD",
+    "site": "TEMECULA",
+    "title": "Icalcaprant (ABBV-987) MDD",
+    "sponsor": "AbbVie",
+    "protocol": "M25-987",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL hoping a KOR antagonist will finally deliver for MDD?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "Kappa opioid antagonism targets anhedonia and stress reactivity — two SSRI-resistant domains.\nAfter navacaprant's KOASTAL-1 failure (Jan 2025) and aticaprant's VENTURA\ndiscontinuation (Mar 2025), icalcaprant is the last KOR bet."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-65 6 wks QD dosing ~195\nAGE DB TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "AbbVie is picking up the KOR-antagonism baton after competitors failed. Better selectivity/dosing profile\nclaimed."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Selective kappa opioid receptor (KOR) antagonist. Blocks dynorphin-driven stress/anhedonia circuits\nwithout mu/delta opioid activity."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled monotherapy or adjunct (check protocol). Primary: MADRS\nchange; key secondary: SHAPS anhedonia."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "MDD adults, MADRS >=26, anhedonia (SHAPS elevated). Patients with up to 2 failed antidepressant trials\nthis episode ARE eligible — only those with >=3 failures are excluded. The whole point: treat the 'nothing\nfeels good' depression that SSRIs miss."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Opioid use disorder\n✗ Chronic pain on opioids\n✗ >=3 failed antidepressant trials this episode (2 failures are OK)\n✗ Bipolar\n✗ Pregnancy"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "35 y/o MDD with prominent anhedonia, has failed 2 prior antidepressants this episode (but not 3+), no\npain/opioid history."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: F32.x/F33.x + PHQ-9 Q1 (anhedonia) high + no opioid rx. Patients with 1-2 prior AD failures qualify;\n3+ failures disqualify."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Field is thin after KOASTAL/VENTURA failures. If icalcaprant hits, AbbVie owns the class."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: mechanism validated partially in smaller trials; anhedonia-focused. Risk: class history is rough;\nefficacy uncertainty."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "Being the site that 'carries' KOR into registration = prestige + referrals. Small N (~195) means every enrolled\npatient matters more to the sponsor."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“This medicine works on the pleasure system of the brain. It's for depression where nothing feels\nenjoyable anymore — not an SSRI. If you've tried one or two antidepressants without success, you\nlikely qualify.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment KORMDD."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT07276997\n• Neumora KOASTAL-1 Jan 2025 failure\n• J&J; aticaprant VENTURA discontinuation Mar 2025"
+      }
+    }
+  },
+  "NCT05922878": {
+    "code": "EEG300",
+    "site": "TEMECULA",
+    "title": "ALTO-300 Adjunctive MDD (Biomarker-Matched)",
+    "sponsor": "Alto Neuroscience",
+    "protocol": "ALTO-300-201",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL throwing augmentation darts and hoping one sticks?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "No clinical biomarker guides adjunct MDD choice. EEG-based stratification could finally change that.\nA biomarker-enriched trial that pre-screens responders could prove the\nprecision-psychiatry thesis."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-65 6 wks QD ~300\nAGE DB DOSING TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Alto's signature approach: EEG biomarker pre-selection for enrollment. ALTO-300 is the lead adjunct MDD\nasset."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Proprietary neuroplasticity/monoaminergic modulator (Alto-specific). EEG biomarker (specific frequency\nsignature) predicts response."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled adjunct to SSRI/SNRI. Enrollment requires qualifying EEG\nbiomarker. Primary: MADRS Week 6."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "MDD adults on SSRI/SNRI >=6 weeks with partial response, MADRS >=22, matching EEG signature. The\nwhole point: biomarker-matched augmentation."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Non-matching EEG\n✗ Bipolar\n✗ Psychosis\n✗ TRD (typically)\n✗ Pregnancy"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "45 y/o MDD on venlafaxine 150 mg x 8 weeks, still PHQ-9 13, intrigued by the EEG screen."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: F32.x/F33.x + SSRI/SNRI >=6 weeks + PHQ-9 >=10. Screen for EEG willingness."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Aripiprazole, brexpiprazole, Caplyta in the adjunct space. Alto-300's precision-medicine angle is the\ndifferentiator."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: biomarker-matched patients responding at high rates; clean drug profile. Risk: EEG screen\ndisqualifies many patients — operational overhead."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "Having in-house EEG capabilities positions IPMG as a precision-psychiatry site."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“We'll do a quick brainwave test. If your brain pattern matches, we add a new medicine to your\nantidepressant — one picked specifically for your brain signature.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment EEG300."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT05922878\n• Alto Neuroscience biomarker approach"
+      }
+    }
+  },
+  "NCT07226661": {
+    "code": "MTORCMDD",
+    "site": "TEMECULA",
+    "title": "SPN-821 MDD",
+    "sponsor": "Supernus Pharmaceuticals",
+    "protocol": "821P203",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL waiting for the mTOR story to finally deliver in depression?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "mTORC1 activation is ketamine's downstream signal. An oral, non-dissociative mTOR path would be huge.\nSPN-820 failed TRD Phase 2b (Feb 2025), but SPN-821 is the next-gen follow-up with\nimproved drug-like properties."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-65 6 wks QD ~300\nAGE DB DOSING TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Supernus lifecycle-continuing the mTOR MDD program despite 820's miss. 821 has refined pharmacology."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "mTORC1 activator / NV-5138 analog. Oral, bypasses ketamine's NMDA route. Drives rapid synaptic\nplasticity."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled 6 weeks monotherapy or adjunct (per protocol). Primary:\nMADRS change."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "MDD adults, moderate-severe (MADRS >=26). The whole point: capture the ketamine-like benefit without\nthe dissociation or controlled-substance status."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ TRD (per protocol)\n✗ Active SUD\n✗ Pregnancy\n✗ Psychotic/bipolar disorder"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "45 y/o MDD intrigued by ketamine buzz but unwilling to sit in a clinic."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: F32.x/F33.x + moderate-severe PHQ-9."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Spravato (esketamine), NRX-101, Auvelity all compete for the 'ketamine-like oral' narrative. SPN-821 wins\nonly if it separates."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: oral, daily dosing, no DEA scheduling expected. Risk: SPN-820's Phase 2b miss is a yellow flag for\nthe mechanism."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "Rapid-acting oral MDD is the holy grail — worth supporting the mechanism broadly."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“This is an oral pill aiming to do what ketamine does for depression — quickly — but without the\ndissociation or in-clinic sitting.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment MTORCMDD."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT07226661\n• Supernus SPN-820 Phase 2b TRD failure Feb 2025"
+      }
+    }
+  },
+  "NCT06785012": {
+    "code": "MOONLIGHT",
+    "site": "TEMECULA",
+    "title": "JNJ-89495120 MOONLIGHT-1 MDD",
+    "sponsor": "Johnson & Johnson",
+    "protocol": "89495120MDD200",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL watching J&J; pipeline bets and wondering which post-Spravato asset will\nmatter?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "J&J; needs Spravato's successor. MDD pipeline diversification.\nMOONLIGHT-1 is J&J;'s newest MDD POC. Mechanism per protocol."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-65 6 wks Per protocol ~300\nAGE DB DOSE TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Phase 2 proof-of-concept for a new J&J; MDD asset."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Proprietary mechanism (JNJ molecule-specific). Novel target per sponsor."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled Phase 2. Primary: MADRS."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "MDD adults, moderate-severe. The whole point: contribute to J&J;'s next-generation MDD portfolio."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Typical MDD Phase 2 exclusions (bipolar, SUD, TRD, pregnancy, suicidality)"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "40 y/o MDD, first-episode, open to research."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: F32.x/F33.x + moderate-severe PHQ-9."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Every Phase 2 MDD asset is a competitor here; differentiation TBD based on Phase 2 readout."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: J&J; sponsorship quality; full late-stage development pathway if it hits. Risk: Phase 2 novelty —\nefficacy unknown."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "J&J; relationship = long-term site value across multiple programs."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“A major drug company is testing a new depression medicine. Phase 2 — still early — but with a strong\nteam behind it.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment MOONLIGHT."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT06785012"
+      }
+    }
+  },
+  "NCT07258485": {
+    "code": "DREEM3S",
+    "site": "TEMECULA",
+    "title": "Seltorexant (JNJ-42847922) MDD + Insomnia — Sleep EEG Observational",
+    "sponsor": "Johnson & Johnson",
+    "protocol": "42847922MDD301",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL writing Ambien refills for depressed patients without measuring sleep\narchitecture?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "MDD-with-insomnia is 70% of depression in primary care. Sleep architecture data is rarely collected.\nAt-home Dreem 3S EEG headband + seltorexant (JNJ-42847922) = MDD sleep measurement\nat scale."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-74 Obs. Dreem 3S ~200\nAGE DESIGN DEVICE TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Seltorexant's Phase 3 MDD3001 read out POSITIVE May 2024. MDD3014 is an observational sleep-EEG\nstudy characterizing real-world sleep architecture on-treatment. Note: this molecule was briefly mis-indexed\nas aticaprant — 42847922 is seltorexant (OX2R antagonist)."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Selective OX2R (orexin 2 receptor) antagonist. Differs from suvorexant/lemborexant (dual DORA). OX2R\nselectivity aims for sleep + mood efficacy."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Observational (non-interventional) cohort. Patients on seltorexant wear Dreem 3S at-home EEG headband.\nMeasures: sleep architecture (N3, REM), mood."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "MDD + insomnia adults, ages 18 through 74 (includes older adults), started on seltorexant per clinical care.\nThe whole point: generate real-world sleep EEG on this novel OX2R."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Primary sleep disorder (OSA, narcolepsy)\n✗ Shift work\n✗ Unable/unwilling to wear Dreem headband\n✗ Pregnancy"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "42 y/o MDD with insomnia, tried trazodone and Ambien, now prescribed seltorexant. Older adults (up to 74)\nare also eligible."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: F32.x/F33.x + G47.00 (insomnia) + seltorexant rx, ages 18-74."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Suvorexant, lemborexant, daridorexant (DORAs). Seltorexant's OX2R selectivity + MDD signal is unique."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: observational = no intervention risk. Risk: device compliance is the main operational challenge."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "Operational readiness for device-based trials = strategic capability. Pays off repeatedly. Extended age range\n(up to 74) broadens the eligible pool significantly."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“You're starting a new sleep medicine for depression. We'd like you to wear a soft headband at home\nfor a few nights so we can see how your sleep is improving. Adults up to age 74 can join.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment DREEM3S."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT07258485\n• J&J; seltorexant MDD3001 positive topline May 2024\n• Dreem Health sleep EEG platform\nSITE\nSan Juan Capistrano\n5 active protocols · 2026\n29 CYB003 APPROACH Phase 3 MDD APPROACH\n30 CYB003 EMBRACE Phase 3 MDD EMBRACE\n31 CYB003 EXTEND Open-Label Extension MDD EXTEND\n32 Solriamfetol in Binge Eating Disorder — ENGAGE ENGAGE\n33 TSND-201 (Methylone) in PTSD — EMPOWER-1 EMPOWER1"
+      }
+    }
+  },
+  "NCT06564818": {
+    "code": "APPROACH",
+    "site": "SAN JUAN CAPISTRANO",
+    "title": "CYB003 APPROACH Phase 3 MDD",
+    "sponsor": "Cybin",
+    "protocol": "CYB003-002",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL hearing patients ask about psilocybin and having nothing real to offer?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "Psychedelic-assisted therapy is at an inflection point. After Lykos MDMA rejection (Aug 2024), a clean\npsilocybin Phase 3 would lead the category.\nCYB003 Phase 2 showed -14 MADRS vs placebo at 3 weeks, Cohen's d >2 — unprecedented\neffect size."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-65 6 wks 12/16 mg ~220\nAGE PRIMARY TWO DOSES TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Cybin's pivotal Phase 3 registrational trial. Deuterated psilocin analog = more predictable PK than natural\npsilocybin."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Deuterated psilocybin analog. 5-HT2A agonist. Two-dose paradigm with psychological support\n(non-directive)."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled Phase 3 with 2 dosing sessions (weeks 1 and 3). Primary:\nMADRS change at Week 6."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "MDD adults, moderate-severe (MADRS >=26), willing to undergo psychedelic-assisted therapy. The whole\npoint: deliver the first approved psychedelic for MDD."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Personal/family history of psychosis or bipolar I\n✗ Active SUD\n✗ Cardiovascular instability\n✗ Pregnancy\n✗ Recent psychedelic use"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "38 y/o MDD, SSRI-failed, curious about psychedelics, no personal/family psychosis history."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: F32.x/F33.x + moderate-severe + no F20.x/F31.x family history documentation."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Compass Pathways COMP360 psilocybin is the other Phase 3 psychedelic program. CYB003's deuterated\nPK is the differentiator."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: potentially transformative effect size, rapid/durable response. Risk: intensive dosing day staffing,\npsychological reactions, blinding integrity."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "Psychedelic infrastructure (dosing rooms, monitors, music systems) is a strategic asset that supports\nmultiple programs."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“This is a guided psilocybin therapy for depression. Two dosing days with a therapist, several weeks\napart. Phase 3 — the last step before FDA review.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment APPROACH."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT06564818\n• Cybin APPROACH program overview"
+      }
+    }
+  },
+  "NCT06793397": {
+    "code": "EMBRACE",
+    "site": "SAN JUAN CAPISTRANO",
+    "title": "CYB003 EMBRACE Phase 3 MDD",
+    "sponsor": "Cybin",
+    "protocol": "CYB003-003",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL needing a second confirmatory psychedelic Phase 3 to complete the NDA\npackage?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "Regulatory precedent requires two Phase 3 trials. EMBRACE is APPROACH's mandatory sister — but with\na distinct, larger 3-arm design.\nTwo positive Phase 3s on CYB003 = the most credible psychedelic NDA in history."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-65 3 arms 8/16 mg ~330\nAGE 1:1:1 TWO DOSES TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Parallel confirmatory Phase 3 — LARGER than APPROACH and with a DIFFERENT dose-ranging design.\nEvaluates two CYB003 doses (8 mg and 16 mg) against placebo in a 3-arm study."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Same as Study 29."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled, 3-arm Phase 3. Approximately 330 adults randomized 1:1:1\nto: (1) CYB003 8 mg, (2) CYB003 16 mg, or (3) placebo. Two dosing sessions (weeks 1 and 3). Primary:\nMADRS change at Week 6."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "Same eligibility as Study 29 (MDD adults, moderate-severe, willing to undergo psychedelic-assisted therapy,\nno personal/family psychosis history). The whole point: confirm MDD efficacy across two independent\nPhase 3 cohorts AND characterize the 8 mg dose."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Same as Study 29"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "Same as Study 29."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: same as Study 29."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Same as Study 29."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: same as Study 29, PLUS the 8 mg arm may establish a lower-intensity dosing option if efficacious.\nRisk: dual-program staffing load; 3-arm design increases placebo randomization odds (1/3 vs 1/2)."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "Running APPROACH + EMBRACE simultaneously at San Juan Capistrano = operational scale advantage.\nEMBRACE's larger N (~330) and 8 mg dose arm make it the more strategically important of the two."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“Same as APPROACH — second confirmatory study so the FDA has two sets of data. This one is\nbigger and tests two different doses of the medicine (plus a placebo).”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment EMBRACE."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT06793397\n• Cybin EMBRACE Phase 3 program"
+      }
+    }
+  },
+  "NCT06605105": {
+    "code": "EXTEND",
+    "site": "SAN JUAN CAPISTRANO",
+    "title": "CYB003 EXTEND Open-Label Extension MDD",
+    "sponsor": "Cybin",
+    "protocol": "CYB003-004",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL wondering if one or two psilocybin doses can hold for a year?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "Durability is the key question for psychedelic-assisted therapy. Phase 2 suggested 12-month\nresponse/remission in dose-dependent way.\nPhase 2 CYB003: 79% remission at 6 weeks (12 mg); 100% response and 71% remission at\n12 months on 16 mg x 2. If Phase 3 confirms, this is unprecedented."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-65 52+ wks Optional\nredose ~400\nAGE OLE TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Rollover OLE from APPROACH and EMBRACE. Supports long-term efficacy/safety package."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Same as Study 29."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Open-label extension with optional re-dosing if relapse. Primary: durability of response, safety."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "Phase 3 completers. The whole point: track durability and characterize re-dosing."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Emergent psychosis/mania\n✗ New substance use\n✗ Pregnancy"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "Phase 3 completer with meaningful response wanting continued access."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: cross-reference Phase 3 participants."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "No psilocybin OLE of this scale exists elsewhere. First-in-class."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: characterizes the real-world durability story. Risk: relapse-and-rescue logistics."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "OLE retention = predictable long-term revenue + patient advocacy."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“If the Phase 3 study helped, this is the continuation — we follow you for a year and re-dose if\ndepression comes back.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment EXTEND."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT06605105\n• Cybin CYB003 Phase 2 12-month durability data"
+      }
+    }
+  },
+  "NCT06413433": {
+    "code": "ENGAGE",
+    "site": "SAN JUAN CAPISTRANO",
+    "title": "Solriamfetol in Binge Eating Disorder — ENGAGE",
+    "sponsor": "Axsome Therapeutics",
+    "protocol": "SOL-BED-301",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL telling BED patients their only medication option is a Schedule II\namphetamine?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "BED is the most common eating disorder in the US — ~3 million adults. Lisdexamfetamine (Vyvanse) is the\nONLY FDA-approved drug, and its Schedule II status blocks access for countless patients with anxiety, SUD\nhistory, or cardiovascular concerns.\nA Schedule IV, non-amphetamine DNRI+TAAR1 agonist that treats BED without\ncontrolled-substance burden would democratize pharmacotherapy for a fundamentally\nunder-treated disorder."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": "18-55 12 wks 150/300 mg ~450\nAGE DB DOSE TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Axsome is leveraging Sunosi's existing safety/PK database to enter the $1B+ BED market. Schedule IV\nstatus, once-daily dosing, and cardiovascular profile matured in narcolepsy/OSA trials position solriamfetol\nas a first-line alternative to Vyvanse."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Dopamine-norepinephrine reuptake inhibitor (DNRI) + trace amine-associated receptor 1 (TAAR1) agonist.\nModulates mesolimbic reward circuits implicated in binge episodes without the Schedule II amphetamine\nprofile. Once-daily oral."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled, fixed-dose Phase 3. Three arms 1:1:1 — placebo,\nsolriamfetol 150 mg, solriamfetol 300 mg. 12 weeks double-blind + optional open-label extension. Primary:\nchange in binge eating days per week at Week 12 (DSM-5 criteria). Key secondary: CGI-S-BED, remission\nrate, weight change, Yale-Brown Obsessive Compulsive Scale modified for BED (Y-BOCS-BE)."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "Adults 18-55 with DSM-5 BED, >=3 binge days per week x 14 days baseline, stable weight, medically\ncleared cardiovascular status. The whole point: give BED patients a legitimate non-Schedule-II option and\nprove solriamfetol's second indication."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Anorexia nervosa or bulimia nervosa past 5 years\n✗ Current purging behavior\n✗ Substance use disorder past 6 months\n✗ Uncontrolled hypertension (systolic >140, diastolic >90)\n✗ MAOI use past 14 days\n✗ Pregnancy/nursing\n✗ Bariatric surgery past 2 years\n✗ Concurrent stimulant or weight-loss medication"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "32 y/o female with 2 years of BED, 4-5 binge days/week, anxious about Vyvanse due to family history of\nstimulant misuse; medically healthy."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: ICD-10 F50.81 (BED) OR F50.9 eating disorder NOS + body-weight complaints or 'binge'\ndocumentation. Cross-reference therapist referrals; flag patients declining Vyvanse for Schedule-II reasons."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Lisdexamfetamine (Vyvanse, Takeda) is the only FDA-approved BED drug — Schedule II. Off-label: SSRIs,\ntopiramate, naltrexone-bupropion. Solriamfetol's Schedule IV status + proven cardiovascular database is the\nclear strategic differentiator."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: first non-amphetamine approved BED option; leverages mature safety data from Sunosi\nnarcolepsy/OSA indication; likely once-daily, oral, without DEA Schedule II constraints. Risk: BP/HR\nelevation (class effect), insomnia if dosed late, headache, nausea — manageable with dose titration."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "BED is underdiagnosed — estimated only 3% of affected adults receive a formal diagnosis. A large\npsychiatric group with integrated nutrition and therapy referrals can systematically screen with Y-BOCS-BE\nand Binge Eating Scale at intake, creating a dedicated BED recruitment pipeline that competes with\nacademic eating-disorder centers."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“Binge eating disorder has only one approved medicine, and it's a controlled substance some people\ncan't take. We're studying a different medicine — already approved for sleepiness — that works without\nthe controlled-substance rules. It's once a day.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment ENGAGE."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT06413433\n• Axsome Sunosi clinical program\n• Vyvanse BED FDA label"
+      }
+    }
+  },
+  "NCT07456696": {
+    "code": "EMPOWER1",
+    "site": "SAN JUAN CAPISTRANO",
+    "title": "TSND-201 (Methylone) in PTSD — EMPOWER-1",
+    "sponsor": "Transcend Therapeutics",
+    "protocol": "TSND201-PTSD-3",
+    "sections": {
+      "the_hook": {
+        "num": 1,
+        "title": "THE HOOK",
+        "body": "STILL watching SSRI-only PTSD care leave combat vets and assault survivors\nwith lifelong flashbacks?"
+      },
+      "the_unmet_need": {
+        "num": 2,
+        "title": "THE UNMET NEED",
+        "body": "PTSD has only two FDA-approved drugs — sertraline and paroxetine — both from the 1990s with ~60%\nnon-response. After Lykos Therapeutics' MDMA-assisted therapy NDA was rejected August 2024, the field\nlost its frontrunner. TSND-201 is the first post-Lykos neuroplastogen in registrational PTSD development.\nA rapid-acting, non-hallucinogenic neuroplastogen that drives MDMA-like empathogenic\nand neuroplastic effects in a controlled 4-dose regimen could re-open the\npsychedelic-adjacent PTSD paradigm the field thought was closed."
+      },
+      "at_a_glance": {
+        "num": 3,
+        "title": "AT A GLANCE",
+        "body": ">=18 12 wks 4 weekly doses ~300\nAGE TOTAL TARGET N"
+      },
+      "why_this_study_exists": {
+        "num": 4,
+        "title": "WHY THIS STUDY EXISTS",
+        "body": "Phase 2 IMPACT-1 demonstrated -9.64 CAPS-5 change vs placebo at Day 64 (p=0.01), NNT=3 for\nresponse and NNT=5 for remission (JAMA Psychiatry, February 2026). FDA granted Breakthrough Therapy\ndesignation July 2025. EMPOWER-1 is the pivotal Phase 3 confirmatory trial."
+      },
+      "mechanism_of_action": {
+        "num": 5,
+        "title": "MECHANISM OF ACTION",
+        "body": "Methylone (3,4-methylenedioxy-N-methylcathinone) — a synthetic cathinone and 'neuroplastogen.'\nMonoamine (5-HT, DA, NE) releaser with empathogenic effects similar to MDMA but shorter-acting and\nnon-hallucinogenic. Drives rapid synaptic plasticity and memory reconsolidation in trauma circuits."
+      },
+      "study_design_deep_dive": {
+        "num": 6,
+        "title": "STUDY DESIGN DEEP DIVE",
+        "body": "Randomized, double-blind, placebo-controlled Phase 3. ~300 patients, weekly dosing x 4 weeks + 8 weeks\nfollow-up = 12 weeks total. Primary: CAPS-5 change from baseline at Week 12. Key secondary: PCL-5,\nCGI-I, remission rate, functional outcomes."
+      },
+      "recruit_if_your_patient": {
+        "num": 7,
+        "title": "RECRUIT IF YOUR PATIENT…",
+        "body": "Adults >=18 with DSM-5 PTSD, CAPS-5 >=28 at screening, symptoms >=3 months, medically stable, willing\nto undergo 4 dosing sessions with therapist support. The whole point: deliver the first new-mechanism PTSD\ndrug since 2001 and restore confidence in the psychedelic-adjacent field after Lykos."
+      },
+      "stop_exclude_if": {
+        "num": 8,
+        "title": "STOP / EXCLUDE IF…",
+        "body": "✗ Personal/1st-degree family history of psychosis, schizophrenia, or bipolar I\n✗ Active SUD (past 6 months, except nicotine)\n✗ Serious cardiovascular disease or uncontrolled hypertension\n✗ Active suicidal plan/intent (C-SSRS 4-5)\n✗ Pregnancy/nursing\n✗ Concurrent MAOI or serotonergic drug requiring washout\n✗ Recent psychedelic use"
+      },
+      "ideal_patient_profile": {
+        "num": 9,
+        "title": "IDEAL PATIENT PROFILE",
+        "body": "34 y/o combat veteran with 8 years of treatment-resistant PTSD, failed sertraline + prazosin +\ntrauma-focused CBT, no family psychosis history, medically healthy, open to dosing-day psychological\nsupport."
+      },
+      "how_ipmg_finds_these_patients_ecw_icd_10": {
+        "num": 10,
+        "title": "HOW IPMG FINDS THESE PATIENTS (ECW + ICD-10)",
+        "body": "eCW: ICD-10 F43.10 (PTSD) + PCL-5 >=33 most recent + on/off SSRI + no F20.x/F31.x/F25.x. Flag VA\nreferrals and cases where prazosin or propranolol were prescribed for nightmares."
+      },
+      "competitive_landscape": {
+        "num": 11,
+        "title": "COMPETITIVE LANDSCAPE",
+        "body": "Sertraline (Zoloft) and paroxetine (Paxil) — only approved drugs, both 1990s. MDMA-assisted therapy\n(Lykos) NDA rejected August 2024. BNC210 (Bionomics), brexpiprazole-sertraline combo, and CYB004\n(Cybin, DMT) are other late-stage PTSD candidates. TSND-201's non-hallucinogenic profile + Breakthrough\ndesignation + published Phase 2 = category leader."
+      },
+      "risk_benefit_logic": {
+        "num": 12,
+        "title": "RISK / BENEFIT LOGIC",
+        "body": "Benefit: first novel-mechanism PTSD drug in 25 years, category-defining Phase 2 data, NNT=3 response,\nFDA Breakthrough status, clinician-feasible dosing (no hallucinations). Risk: class-effect BP/HR elevation,\ntransient anxiety at dosing, potential for abuse liability assessment by DEA, operational staffing for 4\nmonitored dosing days."
+      },
+      "why_this_matters_for_a_large_psychiatric_group": {
+        "num": 13,
+        "title": "WHY THIS MATTERS FOR A LARGE PSYCHIATRIC GROUP",
+        "body": "PTSD is endemic in IPMG's catchment — large military/veteran population in Southern California, plus\nroutine trauma exposure in first responders and assault survivors. A site offering the FIRST new-mechanism\nPTSD trial since the SSRI era will become the regional referral center and position IPMG as the\ncategory-defining PTSD research group."
+      },
+      "provider_talk_track_6th_7th_grade": {
+        "num": 14,
+        "title": "PROVIDER TALK TRACK (6TH–7TH GRADE)",
+        "body": "“PTSD has had the same two medicines for 25 years. This is a brand-new kind — not an SSRI, not a\nhallucinogen, but a medicine that helps the brain rewire the trauma memory. Four dosing days with a\ntherapist. Phase 3 — the last step before FDA approval.”"
+      },
+      "3_step_recruit_move": {
+        "num": 15,
+        "title": "3-STEP RECRUIT MOVE",
+        "body": "TARGET. Run the eCW ICD-10 query above; pull the last 3 months of matching visits.\nFLAG. Mark eligible charts with a sticky note or task for the PMHNP team. Tag with the comment code.\nCALL. IPMG Research at (909) 955-5865 and reference comment EMPOWER1."
+      },
+      "sources": {
+        "num": 16,
+        "title": "SOURCES",
+        "body": "• ClinicalTrials.gov NCT07456696\n• Transcend Therapeutics pipeline\n• FDA Breakthrough Therapy designation press July 2025\n• Lykos MDMA NDA rejection Aug 2024 (FDA CRL)\n• JAMA Psychiatry IMPACT-1 publication Feb 2026\nMaster Comment-Code Index\nAlphabetical, all 33 protocols\nCODE # TITLE NCT SITE\nADEPT4 09 KarXT ADEPT-4 in Alzheimer's Psychosis NCT06585787 Chino\nADEPT5 10 KarXT + KarX-EC ADEPT-5 in Alzheimer's\nPsychosis\nNCT06947941 Chino\nALTOBIP 03 ALTO-100 in Bipolar Depression NCT06656416 Chino\nAPPROACH 29 CYB003 APPROACH Phase 3 MDD NCT06564818 San Juan\nCapistrano\nBALSAM 08 KarXT BALSAM-4 in Bipolar I Mania NCT07140913 Chino\nBHVLTS 05 BHV-7000 in MDD — Long-Term Safety NCT06423781 Chino\nBHVMONO 06 BHV-7000 MDD Monotherapy NCT06419608 Chino\nBUOY1 16 SPT-300 (GlyphAllo) MDD with Anxious Distress\n— BUOY-1\nNCT07065240 Chino\nBUOYOLE 17 SPT-300 MDD Open-Label Extension NCT07161700 Chino\nCALM45 11 BMS-986368 for Agitation in Alzheimer's NCT06808984 Chino\nCLARITY 04 Solriamfetol in MDD + Excessive Daytime\nSleepiness (CLARITY)\nNCT07484217 Chino\nCOBENTEE\nN\n07 KarXT in Adolescent Schizophrenia NCT07288567 Chino\nDREEM3S 28 Seltorexant (JNJ-42847922) MDD + Insomnia —\nSleep EEG Observational\nNCT07258485 Temecula\nEEG300 25 ALTO-300 Adjunctive MDD (Biomarker-Matched) NCT05922878 Temecula\nEMBRACE 30 CYB003 EMBRACE Phase 3 MDD NCT06793397 San Juan\nCapistrano\nEMPOWER1 33 TSND-201 (Methylone) in PTSD — EMPOWER-1 NCT07456696 San Juan\nCapistrano\nENGAGE 32 Solriamfetol in Binge Eating Disorder — ENGAGE NCT06413433 San Juan\nCapistrano\nEXTEND 31 CYB003 EXTEND Open-Label Extension MDD NCT06605105 San Juan\nCapistrano\nCODE # TITLE NCT SITE\nKORMDD 24 Icalcaprant (ABBV-987) MDD NCT07276997 Temecula\nLUMAAUT 21 Lumateperone Pediatric Autism Irritability NCT06690398 Redlands\nLUMABIP 20 Lumateperone Pediatric Bipolar Depression NCT06372964 Redlands\nLUMAPED 19 Lumateperone Pediatric SCZ / Bipolar / Autism\nSafety\nNCT06229210 Redlands\nM4BP 23 ABBV-932 Bipolar Depression NCT07220460 Temecula\nM4GAD 22 ABBV-932 Adjunctive Generalized Anxiety\nDisorder\nNCT06846320 Temecula\nM4OLE 14 NBI-1117568 Schizophrenia Open-Label\nExtension\nNCT07114874 Chino\nMOONLIGH\nT\n27 JNJ-89495120 MOONLIGHT-1 MDD NCT06785012 Temecula\nMTORCMDD 26 SPN-821 MDD NCT07226661 Temecula\nNEXTVMAT 13 NBI-1065890 in Tardive Dyskinesia NCT07365462 Chino\nNORLIGHT 02 ACP-211 in MDD (NORLIGHT) NCT07284667 Chino\nRAPBP 18 RAP-219 in Bipolar I NCT07046494 Chino\nRESIDUALT\nD\n15 Valbenazine TD4027 Residual TD NCT07105111 Chino\nSAVITRI3 12 NBI-1065845 (Osavampator) Adjunctive MDD NCT06963021 Chino\nYOUTHLIFT 01 Cariprazine (Vraylar) in Pediatric Bipolar I\nDepression\nNCT04777357 Chino\nICD-10 Cross-Reference Index\nFind a study by diagnosis code\nICD-10 DIAGNOSIS STUDIES\nF32.x / F33.x Major Depressive Disorder 02 (NORLIGHT), 04 (CLARITY), 05 (BHVLTS), 06\n(BHVMONO), 12 (SAVITRI3), 16 (BUOY1), 17\n(BUOYOLE), 24 (KORMDD), 25 (EEG300), 26\n(MTORCMDD), 27 (MOONLIGHT), 28 (DREEM3S),\n29 (APPROACH), 30 (EMBRACE), 31 (EXTEND)\nF31.x Bipolar I / II disorder 01 (YOUTHLIFT pediatric BP-D), 03 (ALTOBIP), 08\n(BALSAM adjunctive mania), 18 (RAPBP), 20\n(LUMABIP pediatric), 23 (M4BP)\nF20.x Schizophrenia 07 (COBENTEEN adolescent), 14 (M4OLE), 19\n(LUMAPED pediatric)\nG30.x Alzheimer's disease (+ F06.0 /\nF06.2 psychotic)\n09 (ADEPT4), 10 (ADEPT5), 11 (CALM45 agitation)\nF43.10 Post-Traumatic Stress\nDisorder\n33 (EMPOWER1)\nF41.1 Generalized Anxiety Disorder 22 (M4GAD)\nF50.81 Binge Eating Disorder 32 (ENGAGE)\nG24.01 Tardive Dyskinesia 13 (NEXTVMAT), 15 (RESIDUALTD)\nF84.0 Autism Spectrum Disorder\n(irritability)\n19 (LUMAPED), 21 (LUMAAUT)\nG47.00 / G47.10 Insomnia / Hypersomnia with\nMDD\n04 (CLARITY), 28 (DREEM3S)"
+      }
+    }
+  }
+}
